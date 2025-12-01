@@ -9,6 +9,7 @@ author: Ueberphilosophy
 # Geschichte
 ## Alte Geschichte
 ### Grundkurs alte Geschichte Uni Oldenburg
+[[Uni Oldenburg Grundkurs alte Geschichte|Notizen zur Vorlesung]]
 - [Eine Einführung](https://www.youtube.com/watch?v=WYlxpNClxPI&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP)
 - [Der alte Orient: Vom Neolithikum bis zur Eisenzeit](https://www.youtube.com/watch?v=mI8QwUjx6Y4&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=3)
 - [Das frühe Griechenland](https://www.youtube.com/watch?v=L5owl4AfN7U&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=5)

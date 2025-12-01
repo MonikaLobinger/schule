@@ -11,6 +11,9 @@ author: Ueberphilosophy
 
 ![[Wahrheit_2025_11_28.png]]
 
+
+
 > Eine „Position“ kann nicht „wahr“ sein, nur eine Behauptung. Ein Argument kann schlüssig sein
 
 ![[Wahrheit_2025_11_28_2.png]]
+

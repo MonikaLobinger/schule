@@ -6,7 +6,7 @@ author: Ueberphilosophy
 ---
 
 # Geburten
-Wird vom verwendeten Plugin  `Webpage HTML Export` leider nicht ansehnlich exportiert. Literaten/Künstler/Musiker "green", Wissenschaftler "grey", Politiker/Könige/Feldherren "red"
+Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) leider nicht ansehnlich exportiert. Literaten/Künstler/Musiker "green", Wissenschaftler "grey", Politiker/Könige/Feldherren "red"
 
 > [!timeline|green] ~-850 
 > [[Homer Quellen|Homer]] ^Homer

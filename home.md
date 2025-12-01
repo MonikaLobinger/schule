@@ -5,21 +5,31 @@ publish: true
 author: Ueberphilosophy
 ---
 # Startseite
-Sammlung von Online Materialien zum Lernen. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen. Die anderen Ordner enthalten eigene Notizen oder selbst erstellte Definitionen.
+Sammlung von Online [[Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen. Die anderen Ordner enthalten eigene Texte oder selbst erstellte Definitionen. Diese werden im Folgenden nicht beschrieben.
+
+ Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol ist leider nicht sichtbar. Beim  Klick mit der Maus öffnen alle Links, auch externe, leider im selben Fenster. Resourcen werden nicht so referenziert, dass sie auf github.io gefunden werden; Bilder sind allerdings nicht wesentlich für dieses Projekt, im Ordner Materialen werden keine verwendet. Callouts sind nicht klappbar. ^[Das Plugin Webpage HTML Export hat einige Nachteile; es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird ]
 
 ## Inhalt
-Grobe [[timeline|Zeitleiste]], nur Geburtsjahre
+Es wird unterschieden zwischen Materialien von Anderen, Lernmaterialen genannt und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline]]  zu finden. Beide Auflistungen sind da  manuell erstellt möglicherweise nicht aktuell. Über die Seitenleiste links kann man alle Seiten finden.
+
+
+- Grobe [[timeline|Zeitleiste]]  mit Links zu Quellenseiten (verknüpft über den Autorennamen)
+- [[Materialien|Katalog]] mit Links zu thematischen Sammlungen von  Links zu Lernmaterialen
 ### Allgemeine Quellen
 - [Gottwein](https://www.gottwein.de/7)
 - [Perseus](https://www.perseus.tufts.edu/hopper/)
 - [librivox](https://librivox.org/)
 - [Internet Archive](https://archive.org/)
+- [Annas Archive](https://annas-archive.org/)
+- [Google Books](https://books.google.de/)
+- [jstor](https://www.jstor.org/)
+- [biblotheca augusthana](https://www.hs-augsburg.de/~harsch/augustana.html)
 - 
-## HowTo
+## Technisches über diese Site
 ### Einstellungen
-Erstellt mit Obsidian, exportiert mit dem Plugin `Webpage HTML Export`.Verzeichnis für Daily Notes `Diary`. Strict Line Breaks, Show line numbers, Source-Editing Mode, Properties in Document hidden, vim-key bindings, Nicht Show Inline Title, Attachments nach `_/_resources` , template folder location  `_/_vorlagen`.  Plugin `Templater` erstellt neue Notes.  Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md) als `timeline.css`. Sonst Defaults, außer Theme `Willemstad`, angepasst mit dem Plugin `Style Settings`, das Einstellungen in `data.json` speichert. Der Export angepasst mit eigener Datei  `willemstad_to_html.css`. Zeitleiste verlangsamt den Export und wird nicht korrekt exportiert.
+Erstellt mit [Obsidian](https://obsidian.md/), exportiert mit dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export). Verzeichnis für Daily Notes `Werk/Diary`. Strict Line Breaks, Show line numbers, Source-Editing Mode, Properties in Document hidden, vim-key bindings, Nicht Show Inline Title, Attachments nach `_/_resources` , template folder location  `_/_vorlagen`.  Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes.  Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md) als `timeline.css`. Sonst Defaults, außer Theme `Willemstad`, angepasst mit dem Plugin [Style Settings](https://github.com/mgmeyers/obsidian-style-settings), das Einstellungen in `data.json` speichert. Der Export angepasst mit eigener Datei  `willemstad_to_html.css`. Zeitleiste verlangsamt den Export und wird nicht korrekt exportiert.
 
-Script `foty.js` nach `_/_scripts`, Template `foty_Vorlage.md` nach `_/_vorlagen`. Im Templater Template folder locaten auf `_/_vorlagen`, automatic jump to cursor, Trigger Templater on new file creation, Kein enable folder templates, file regex template `_/_vorlagen/foty_Vorlage.md`, Script files folder location `_/_scripts`
+Eigenes Script `foty.js` nach `_/_scripts`, Template `foty_Vorlage.md` nach `_/_vorlagen`. Im Templater Template folder location auf `_/_vorlagen`, automatic jump to cursor, Trigger Templater on new file creation, Kein enable folder templates, file regex template `_/_vorlagen/foty_Vorlage.md`, Script files folder location `_/_scripts`
 ### Formatierungen
 #### Basics
 siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
@@ -53,10 +63,10 @@ siehe Obsidian [# Advanced Formatting Syntax](https://help.obsidian.md/advanced-
 - Callouts
 - Tags #tag und Nested Tags #nested/tag - Groß/Kleinschreibung ist für Tags egal
 
-> [!quote]- Das ist ein Callout Block
-> Durch das Minuszeichen ist er ursprünglich gefaltet. Läßt man das weg, wird es direkt angezeigt.
+> [!quote]+ Das ist ein Callout Block
+> Durch ein Minuszeichen wäre er ursprünglich gefaltet. Sonst wird er direkt angezeigt.
 >
-> Es gibt folgende Callouts: Note, Abstract, Info, Todo, Tip, Success, Question, Warning, Failure, Danger, Bug, Example, Quote - alle Kleingeschrieben, aber groß angezeigt, falls der Titel nicht überschrieben wird
+> Es gibt folgende Callouts: Note, Abstract, Info, Todo, Tip, Success, Question, Warning, Failure, Danger, Bug, Example, Quote - alle kleingeschrieben, aber groß angezeigt, falls der Titel nicht überschrieben wird
 
 
 
