@@ -1,0 +1,22 @@
+---
+cssclass: note
+date_created: 2025-11-29
+publish: true
+tags: Xenophon
+author: Ueberphilosophy
+---
+
+
+
+# Xenophon
+[[timeline#^Xenophon]]
+
+## Memorabilien
+- [Internet Archive](https://archive.org/details/xenophon-memorabilia-bonnette-txt/page/n1/mode/2up) - Englisch, digitalisiertes Buch
+## Symposion
+- [Internet Archive](https://archive.org/details/xenophon-symposium/mode/2up) - Englisch, Teil eines digitalisierten Buchs
+## Apologie
+- [librivox](https://librivox.org/vertheidigung-des-socrates-by-xenophon/) - audio, deutsch
+## Oikonomikos
+- [digital slub dresden](https://digital.slub-dresden.de/werkansicht/dlf/105858/1) - digitalisiertes Buch, altdeutsche Schrift, nur online zu lesen
+- 

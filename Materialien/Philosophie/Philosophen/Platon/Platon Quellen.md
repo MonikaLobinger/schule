@@ -1,0 +1,16 @@
+---
+cssclass: note
+date_created: 2025-11-28
+publish: true
+author: Ueberphilosophy
+tags: Platon
+---
+
+# Platon
+[[timeline#^Platon]]
+
+- [Opera Platonis](http://opera-platonis.de/Platon_Werke.pdf) - Alle Werke, deutsch pdf, Links zu griechisch/lateinisch online
+
+ ## Protagora
+ - [Susanne Albers](https://www.susannealbers.de/03philosophie-literatur-Platon09pr.html) - deutsch, eingebettetes pdf, plus song
+ 
