@@ -39,8 +39,55 @@ Periodisierung der alten Geschichte:
 - 510 bis 27 v. Chr. römische Republik
 - 27 v. Chr. bis 284 n. Chr. beginnend mit Augustus die römische Kaiserzeit
 - 284 bis 550 die römische Spätantike
+##  Der alte Orient: Vom Neolithikum bis zur Eisenzeit
+[Der alte Orient: Vom Neolithikum bis zur Eisenzeit](https://www.youtube.com/watch?v=mI8QwUjx6Y4&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=3)
+
+Das geht über 10 000 Jahre
+### Vom Saatkorn zur Großstadt
+#### Neolithisierung
+Heute nennt man das nicht mehr so dramatisch Neolithisierung, anstatt neolithische Revolution. Diese hat nahezu überall auf der Welt stattgefunden, aber eben als erstes in der Levante, dem Flachland Nordsyriens und dem Bergland der südöstlichen Türkei. 
+
+Zuerst beginnt die Sesshaftigkeit und es wird nur noch im Umkreis gesammelt. Dies in der Levante ab 12000 v. Chr. 
+
+Ab ca 10700 tritt eine Klimaverschlechterung ein, es wird feuchter und kälter. Da kann man nicht sammeln und seßhaft bleiben. Man baut Nutzpflanzen an. Man züchtet aus Saatgut von Gräsern die ersten Getreidearten. 
+
+Man geht von der Jagd über zur Tierzucht. Man domestiert Schweine, Hühner, Schafe, Ziegen.
+
+Der Ursprung der Grassamen ist im Hochland von Anatolien bis hin zum südwestlichen Iran, das Tauros Sagros Massiv. Diese Samen werden teilweise hunderte von Kilometern weiter im nördlichen Syrien bis hin zum heutigen Jordanien ausgesät und systematisch angebaut. 
+
+Eine Getreidesorte ist Einkorn, ein Vorläufer unseres Weizens. Später wird daraus vor allem im nahen Osten Gerste gezüchtet. Dieser Prozess dauert Jahrtausende. 
+
+Ca 7000 vor Christus ist im Gebiet vom heutigen Israel über Syrien, dem Libanon, dem Gebirgsrand Anatoliens, die Flußtäler von Euphrat und Tigris bis in den heutigen Irak diese Wirtschaftsweise etabliert. Dieser Raum hat die Form eines Halbmonds und wird darum der fruchtbare Halbmond genannt. 
+
+Es gab auch weitere Innovationen im Neolithikum:
+- Großsiedlungen mit mehreren 1000 Bewohnern, ab ca 8000 v. Chr Jericho Telles Sultan und Catalhöyük. Diese Menschen betreiben immer noch Ackerbau. Deswegen werden diese Orte nicht Städte genannt. 
+- Keramik ab 6800 v. Chr. . Die Gefäße zur Lagerung, zum Transport, zum Kochen müssen nicht mehr aus Stein hergestellt werden. 
+- Metallnutzung ab 5500 v.Chr. zuerst bearbeitet man natürlich vorkommenes Kupfer, deutlich später dann Metallverarbeitung (Metallurgie). Die Zeit der Kupferbearbeitung nennt man Chalkolithikum. Da geht das Neolithikum in die Metallzeit über. 
+
+Dieser Prozess des Neolithikums breitet sich über Jahrtausende aus, die Ägäis wurde z.B. bis 6400 v. Chr erreicht. Bis 5000 v. Chr hat man überall in Europa neolithische Siedlungen. So bleibt das mehr oder weniger bis 3500 v. Chr. 
+#### Die urbane "Revolution"
+Städte, Metallverarbeitung, Schriftlichkeit, "Staat"
+##### Stadt
+- Viele Menschen auf engem Raum
+- Funktionale Differenzierung (Handwerker, Priester, Schreiber, Soldaten)
+- Räumliche Struktur, z.B. Viertel für Handwerker, Administration, Handel, Kult
+- Verkehrsnetz
+
+Im intensiven Bewässerungsfeldbau produzieren die Landwirte mehr als sie brauchen. Die Bewässerung muss geplant werden, die Kanäle und auch das Verhindern von Versalzung. So entwickelt sich Herrschaft. 
+
+Um 3500, 3000 v. Chr. sammeln die Tempel die Überproduktion der Landwirte ein um die Stadtbevölkerung zu ernähren. Es gibt keinen Markt. Was wir heute als Tempel bezeichnen war damals das Haus eines Gottes. Der Eigentümer war ein Gott. Es gibt Leute die arbeiten für den Tempel. Und durch diese Umverteilung/Redistribution wurden diese ernährt. 
+
+Ein paar hundert Jahre später gibt es große Häuser, die nicht von Göttern verwaltet werden sondern denen ein Mensch vorsteht, die die Redistribution vornehmen. Wir nennen diese Häuser Palast, aber die Leute in Mesopothanien nannten das ein großes Haus. 
+
+Die große Institution (der Tempel/der Palast) führt über die Ein- und Ausgänge der Güter Buch. Sie lagert sie in Magazinen. 
+
+##### Die Uruk Expansion
+ca 3600 v. Chr gibt es die Städte Uruk, Umma, Ur, Eridur, Nippur. Dieses Modell der Stadt expandiert in einem großen Raum - nördliches Syrien, Südtürkei, westlicher Iran. Diese neuen Städte sind in geographisch völlig anderen Gegenden, die betreiben keinen Bewässerungslandbau, sondern können Regenfeldbau betreiben. Die Entwicklung von Städten ist dort keine conditio sine qua non um Menschen im großen Stil ernähren zu können, wie wir ja schon an den großen Siedlungen gesehen haben. Das Modell Stadt wird dennoch exportiert. 
+
+### Von der Stadt zum Großreich
+Ab 30:30
+
 ## Verbleibend
-- [Der alte Orient: Vom Neolithikum bis zur Eisenzeit](https://www.youtube.com/watch?v=mI8QwUjx6Y4&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=3)
 - [Das frühe Griechenland](https://www.youtube.com/watch?v=L5owl4AfN7U&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=5)
 - [Die Zeit der Perserkriege](https://www.youtube.com/watch?v=nA4Rh2wLlX4&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=7)
 - [Das klassische Griechenland](https://www.youtube.com/watch?v=BpgibJK7cCk&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=9)

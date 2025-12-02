@@ -5,9 +5,14 @@ publish: true
 author: Ueberphilosophy
 ---
 # Startseite
-Sammlung von Online [[Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen. Die anderen Ordner enthalten eigene Texte oder selbst erstellte Definitionen. Diese werden im Folgenden nicht beschrieben.
+Sammlung von Online [[Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen.  Andere Ordner enthalten eigene Texte oder selbst erstellte Definitionen, sie werden nicht weiter beschrieben.
 
- Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol ist leider nicht sichtbar. Beim  Klick mit der Maus öffnen alle Links, auch externe, leider im selben Fenster. Resourcen werden nicht so referenziert, dass sie auf github.io gefunden werden; Bilder sind allerdings nicht wesentlich für dieses Projekt, im Ordner Materialen werden keine verwendet. Callouts sind nicht klappbar. ^[Das Plugin Webpage HTML Export hat einige Nachteile; es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird ]
+ - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol ist leider nicht sichtbar. 
+ - Beim  Klick mit der Maus öffnen alle Links, auch externe, leider im selben Fenster. 
+ - Resourcen werden nicht so referenziert, dass sie auf github.io gefunden werden; Bilder sind allerdings nicht wesentlich für dieses Projekt, im Ordner Materialen werden keine verwendet. 
+ - Callouts sind nicht klappbar. 
+ - Die Verlinkung von Fußnoten funktioniert nicht.
+ - Diese Nachteile sind der Art des Exports geschuldet, wohl dem Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export); doch es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird.
 
 ## Inhalt
 Es wird unterschieden zwischen Materialien von Anderen, Lernmaterialen genannt und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline]]  zu finden. Beide Auflistungen sind da  manuell erstellt möglicherweise nicht aktuell. Über die Seitenleiste links kann man alle Seiten finden.
@@ -27,9 +32,32 @@ Es wird unterschieden zwischen Materialien von Anderen, Lernmaterialen genannt u
 - 
 ## Technisches über diese Site
 ### Einstellungen
-Erstellt mit [Obsidian](https://obsidian.md/), exportiert mit dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export). Verzeichnis für Daily Notes `Werk/Diary`. Strict Line Breaks, Show line numbers, Source-Editing Mode, Properties in Document hidden, vim-key bindings, Nicht Show Inline Title, Attachments nach `_/_resources` , template folder location  `_/_vorlagen`.  Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes.  Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md) als `timeline.css`. Sonst Defaults, außer Theme `Willemstad`, angepasst mit dem Plugin [Style Settings](https://github.com/mgmeyers/obsidian-style-settings), das Einstellungen in `data.json` speichert. Der Export angepasst mit eigener Datei  `willemstad_to_html.css`. Zeitleiste verlangsamt den Export und wird nicht korrekt exportiert.
+- Erstellt mit [Obsidian](https://obsidian.md/), 
+- exportiert mit dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export). 
+- Verzeichnis für Daily Notes `Werk/Diary`. 
+- Strict Line Breaks, 
+- Show line numbers, 
+- Source-Editing Mode, 
+- Properties in Document hidden, 
+- vim-key bindings, 
+- Nicht Show Inline Title, 
+- Attachments nach `_/_resources` , 
+- template folder location  `_/_vorlagen`.  
+- Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes.  
+- Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md) als `timeline.css`. 
+- Sonst Defaults, außer Theme `Willemstad`, 
+- angepasst mit dem Plugin [Style Settings](https://github.com/mgmeyers/obsidian-style-settings), das Einstellungen in `data.json` speichert. 
+- Der Export angepasst mit eigener Datei  `willemstad_to_html.css`. 
+- Zeitleiste verlangsamt den Export und wird nicht korrekt exportiert.
 
-Eigenes Script `foty.js` nach `_/_scripts`, Template `foty_Vorlage.md` nach `_/_vorlagen`. Im Templater Template folder location auf `_/_vorlagen`, automatic jump to cursor, Trigger Templater on new file creation, Kein enable folder templates, file regex template `_/_vorlagen/foty_Vorlage.md`, Script files folder location `_/_scripts`
+- Eigenes Script `foty.js` nach `_/_scripts`, 
+- Template `foty_Vorlage.md` nach `_/_vorlagen`. 
+- Im Templater Template folder location auf `_/_vorlagen`, 
+- automatic jump to cursor, 
+- Trigger Templater on new file creation, 
+- Kein enable folder templates, 
+- file regex template `_/_vorlagen/foty_Vorlage.md`, 
+- Script files folder location `_/_scripts`
 ### Formatierungen
 #### Basics
 siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)

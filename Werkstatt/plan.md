@@ -11,4 +11,5 @@ author: Ueberphilosophy
  - [ ] [[Homer Quellen#Illias|Illias]] Librivox 1 
  - [ ] [[Homer Materialen#Arte Die Illias und die Odyssee|Arte - die Illias und die Odyssee]] 2
  - [ ] [Die Ilias - der Krieg um Troja](https://www.youtube.com/watch?v=3k6x6RL-zdA) 20:52
+ - [ ] vom [[Alte Geschichte Videos#Grundkurs alte Geschichte Uni Oldenburg|Grundkurs alte Geschichte der Uni Oldenburg]] die Griechen - 1 
 
