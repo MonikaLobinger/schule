@@ -6,5 +6,4 @@ tags:
 author: Ueberphilosophy
 ---
 
-### Erkenntnistheorie
-- [[Erkenntnistheorie Videos]]
+- [[Homer Materialen]]

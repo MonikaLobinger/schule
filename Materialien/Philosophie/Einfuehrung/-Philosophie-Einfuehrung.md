@@ -6,6 +6,5 @@ tags:
 author: Ueberphilosophy
 ---
 
-### Einführung
 - [[Einführung Philosophie Audios]]
 - [[Einführung Philosophie Videos]]

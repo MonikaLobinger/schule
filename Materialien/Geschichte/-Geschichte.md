@@ -6,5 +6,4 @@ tags:
 author: Ueberphilosophy
 ---
 
-## Geschichte
-![[_Alte Geschichte]]
+![[-Alte-Geschichte]]

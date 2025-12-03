@@ -6,6 +6,5 @@ tags:
 author: Ueberphilosophy
 ---
 
-### Geschichte
 - [[Antike Philosophie Videos]]
 - [[Geschichte Philosophie Audios]]

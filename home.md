@@ -5,21 +5,20 @@ publish: true
 author: Ueberphilosophy
 ---
 # Startseite
-Sammlung von Online [[_Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen.  Andere Ordner enthalten eigene Texte oder selbst erstellte Definitionen, sie werden nicht weiter beschrieben.
+Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen.  Andere Ordner enthalten eigene Texte oder selbst erstellte Definitionen, sie werden nicht weiter beschrieben.
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol ist leider nicht sichtbar. 
  - Beim  Klick mit der Maus öffnen alle Links, auch externe, leider im selben Fenster. 
- - Resourcen werden nicht so referenziert, dass sie auf github.io gefunden werden; Bilder sind allerdings nicht wesentlich für dieses Projekt, im Ordner Materialen werden keine verwendet. 
  - Callouts sind nicht klappbar. 
  - Die Verlinkung von Fußnoten funktioniert nicht.
  - Diese Nachteile sind der Art des Exports geschuldet, wohl dem Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export); doch es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird.
 
 ## Inhalt
-Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,  und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[_Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline]]  zu finden. Beide Auflistungen sind da  manuell erstellt möglicherweise nicht aktuell. Über die Seitenleiste links kann man alle Seiten finden.
+Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,  und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[-Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline]]  zu finden. Beide Auflistungen sind da  manuell erstellt möglicherweise nicht aktuell. Über die Seitenleiste links kann man alle Seiten finden.
 
 
 - Grobe [[timeline|Zeitleiste]]  mit Links zu Quellenseiten (verknüpft über den Autorennamen)
-- [[_Materialien|Katalog]] mit Links zu thematischen Sammlungen von  Links zu Lernmaterialen
+- [[-Materialien|Katalog]] mit Links zu thematischen Sammlungen von  Links zu Lernmaterialen
 ### Allgemeine Quellen
 - [Gottwein](https://www.gottwein.de/7)
 - [Perseus](https://www.perseus.tufts.edu/hopper/)
@@ -46,8 +45,8 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - Properties in Document hidden, 
 - vim-key bindings, 
 - Nicht Show Inline Title, 
-- Attachments nach `_/_resources` , 
-- template folder location  `_/_vorlagen`.  
+- Attachments nach `allhelperfiles/allresources` , 
+- template folder location  `allhelperfiles/allvorlagen`.  
 - Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes.  
 - Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md) als `timeline.css`. 
 - Sonst Defaults, außer Theme `Willemstad`, 
@@ -55,14 +54,14 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - Der Export angepasst mit eigener Datei  `willemstad_to_html.css`. 
 - Zeitleiste verlangsamt den Export und wird nicht korrekt exportiert.
 
-- Eigenes Script `foty.js` nach `_/_scripts`, 
-- Template `foty_Vorlage.md` nach `_/_vorlagen`. 
-- Im Templater Template folder location auf `_/_vorlagen`, 
+- Eigenes Script `foty.js` nach `allhelperfiles/allscripts`, 
+- Template `foty_Vorlage.md` nach `allhelperfiles/allvorlagen`. 
+- Im Templater Template folder location auf `allhelperfiles/allvorlagen`, 
 - automatic jump to cursor, 
 - Trigger Templater on new file creation, 
 - Kein enable folder templates, 
-- file regex template `_/_vorlagen/foty_Vorlage.md`, 
-- Script files folder location `_/_scripts`
+- file regex template `allhelperfiles/allvorlagen/foty_Vorlage.md`, 
+- Script files folder location `allhelperfiles/allscripts`
 ### Formatierungen
 #### Basics
 siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)

@@ -6,8 +6,13 @@ tags:
 author: Ueberphilosophy
 ---
 Manuell erstellter Katalog aller Seiten mit Links zu Lernmaterialien
-![[_Geschichte]]
 
-![[_Literatur]]
+- [[-Geschichte]]
+- [[-Literatur]]
+- [[-Philosophie]]
 
-![[_Philosophie]]
+![[-Geschichte]]
+
+![[-Literatur]]
+
+![[-Philosophie]]

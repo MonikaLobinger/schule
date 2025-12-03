@@ -6,5 +6,4 @@ tags:
 author: Ueberphilosophy
 ---
 
-### Antike
-- [[Homer Materialen]]
+- [[Erkenntnistheorie Videos]]
