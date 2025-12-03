@@ -20,6 +20,9 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
 > [!timeline|blue] ~-624
 > [[Thales Quellen|Thales]] †~-548 ^Thales
 
+> [!timeline|blue] ~-610
+> [[Anaximander Quellen|Anaximander]] †~-547 ^Anaximander
+
 > [!timeline|blue] ~-585
 > [[Anaximenes Quellen|Anaximenes]] †~-528 ^Anaximenes
  
@@ -35,11 +38,11 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
 > [!timeline|green] ~-522
 > Pindar †~-466 ^Pindar
 
-> [!timeline|blue] ~-520
-> [[Parmenides Quellen|Parmenides]] ^Parmenides
+> [!timeline|blue] ~-540^[Laut Buchheim nach Apollodoros Angaben wahrscheinlich]
+> [[Heraklit Quellen|Heraklit]] †~-460 ^Heraklit
 
 > [!timeline|blue] ~-520
-> [[Heraklit Quellen|Heraklit]] †~-460 ^Heraklit
+> [[Parmenides Quellen|Parmenides]] †~-460 ^Parmenides
 
 > [!timeline|red] -490
 >  Perikles †-429 ^Perikles
@@ -58,6 +61,15 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
 
 > [!timeline|blue] -384
 >  [[Aristoteles Quellen|Aristoteles]] †-322 ^Aristoteles
+
+> [!timeline|blue] -371
+>  [[Theophrastos Quellen|Theophrastos]] †-287 ^Theophrastos
+
+> [!timeline|green] ~-180
+> [[Apollodoros Quellen|Apollodoros]]  †~-120 ^Apollodoros
+
+> [!timeline|green] ~480
+> [[Simplicius Quellen|Simplicius]]  †560 ^Simplicius
 
 > [!timeline|red] ~747
 > Karl der Große †814 ^KarlGross
@@ -95,5 +107,8 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
 > [!timeline|blue] 1844
 >  [[Nietzsche Quellen|Nietzsche]] †1900 ^Nietzsche
 
+> [!timeline|green] 1848
+>  [[Diels Quellen|Diels]] †1948 ^Diels
+  
 > [!timeline|blue] 1848
 >  [[Frege Quellen|Frege]] †1925 ^Frege

@@ -5,7 +5,7 @@ publish: true
 author: Ueberphilosophy
 ---
 # Startseite
-Sammlung von Online [[Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen.  Andere Ordner enthalten eigene Texte oder selbst erstellte Definitionen, sie werden nicht weiter beschrieben.
+Sammlung von Online [[_Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen.  Andere Ordner enthalten eigene Texte oder selbst erstellte Definitionen, sie werden nicht weiter beschrieben.
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol ist leider nicht sichtbar. 
  - Beim  Klick mit der Maus öffnen alle Links, auch externe, leider im selben Fenster. 
@@ -15,26 +15,31 @@ Sammlung von Online [[Materialien]] zum Lernen und [[timeline|Quelltexten]]. Die
  - Diese Nachteile sind der Art des Exports geschuldet, wohl dem Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export); doch es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird.
 
 ## Inhalt
-Es wird unterschieden zwischen Materialien von Anderen, Lernmaterialen genannt und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline]]  zu finden. Beide Auflistungen sind da  manuell erstellt möglicherweise nicht aktuell. Über die Seitenleiste links kann man alle Seiten finden.
+Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,  und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[_Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline]]  zu finden. Beide Auflistungen sind da  manuell erstellt möglicherweise nicht aktuell. Über die Seitenleiste links kann man alle Seiten finden.
 
 
 - Grobe [[timeline|Zeitleiste]]  mit Links zu Quellenseiten (verknüpft über den Autorennamen)
-- [[Materialien|Katalog]] mit Links zu thematischen Sammlungen von  Links zu Lernmaterialen
+- [[_Materialien|Katalog]] mit Links zu thematischen Sammlungen von  Links zu Lernmaterialen
 ### Allgemeine Quellen
 - [Gottwein](https://www.gottwein.de/7)
 - [Perseus](https://www.perseus.tufts.edu/hopper/)
 - [librivox](https://librivox.org/)
 - [Internet Archive](https://archive.org/)
+- [zeno](http://www.zeno.org/)
+- [Projekt Gutenberg](https://www.projekt-gutenberg.org/)
 - [Annas Archive](https://annas-archive.org/)
 - [Google Books](https://books.google.de/)
 - [jstor](https://www.jstor.org/)
 - [biblotheca augusthana](https://www.hs-augsburg.de/~harsch/augustana.html)
+- [Herzogin Anna Amalia Bibliothek](https://haab-digital.klassik-stiftung.de/viewer/index/)
+- [Österreichische Nationalbibliothek](https://onb.digital/)
 - 
+%% https://dokumen.pub/  Bücher mit Copyright Verletzungen und evlt Malware %% 
 ## Technisches über diese Site
 ### Einstellungen
 - Erstellt mit [Obsidian](https://obsidian.md/), 
 - exportiert mit dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export). 
-- Verzeichnis für Daily Notes `Werk/Diary`. 
+- Verzeichnis für Daily Notes `Werkstatt/Diary`. 
 - Strict Line Breaks, 
 - Show line numbers, 
 - Source-Editing Mode, 

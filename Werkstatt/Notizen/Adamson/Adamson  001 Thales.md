@@ -11,7 +11,7 @@ Notizen zu Adamson [1 - Everything is full of Gods: Thales](https://historyofphi
 
 Gegen 1100 BC (vor Christus) sind die Dorier nach Griechenland gekommen und viele Griechen sind nach Ionien (Westküste heutige Türkei) ausgewandert. Die sich in Milet niedergelassen hatten, kamen aus Attika, das ist die Gegend um Athen - eines der wenigen Gebiete, das nicht an die Dorier gefallen war.
 
-Milet hatte durch Schafzucht Wohlstand erreicht und wurde, wie Neuseeland dadurch unabhängig, gründete selbst Kolonien, z.B. im heutigen Italien. Ein paar Jahrzehnte nach Thales fielen Milet und andere ionische Städte an die Perser. 
+Milet hatte durch Schafzucht Wohlstand erreicht und wurde, wie Neuseeland dadurch unabhängig, gründete selbst Kolonien, z.B. im heutigen Italien. Ein paar Jahrzehnte nach [[timeline#^Thales|Thales]] fielen Milet und andere ionische Städte an die Perser. 
 
 Von manchen Vorsokratikern gibt es Fragmente, von Thales gibt es nur Erwähnungen von anderen Autoren. Wenn Aristoteles schreibt, was Thales gesagt hätte, macht er keine klare Trennung zwischen dessen und seinen eigenen Worten. 
 

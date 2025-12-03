@@ -22,4 +22,6 @@ tags: Aristoteles
 - [Internet Archive](https://archive.org/details/organoncooke01arisuoft/mode/2up) - Griechisch/Englisch, digitalisiertes Buch
 - [Internet Archiv](https://archive.org/details/bub_gb_618-AAAAcAAJ/mode/2up) - Deutsch, digitalisiertes Buch, altdeutsche Schrift
 - [Internet Archiv](https://archive.org/details/dasorganon00kircgoog/mode/2up) - Deutsch, digitalisiertes Buch, teilweise Ränder abgeschnitten
-- 
+
+## De Anima
+[Internet Archiv](https://archive.org/details/dreibcherberdie00kircgoog/page/n1/mode/1up) - Deutsch, digitalisiertes Buch

@@ -9,9 +9,7 @@ author: Ueberphilosophy
 Notizen zu [[Antike Philosophie Videos#SS2017 Stationen und Paradigmen der antiken Philosophie]]
 
 ## Fazit
-Systemathische Philosophiegeschichte. 
-
-Empfehlung, Buchheim eben.
+Systemathische Philosophiegeschichte, Empfehlung
 ## Vorlesung I
 [Die zwei Stämme der vorsokratischen Philosophie](https://cast.itunes.uni-muenchen.de/clips/YnkvbZ4QEg/vod/online.html)
 
@@ -30,7 +28,25 @@ logos Doxographie
 ## Vorlesung 2
 [Heraklit](https://cast.itunes.uni-muenchen.de/clips/Mv8bbhQ06N/vod/online.html)
 
+Heraklit hält viel auf Bewegung und ihre Rolle auf die Konstitution der Welt.
 
+> Doch werde das Bewegte durch ein Bewegtes erkannt
+
+Die Verhältnisse etablieren sich durch die Bewegung und bleiben auch so durch die Bewegung
+
+Es ist sehr wahrscheinlich, dass Aristoteles Heraklits Idee der Bewegung als [[anathymiasis|Aufdunstung]] als Grundbestandteil seiner eigenen Philosophie verwendet. 
+
+Parmenides schliesst dagegen alle Bewegung von dem, was in Wahrheit ist, aus. 
+
+Heraklit hält den Tod für eine innere Bedingung des Lebens. Parmenides hält ihn für obsolet und für überwindbar.
+
+Heraklit gibt viel auf das Zeugnis unserer Sinne, während Parmenides dies als eine Art systhematischer Irreführung betrachtet und sich nur auf das Denken berufen will. 
+
+Seinsformen sind diejenigen Züge an den Dingen kraft derer sie sind
+
+Nun nur noch zu Heraklit
+
+Im allgemeinen Konflikt der Dinge stellt sich heraus, was etwas ist und was nicht.
 ## Offen
 - [Parmenides](https://cast.itunes.uni-muenchen.de/clips/kN7ThPh3BX/vod/online.html)
 - [Empedokles, Anaxagoras, Atomistik](https://cast.itunes.uni-muenchen.de/clips/MwYwFANxpn/vod/online.html)
