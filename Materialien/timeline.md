@@ -107,6 +107,9 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
 > [!timeline|blue] 1844
 >  [[Nietzsche Quellen|Nietzsche]] †1900 ^Nietzsche
 
+> [!timeline|green] 1866
+>  [[Wells Quellen|Wells]] †1946 ^Wells
+
 > [!timeline|green] 1848
 >  [[Diels Quellen|Diels]] †1948 ^Diels
   

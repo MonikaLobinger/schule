@@ -9,6 +9,6 @@ tags: Philosophie/Geschichte
 # Philosophie
 ## Geschichte
 ### Peter Adamson
-[[Adamson History of Philosophy|Notizen zu den Episoden]]
+[[Adamson History of Philosophy|Notizen zu den Episoden]] #speaker/Adamson-Peter
 
 [History of Philosophy without any gaps](https://historyofphilosophy.net/all-episodes) - Vom Autor selbst aufgelistet, alle Englisch

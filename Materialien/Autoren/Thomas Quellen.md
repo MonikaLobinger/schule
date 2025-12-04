@@ -5,5 +5,5 @@ publish: true
 tags: Thomas
 author: Ueberphilosophy
 ---
-[[timeline#^Thomas]]
 # Thomas von Aquin
+[[timeline#^Thomas]]

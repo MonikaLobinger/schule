@@ -5,12 +5,13 @@ publish: true
 author: Ueberphilosophy
 ---
 # Startseite
-Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen.  Andere Ordner enthalten eigene Texte oder selbst erstellte Definitionen, sie werden nicht weiter beschrieben.
+Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen.  Andere Ordner enthalten selbst erstellte Definitionen oder andere eigene Texte, sie werden nicht weiter beschrieben.
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol ist leider nicht sichtbar. 
  - Beim  Klick mit der Maus öffnen alle Links, auch externe, leider im selben Fenster. 
- - Callouts sind nicht klappbar. 
- - Die Verlinkung von Fußnoten funktioniert nicht.
+ - [Callouts](https://help.obsidian.md/callouts) sind nicht klappbar. 
+ - Die Verlinkung von Fußnoten funktioniert nicht, entsprechend auch keine Hover-Effekte von Fußnoten.
+ - Die [[timeline]] wird  unschön dargestellt.
  - Diese Nachteile sind der Art des Exports geschuldet, wohl dem Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export); doch es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird.
 
 ## Inhalt
@@ -19,21 +20,42 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 
 - Grobe [[timeline|Zeitleiste]]  mit Links zu Quellenseiten (verknüpft über den Autorennamen)
 - [[-Materialien|Katalog]] mit Links zu thematischen Sammlungen von  Links zu Lernmaterialen
-### Allgemeine Quellen
+### Seiten für Quellen
 - [Gottwein](https://www.gottwein.de/7)
 - [Perseus](https://www.perseus.tufts.edu/hopper/)
 - [librivox](https://librivox.org/)
 - [Internet Archive](https://archive.org/)
 - [zeno](http://www.zeno.org/)
 - [Projekt Gutenberg](https://www.projekt-gutenberg.org/)
-- [Annas Archive](https://annas-archive.org/)
 - [Google Books](https://books.google.de/)
 - [jstor](https://www.jstor.org/)
 - [biblotheca augusthana](https://www.hs-augsburg.de/~harsch/augustana.html)
 - [Herzogin Anna Amalia Bibliothek](https://haab-digital.klassik-stiftung.de/viewer/index/)
 - [Österreichische Nationalbibliothek](https://onb.digital/)
-- 
-%% https://dokumen.pub/  Bücher mit Copyright Verletzungen und evlt Malware %% 
+- [Französische Nationalbibliothek](https://www.bnf.fr/en) 
+%% 
+- [Annas Archive](https://annas-archive.org/) Schattenarchiv, Grauzone, manchmal illegal
+- https://dokumen.pub/  Bücher mit Copyright Verletzungen und evlt Malware 
+%% 
+### Kanäle für Materialen
+#### Sammlungen von Kanälen
+- [Uni Frankfurt Portalsammlung](https://okapi.uni-frankfurt.de/index.php/Philosophie_Multimedial)
+- [Vorlesungssammlung Philosophie](https://www.edukatico.org/de/online-kurse/philosophie)
+- [Philosophiechannels auf YouTube](https://griffl.org/die-besten-philosophie-channels-auf-youtube/)
+- [30 Quellen für Onlinevorlesungen aller Fachbereiche](https://www.fernstudi.net/magazin/10963)
+- [Wissenschaftspodcasts](https://wissenschaftspodcasts.de/)
+#### Kanäle Philosophie
+- [LMU Videos von Vorlesungen und Vorträgen Philosophie](https://www.philosophie.lmu.de/de/medien/videos-von-vorlesungen-und-vortraegen/)
+- [Uni Hannover Philosophie Vorlesungsaufzeichnungen](https://www.philos.uni-hannover.de/de/studium/lehrveranstaltungen/videos)
+- [Uni Tübingen kath-theol Fakultät Vorlesungen als Videos](https://uni-tuebingen.de/fakultaeten/katholisch-theologische-fakultaet/lehrstuehle/philosophische-grundfragen-der-theologie/vorlesungen-als-video/)
+- [TU Darmstadt Philosophie Audiothek](https://www.philosophie.tu-darmstadt.de/institut_phil/audiothek_phil/index.de.jsp)
+- [Philosophische Audiothek Uni Wien](https://audiothek.philo.at/)
+- [Finkelde Youtube](https://www.youtube.com/@dominikfinkelde/videos)
+- [Online Vorlesungen Philosophie des Geistes](https://www.online-vorlesungen.de/Videos/Philosophie/Philosophie_des_Geistes.htm)
+
+#### Andere Bereiche
+- [LMU Psychologie/Pädagogik - einige frei](https://videoonline.edu.lmu.de/de/semester)
+- [Uni Hamburg Lecture2Go Videokatalog](https://lecture2go.uni-hamburg.de/l2go)
 ## Technisches über diese Site
 ### Einstellungen
 - Erstellt mit [Obsidian](https://obsidian.md/), 
@@ -86,7 +108,7 @@ siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
 
 > Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society. ==-Doug Engelbart, 1961== ^zitat
 
-#### Weitergehend
+#### Weitergehende Formatierungen
 siehe Obsidian [# Advanced Formatting Syntax](https://help.obsidian.md/advanced-syntax) und folgende Seiten
 - Tabellen
 - Mermaid Diagramme
@@ -100,7 +122,14 @@ siehe Obsidian [# Advanced Formatting Syntax](https://help.obsidian.md/advanced-
 >
 > Es gibt folgende Callouts: Note, Abstract, Info, Todo, Tip, Success, Question, Warning, Failure, Danger, Bug, Example, Quote - alle kleingeschrieben, aber groß angezeigt, falls der Titel nicht überschrieben wird
 
-
+### github.io
+- Github hosted zu jedem Account mit dem Service [Github Pages](https://docs.github.com/de/pages) eine statische Webseite. 
+- Das Github Projekt, das diese Seite definiert muss `accountname.github.io heissen`.
+- Früher hieß der gesamte Service github.io, heute heißt er Github Pages.
+- Github läuft seit über einem Jahrzehnt auch für kostenlose Konten stabil und problemlos
+- Wenigstens Verzeichnisse dürfen nicht mit einem Unterstrich beginnen^[Für Dateien extra habe ich das dann nicht ausprobiert]
+- Ein Minuszeichen würde gehen, macht aber [bash](https://de.wikipedia.org/wiki/Bash_(Shell))-Bearbeitung komplizierter
+- 
 
 [^2]: Add 2 spaces at the start of each new line.
   This lets you write footnotes that span multiple lines.

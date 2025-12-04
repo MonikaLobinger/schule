@@ -76,7 +76,7 @@ Den Begriff formale Logik hat Kant in der Kritik der reinen Vernunft 1781/1787 i
 
 Logik beginnt mit Aristoteles (384 -322) in der ersten Analytik (dritter Teil des Organon)
 
-Auch genannt Syllogistik oder klassische Logik
+Auch genannt #Syllogistik oder klassische Logik
 
 Nächste Phase beginnt mit Gottlob Frege (1848 - 1925) in der Begriffsschrift, eine der arithmetischen Formelsprache nachgebildete Formelsprache des reinen Denkens (1879)
 

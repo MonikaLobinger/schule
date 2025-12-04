@@ -6,7 +6,7 @@ tags:
 author: Ueberphilosophy
 ---
  - [ ] [[Hoyningen Einführung in die theoretische Philosophie]] - 3. Vorlesung
- - [ ] [[Geschichte Philosophie Audios#Peter Adamson]] 2.
+ - [ ] [[Geschichte Philosophie Audios#Peter Adamson]] Presocratic Philosophy 2.
  - [ ] [[Buchheim Antike Philosophie 2017]] 1
  - [ ] [[Homer Quellen#Illias|Illias]] Librivox 2
  - [ ] [[Homer Materialen#Arte Die Illias und die Odyssee|Arte - die Illias und die Odyssee]] 2

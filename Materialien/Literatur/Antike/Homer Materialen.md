@@ -2,11 +2,12 @@
 cssclass: note
 date_created: 2025-11-30
 publish: true
-tags:
+tags: [Ilias, Odyssee]
 author: Ueberphilosophy
 ---
 
-# Homer Materialien
+# Literatur
+## Homer Materialien
 ## Arte Die Illias und die Odyssee
 - [Der Apfel der Zwietracht](https://www.youtube.com/watch?v=k9mMOFrm_pI&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=1&pp=iAQB)
 - [Die Stunde der Opfer](https://www.youtube.com/watch?v=ldzA4UOHb2c&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=2&pp=iAQB0gcJCRUKAYcqIYzv)

@@ -7,4 +7,6 @@ author: Ueberphilosophy
 ---
 
 # Apollodoros
+[[timeline#^Apollodoros]]
+
 Nur in 356 Fragmente erhalten
