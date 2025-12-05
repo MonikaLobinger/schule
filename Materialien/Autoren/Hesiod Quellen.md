@@ -3,7 +3,7 @@ cssclass: note
 date_created: 2025-11-28
 publish: true
 author: Ueberphilosophy
-tags: Hediod
+tags: Hesiod
 ---
 
 # Hesiod

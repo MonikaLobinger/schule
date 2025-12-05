@@ -9,7 +9,7 @@ author: Ueberphilosophy
 # Geschichte
 ## Alte Geschichte
 Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
-### hamburg open online university gr.Archaik (audio + text)
+### gr.Archaik (audio + text)- hamburg open online university 
 #speaker/Riess-Werner-Werner
 - [01 Überblick](https://emanualaltegeschichte.blogs.uni-hamburg.de/ueberblick/)
 - [02 Die Minoer](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-die-minoer/) #Minoische-Kultur #Kreta
@@ -21,7 +21,7 @@ Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
 - [08 Die große Kolonisation / Der Orient](https://emanualaltegeschichte.blogs.uni-hamburg.de/08-die-grosse-kolonisation-der-orient/)
 - [09 Neue Kriegstechniken und Tyrannis](https://emanualaltegeschichte.blogs.uni-hamburg.de/09-neue-kriegstechnik-und-tyrannis/) #Tyrannis
 
-### hamburg open online university gr. Klassik (audio + text)
+### gr. Klassik (audio + text)- hamburg open online university 
 #speaker/Riess-Werner
 - [01 Einführung in die Klassik](https://emanualaltegeschichte.blogs.uni-hamburg.de/01-einfuehrung-in-die-klassik/)
 - [02 Die Perserkriege](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-die-perserkriege/) #Perserkriege
@@ -29,7 +29,7 @@ Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
 - [04 Der peleponnesische Krieg](https://emanualaltegeschichte.blogs.uni-hamburg.de/04-der-peleponnesische-krieg/) #peleponnesische-Krieg
 - [05 Die athenische Demokratie](https://emanualaltegeschichte.blogs.uni-hamburg.de/05-die-athenische-demokratie/) #Demokratie
 
-### hamburg open online university Hellenismus(audio + text)
+### Hellenismus(audio + text)- hamburg open online university 
 #speaker/Riess-Werner
 - [01 Alexander der Große](https://emanualaltegeschichte.blogs.uni-hamburg.de/01-alexander-der-grosse/) #Alexander-der-Grosse
 - [02 Grundzüge der Ereignisgeschichte bis ca. 200 v. Chr.](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-grundzuege-der-ereignisgeschichte-bis-ca-200-v-chr/)
@@ -37,7 +37,7 @@ Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
 - [04 Die Seleukiden und die Ptolemäer](https://emanualaltegeschichte.blogs.uni-hamburg.de/04-die-seleukiden-und-die-ptolemaeer/) #Seleukiden #Ptolemaaer
 - [05 Das Alltagsleben und das Leben am Hof](https://emanualaltegeschichte.blogs.uni-hamburg.de/05-das-alltagsleben-und-das-leben-am-hof/)
 - [06 Religiöse Entwicklungen im Hellenismus](https://emanualaltegeschichte.blogs.uni-hamburg.de/06-religioese-entwicklungen-im-hellenismus/) #Hellenismus
-### Von Assur nach Babylon Uni Leipzig
+### Von Assur nach Babylon - Uni Leipzig
 - [Was ist Altorientalistik?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/was-ist-altorientalistik-9484359/)
 - [Die Wiederentdeckung des Alten Orients und die Entschlüsselung der Keilschrift](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-wiederentdeckung-des-alten-orients_9484360/)
 - [Die Gesetze Hammu-rapis](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-gesetze-hammu-rapis_9484361/)

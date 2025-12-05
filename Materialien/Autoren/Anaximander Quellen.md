@@ -2,9 +2,9 @@
 cssclass: note
 date_created: 2025-12-02
 publish: true
-tags: Anaximander
+tags: Anaximander-von-Milet
 author: Ueberphilosophy
 ---
 
-# Anaximander
+# Anaximander von Milet
 [[timeline#^Anaximander]]

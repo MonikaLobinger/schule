@@ -6,7 +6,7 @@ author: Ueberphilosophy
 ---
 
 # Geburten
-Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) leider nicht ansehnlich exportiert. Literaten/Künstler/Musiker "green", Wissenschaftler "grey", Politiker/Könige/Feldherren "red"
+Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) leider nicht ansehnlich exportiert. Literaten/Künstler/Musiker "green", Wissenschaftler/Forscher "grey", Politiker/Könige/Feldherren "red"
 
 > [!timeline|green] ~-850 
 > [[Homer Quellen|Homer]] ^Homer
@@ -72,16 +72,34 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
 > [[Simplicius Quellen|Simplicius]]  †560 ^Simplicius
 
 > [!timeline|red] ~747
-> Karl der Große †814 ^KarlGross
+> Karl der Große †814 ^Karl-der-Grosse
 
 > [!timeline|blue] 1225
 >[[Thomas Quellen|Thomas]] †1274 ^Thomas
 
+> [!timeline|blue] 1463
+>[[Pico Quellen|Pico]] †1494 ^Pico
+
 > [!timeline|grey] 1473
 > Kopernikus†1542 ^Kopernikus
 
+> [!timeline|red] 1478
+> Pizarro†1541 ^Pizarro-Francisco
+
+> [!timeline|red] 1485
+> Cortez†1547 ^Cortez-Hernan
+
+> [!timeline|grey] 1540
+> Acosta †1600 ^Acosta
+
 > [!timeline|grey] 1564
 > Galileo Galilei †1642 ^Galileo
+
+> [!timeline|blue] 1583
+>[[Grotius Quellen|Grotius]] †1645 ^Grotius
+
+> [!timeline|blue] 1588
+>[[Hobbes Quellen|Hobbes]] †1679 ^Hobbes
 
 > [!timeline|blue] 1596
 >[[Descartes Quellen|Descartes]] †1650 ^Descartes
@@ -98,8 +116,14 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
 > [!timeline|blue] 1679
 >[[Wolff Quellen|Wolff]] †1754 ^Wolff
 
+> [!timeline|red] ~1710
+> Ludwig XV †1774 ^Ludwig-XV
+
 > [!timeline|blue] 1711
 >  [[Hume Quellen|Hume]] †1776 ^Hume
+
+> [!timeline|green] 1712
+>  [[Rousseau Quellen|Rousseau]] †1778 ^Rousseau
 
 > [!timeline|blue] 1724
 >  [[Kant Quellen|Kant]] †1804 ^Kant
@@ -115,3 +139,21 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
   
 > [!timeline|blue] 1848
 >  [[Frege Quellen|Frege]] †1925 ^Frege
+  
+> [!timeline|blue] 1927
+>  [[Schobinger Quellen|Schobinger]] †2001 ^Schobinger
+  
+> [!timeline|blue] 1949
+>  [[Zizek Quellen|Zizek]]  ^Zizek
+
+> [!timeline|blue] 1959
+>  [[Malabou Quellen|Malabou]]  ^Malabou
+
+> [!timeline|blue] 1957
+>  [[Schaellibaum Quellen|Schaellibaum]]  ^Schaellibaum
+
+> [!timeline|blue] 1966
+>  [[Zupancic Quellen|Zupancic]]  ^Zupancic
+
+> [!timeline|blue] 1981
+>  [[Zorn Quellen|Zorn]]  ^Zorn

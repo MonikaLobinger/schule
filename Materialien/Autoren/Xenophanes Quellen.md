@@ -6,5 +6,5 @@ tags: Xenophanes
 author: Ueberphilosophy
 ---
 
-# Xenophanes
+# Xenophanes von Kolophon
 [[timeline#^Xenophanes]]

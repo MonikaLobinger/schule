@@ -3,9 +3,9 @@ cssclass: note
 date_created: 2025-11-26
 publish: true
 author: Ueberphilosophy
-tags: Kant
+tags: Kant-Immanuel
 ---
-# Kant
+# Immanuel Kant
 [[timeline#^Kant]]
 ## Kritik der reinen Vernunft
 

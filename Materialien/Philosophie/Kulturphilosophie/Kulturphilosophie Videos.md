@@ -9,7 +9,7 @@ author: Ueberphilosophy
 # Philosophie
 ## Kulturphilosophie
 ### Kulturphilosophie nach Jacques Lacan 2018
-#speaker/Finkelde-Dominik #Lacan
+#speaker/Finkelde-Dominik #Lacan-Jacques 
 - [01 Einleitung](https://www.youtube.com/watch?v=T6mW1Ggvylc)
 - [02 Enigmatische Signifikanten (Laplanche)](https://www.youtube.com/watch?v=jpqe6m5PCdo)
 - [03 Freud, Kant und regulative Ideen](https://www.youtube.com/watch?v=_1Q7ptZhhdE)

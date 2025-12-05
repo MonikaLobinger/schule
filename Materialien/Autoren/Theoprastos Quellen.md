@@ -2,10 +2,10 @@
 cssclass: note
 date_created: 2025-12-02
 publish: true
-tags: Theoprastos
+tags: Theoprastos-von-Eressos
 author: Ueberphilosophy
 ---
-# Theoprastos
+# Theoprastos von Eresos
 [[timeline#^Theophrastos]]
 ## Die Charaktere
 - [internet archive](https://archive.org/details/charactersofthe00theouoft/page/n53/mode/2up) - englisch/griechisch, digitalisiertes Buch

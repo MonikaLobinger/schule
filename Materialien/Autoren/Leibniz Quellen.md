@@ -3,9 +3,9 @@ cssclass: note
 date_created: 2025-11-28
 publish: true
 author: Ueberphilosophy
-tags: Leibniz
+tags: Leibniz-Gottfried-Willhelm
 ---
-# Leibniz
+# Gottfried Willhelm Leibniz
 [[timeline#^Leibniz]]
 ## Monadologie
 - [gutenberg](https://www.gutenberg.org/files/39441/39441-h/39441-h.htm) - online zu lesen, deutsch

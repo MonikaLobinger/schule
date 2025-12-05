@@ -3,10 +3,10 @@ cssclass: note
 date_created: 2025-11-29
 publish: true
 author: Ueberphilosophy
-tags: Spinoza
+tags: Spinoza-Baruch
 ---
 
-# Spinoza
+# Baruch Spinoza
 [[timeline#^Spinoza]]
 
 ## Die Ethik

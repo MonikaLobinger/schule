@@ -2,11 +2,11 @@
 cssclass: note
 date_created: 2025-12-04
 publish: true
-tags: Wells
+tags: Wells-Herbert-Georg
 author: Ueberphilosophy
 ---
 
-# Wells
+# Herbert Georg Wells
 [[timeline#^Wells]]
 ## The Outline of History
 - [gutenberg](https://www.gutenberg.org/files/45368/45368-h/45368-h.htm) - englisch, online zu lesen

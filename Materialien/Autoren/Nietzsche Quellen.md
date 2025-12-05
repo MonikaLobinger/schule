@@ -2,11 +2,11 @@
 cssclass: note
 date_created: 2025-11-29
 publish: true
-tags: Nietzsche
+tags: Nietzsche-Friedrich
 author: Ueberphilosophy
 ---
 
-# Nietzsche
+# Friedrich Nietzsche
 [[timeline#^Nietzsche]]
 ## Also sprach Zarathustra
 - [pileface](https://www.pileface.com/sollers/pdf/Zarathustra.pdf) - pdf, deutsch

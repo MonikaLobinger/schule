@@ -2,7 +2,7 @@
 cssclass: note
 date_created: 2025-12-02
 publish: true
-tags: Diels
+tags: Diels-Hermann
 author: Ueberphilosophy
 ---
 

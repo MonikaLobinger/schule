@@ -27,13 +27,19 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Internet Archive](https://archive.org/)
 - [zeno](http://www.zeno.org/)
 - [Projekt Gutenberg](https://www.projekt-gutenberg.org/)
+- [Wikisource](https://wikisource.org/wiki/Main_Page)
 - [Google Books](https://books.google.de/)
 - [jstor](https://www.jstor.org/)
+- [Österreichische Nationalbibliothek](https://onb.digital/)
+- [Standard E-Books](https://standardebooks.org/)
+- [Französische Nationalbibliothek](https://www.bnf.fr/en) 
+- [Bibliothek Uni Halle](https://halit.bibliothek.uni-halle.de/search?q=&v=)
 - [biblotheca augusthana](https://www.hs-augsburg.de/~harsch/augustana.html)
 - [Herzogin Anna Amalia Bibliothek](https://haab-digital.klassik-stiftung.de/viewer/index/)
-- [Österreichische Nationalbibliothek](https://onb.digital/)
-- [Französische Nationalbibliothek](https://www.bnf.fr/en) 
+- [Logos Verlag Open Access](https://www.logos-verlag.de/cgi-bin/mylibrary)
+- 
 %% 
+- [Logos Verlag Open Access Verzeichnis](https://www.logos-verlag.de/ebooks/OA/)
 - [Annas Archive](https://annas-archive.org/) Schattenarchiv, Grauzone, manchmal illegal
 - https://dokumen.pub/  Bücher mit Copyright Verletzungen und evlt Malware 
 %% 
@@ -124,7 +130,7 @@ siehe Obsidian [# Advanced Formatting Syntax](https://help.obsidian.md/advanced-
 
 ### github.io
 - Github hosted zu jedem Account mit dem Service [Github Pages](https://docs.github.com/de/pages) eine statische Webseite. 
-- Das Github Projekt, das diese Seite definiert muss `accountname.github.io heissen`.
+- Das Github Projekt, das diese Seite definiert muss `accountname.github.io` heissen.
 - Früher hieß der gesamte Service github.io, heute heißt er Github Pages.
 - Github läuft seit über einem Jahrzehnt auch für kostenlose Konten stabil und problemlos
 - Wenigstens Verzeichnisse dürfen nicht mit einem Unterstrich beginnen^[Für Dateien extra habe ich das dann nicht ausprobiert]

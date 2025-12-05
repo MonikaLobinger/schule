@@ -3,9 +3,9 @@ cssclass: note
 date_created: 2025-11-24
 publish: true
 author: Ueberphilosophy
-tags: Parmenides
+tags: Parmenides-von-Elea
 ---
-# Parmenides
+# Parmenides von Elea
 [[timeline#^Parmenides]]
 ## Lehrgedicht
 - [Helmut Hille](https://www.helmut-hille.de/parmen1.html)
