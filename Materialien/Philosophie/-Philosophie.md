@@ -17,10 +17,10 @@ author: Ueberphilosophy
 
 ![[-Sprachphilosophie]]
 
-![[-Philosophie zwanzigstens Jhd]]
+![[-Philosophie-zwanzigstes-Jhd]]
 
 ![[-Gegenwartsphilosophie]]
 
-![[-Philosophie Aesthetik]]
+![[-Philosophie-Aesthetik]]
 
 [[Unsortiert Videos]]

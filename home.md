@@ -58,10 +58,13 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Philosophische Audiothek Uni Wien](https://audiothek.philo.at/)
 - [Finkelde Youtube](https://www.youtube.com/@dominikfinkelde/videos)
 - [Online Vorlesungen Philosophie des Geistes](https://www.online-vorlesungen.de/Videos/Philosophie/Philosophie_des_Geistes.htm)
-
 #### Andere Bereiche
 - [LMU Psychologie/Pädagogik - einige frei](https://videoonline.edu.lmu.de/de/semester)
+- [Uni Düsseldorf Mediathek](https://mediathek.hhu.de/)
 - [Uni Hamburg Lecture2Go Videokatalog](https://lecture2go.uni-hamburg.de/l2go)
+- [Alexander Lasch Linguistik YouTube](https://www.youtube.com/@AlexanderLasch/featured)
+- [Elena Smirnova Sprachwissenschaft YouTube](https://www.youtube.com/@elenasmirnova674/featured)
+- 
 ## Technisches über diese Site
 ### Einstellungen
 - Erstellt mit [Obsidian](https://obsidian.md/), 

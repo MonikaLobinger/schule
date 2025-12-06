@@ -128,6 +128,15 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
 > [!timeline|blue] 1724
 >  [[Kant Quellen|Kant]] †1804 ^Kant
 
+> [!timeline|blue] 1762
+>  [[Fichte Quellen|Fichte]] †1814 ^Fichte
+
+> [!timeline|blue] 1770
+>  [[Hegel Quellen|Hegel]] †1831 ^Hegel
+
+> [!timeline|blue] 1775
+>  [[Schelling Quellen|Schelling]] †1845 ^Schelling
+
 > [!timeline|blue] 1844
 >  [[Nietzsche Quellen|Nietzsche]] †1900 ^Nietzsche
 
@@ -139,6 +148,15 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
   
 > [!timeline|blue] 1848
 >  [[Frege Quellen|Frege]] †1925 ^Frege
+  
+> [!timeline|blue] 1859
+>  [[Husserl Quellen|Husserl]] †1938 ^Husserl
+  
+> [!timeline|blue] 1889
+>  [[Wittgenstein Quellen|Wittgenstein]] †1951 ^Wittgenstein
+  
+> [!timeline|blue] 1889
+>  [[Heidegger Quellen|Heidegger]] †1976 ^Heidegger
   
 > [!timeline|blue] 1927
 >  [[Schobinger Quellen|Schobinger]] †2001 ^Schobinger

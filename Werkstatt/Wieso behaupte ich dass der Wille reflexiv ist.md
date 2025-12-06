@@ -20,7 +20,16 @@ Der Wille, eines Bestimmten Menschen Wille, will Etwas, viele Etwasse, aber nich
 
 Und mein Gedanke ist, dass er sozial gebildet wird, sowohl in der Entstehung als auch in der weiteren Bildung. Und dass das irgendwie reflexiv ist. 
 
+Der tatsächlich existierende (verdreht ausgedrückt) Wille will tatsächlich und kann tatsächlich aus allen denkbar möglichen nur einige wollen. Darum gehts bei der (einen?) Willensfreiheit nicht. Er hat das Vermögen, alles denkbare zu wollen.
+
+
 ### Vlt unwichtig dazu
 > Ich ließ für die Götter das turmhohe Haus der Feste errichten, deren Spitze es mit dem Himmel aufnehmen kann. Ich erbaute es aus gebrannten Ziegeln und Bitumen, dass es fest wurde wie ein Berg.   [[2025-12-03]]
 
 Die haben einen entgrenzten Willen, diese Mächtigen und Reichen. 
+
+### Exkurse
+
+Auch dieser alles denkbar wollen könnende Wille fällt nicht vom Himmel und kommt nicht von Natur. Das ist möglicherweise eine empirische Frage. Und möglicherweise sogar sinnlos. Weil die Möglichkeit etwas empirisch zu wollen vlt nichts empirisches ist. Aber vlt verschränkt sich hier z.B. empirisch und theoretisch, und damit der Picosche Wille und der jeweils in Aktion tretende.
+
+Bestimmt trifft reflexive Logik auch auf diese zu. Die Definition ganz oben enthält das Wort "verhalten" - das ist was anderes als "zutreffen" oder "so sein".

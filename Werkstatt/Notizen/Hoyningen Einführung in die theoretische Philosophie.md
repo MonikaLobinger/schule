@@ -196,15 +196,55 @@ Anders gesagt: Weil wir sind wie wir sind sind die uns zugänglichen Phänomene 
 
 [Einführung in die Theoretische Philosophie  4 II](https://www.youtube.com/watch?v=YWpHh9isMzs)
 
+##### Immer noch Kant
+Das was er da oben aufzeigt, ist ein Programm. Ob es funktioniert, ist eine völlig andere Frage. 
 
+Zum Beispiel nach Hoyningen-Huenes Meinung sind die Argumente dafür, dass der Raum eine Anschauungsform ist, extrem gut, gegeben die damalige Auffassung von Geometrie. Nun hat sich die Einschätzung der Geometrie im 19. Jhd stark verändert und damit, so H-H, wird das Argument für die Transzendentalität des Raumes hinfällig.
+###### tranzendental
+> Ich nenne alle Erkenntnis transzendental, die sich nicht sowohl mit Gegenständen, sondern mit unserer Erkenntnisart von Gegenständen, sofern diese a priori möglich sein soll, überhaupt beschäftigt. #Kant-Immanuel  KrV B25, ähnlich A11-12
 
+Das "sowohl" übersetzt H.-H. mit "nur", damit "nicht nur ... sondern auch" - und zwar "zugleich". Das schiebt Erkenntnistheorie und Metaphysik zusammen. 
+
+Die transzendentale Erkenntnis ist zugleich eine metaphysische und eine erkenntnistheoretische Erkenntnis. 
+
+"Indem Sie die Erkenntnisart untersuchen, legen Sie sozusagen auch die Natur der Gegenstände fest."
+
+Das Kantzitat betrifft die (originär, subjektseitigen notwendigen) Bedingungen der Möglichkeit von (objektiver, d.h. empirische Objekte betreffende) Erfahrung.
+
+Kant ist der erste von den Philosophen der konsequent auf deutsch schreibt. Er bringt einige lateinische Wörter ins Deutsche rein. 
+
+##### Phase der Metaphysik: der deutsche Idealismus
+Man müsse die kantsche Philosophie kritisch weiter entwickeln zu irgendeinem umfassenden System. [[Fichte Quellen|Fichte]], [[Schelling Quellen|Schelling]] und [[Hegel Quellen|Hegel]] #Fichte-Johann-Gottlieb  #Schelling-Friedrich #Hegel 
+
+Grob: Versuchen verschiedene Dichotomien bei Kant und seine erkenntnisskeptische Position zu überwinden (Erkenntnis ist beschränkt auf Erscheinungen.) Z.B. die Dichotomie zwischen Anschauung und Denken. Das kann doch nicht sein, dass die beiden so heterogen, stark getrennt sind. Andere Dichotomie bei Kant z.B. Verstand und Vernunft. 
+
+Die Vorstellung war damals so eine Ganzeitlichkeit und System, Einheitlichkeit und Systemathik. Philosophisch wären etwas oberflächlich gesagt solche Dichotomien unästhetisch, sagt H.-H.. 
+
+Und auch die erkenntnisskeptische Position bei Kant stört, dass es keinen Weg zur absoluten Realität gibt störte diese Philosophen. Hegel würde zeigen/behaupten dass es eine absolute Erkenntnis des Absoluten geben kann. 26:27
+
+Der deutsche Idealismus wird sehr unterschiedlich eingeschätzt, von höchste Form der Philosophie nach Platon und Aristotels bis Scharlatanerie.
+##### Letzte Phase der Metaphysik: Nach dem 19. Jhd
+###### Neukantianismus
+Und doch auch zweite Hälfte des 19. Jhds mit dem Neukantianismus - gegen den Idealismus und gegen den Materialismus.
+
+Spekulativ, hat was mit Spiegel zu tun. Spekulative Erkenntnis war mal was neutrales oder gutes, und der Neukantiantismus hat das so stark kritisiert, dass es nun in Verruf geraten ist. 
+
+Es gab im Laufe des 19.Jhds euroweit einen Aufschwung der Naturwissenschaften. Der Neukantianismus wollte den Naturwissenschaften und auch den aufkommenden Geisteswissenschaften mit einer Philosophie, die nicht plump materialistisch war, gerecht werden. Der Neukantianismus war lange Zeit besonders in Deutschland die dominierende Richtung. Da wäre auch Husserl draus hervorgegangen.
+###### 20.Jhd
+Diese Phase ist als Phase unübersichtlich, mit stark metaphysikkritischen Strömungen. 
+- Tatsachenontologie, insbesondere Wittgenstein. Tractatus logicus-philosophicus. 
+
+Frühere Ontologien hatten Gegenständ und Ideen. Nun gibt es immer neue. Bei Wittgenstein "Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge."
 
 ### Stichwörter
-#Transzendentalphilosophie
+#Transzendentalphilosophie #Tatsachenontologie
 
-## Verbleibend
-[Einführung in die Theoretische Philosophie  5 I ](https://www.youtube.com/watch?v=dhkFD9nte_M)
+## 5 I und II
+[Einführung in die Theoretische Philosophie  5 I ](https://www.youtube.com/watch?v=dhkFD9nte_M) 
+ Immer noch
+##### Letzte Phase der Metaphysik: 20. Jhd
 [Einführung in die Theoretische Philosophie  5 II](https://www.youtube.com/watch?v=F4haOXAAmVw)
+## Verbleibend
 [Einführung in die Theoretische Philosophie  6 I ](https://www.youtube.com/watch?v=u7fe6xTOZOU)
 [Einführung in die Theoretische Philosophie  6 II](https://www.youtube.com/watch?v=jIw3BPY6YNs)
 [Einführung in die Theoretische Philosophie  7 I ](https://www.youtube.com/watch?v=AOKsut2x4DQ)

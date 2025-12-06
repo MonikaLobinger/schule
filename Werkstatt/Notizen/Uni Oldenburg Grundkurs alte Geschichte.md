@@ -84,8 +84,42 @@ Die große Institution (der Tempel/der Palast) führt über die Ein- und Ausgän
 ##### Die Uruk Expansion
 ca 3600 v. Chr gibt es die Städte Uruk, Umma, Ur, Eridur, Nippur. Dieses Modell der Stadt expandiert in einem großen Raum - nördliches Syrien, Südtürkei, westlicher Iran. Diese neuen Städte sind in geographisch völlig anderen Gegenden, die betreiben keinen Bewässerungslandbau, sondern können Regenfeldbau betreiben. Die Entwicklung von Städten ist dort keine conditio sine qua non um Menschen im großen Stil ernähren zu können, wie wir ja schon an den großen Siedlungen gesehen haben. Das Modell Stadt wird dennoch exportiert. 
 
+Die Erklärung dafür, wenn auch mit "offenbar" ist, weil das Modell "erfolgreich" ist.
+
 ### Von der Stadt zum Großreich
-Ab 30:30
+oder: "Der imperiale Zyklus in Vorderasien"
+
+2900 bis 2340 Frühdynastische Zeit, es gab eine Menge Städte im südlichen Mesopotamien. Der persische Golf ging damals sehr viel weiter landeinwärts als heute. Euphrat und Tigris floßen damals noch nicht (an Land) zusammen. 
+
+Immer mehr Städte wachsen, erschließen Land für die Bewässerungswirtschaft, kollidieren, Konfikte, Krieg, Imperiumsbildung. Jahrhundertelang vorher waren Städte nicht kollidiert.
+
+Der Krieg zieht in das Leben der Menschen ein. Krieg ist eine völlige Innovation - den hat es vorher nicht gegeben. Es gab immer genug Land, es gab immer genug Ressourcen. 
+
+Nun unterwirft eine Stadt ein paar andere, bis 2340 bis 2200 v. Chr. das erste große Weltreich der Geschichte entsteht, das Reich von Akkad. Es expandiert sogar über Mesopotamien hinaus in die Nachbarschaft, dahin, wo Resourcen lagen. In Mesopotamien gibt es kein Holz, keine Steine. 2200 bricht das Reich relativ schnell zusammen. 
+
+#### Der Zyklus der Transhumanz 
+Im südlichen Mesopotamien gibt es nicht nur Leute die sich sesshaft gemacht haben. Es ist ein ökologisch sehr vielgestaltiger Raum. Die Viehzüchter finden im Sommer keine Nahrung für ihre Herden. So wandern sie im Sommer ins Bergland, zu den Sommerweiden. Das nennt man saisonalen Weidewechsel. Bei der Wanderung ins Tal nehmen die Herden keine Rücksicht auf Felder. Die Nomaden sind in Stämmen organisiert. Die Städte versuchen dieser Wanderbewegung Regeln zu geben. Ein starkes Imperium kann das gut, ein schwächer werdendes muss den Nomaden mehr Raum geben. Am Ende sind es die Nomaden, die ein Imperium zu Fall bringen. Man hat wieder einzelne Städte. Oft bemächtigen sich Nomaden auch der Städte. Oft werden im Laufe von Jahrzehnten oder auch Jahrhunderten diese Nomaden die Architekten einer neuen Ordnung. Sie, die inzwischen zur Sesshaftigkeit übergegangen sind, errichten von einer Stadt ausgehend, das nächste Imperium. 
+
+Die Städte brauchen, besonders bei Missernten, das Fleisch der Herden als Reserve, die Nomaden brauchen einiges, was die Städte herstellen können. Nomaden und Städte ist eine symbiotische Balance und eine konfliktreiche Balance. 
+
+Dieser Zyklus treibt den imperialen Zyklus in Vorderasien an. Das ist, was sehr sehr oft beim Untergang passiert - also nicht immer. 
+#### Der imperiale Zyklus in Vorderasien
+Nur eine Auswahl:
+
+- Akkadreich 2340 - 2200
+- Reich der III. Dynastie von Ur 2100-2000
+- Altbabylonisches Reich 1800-1600
+- Mittelassyrisches Reich 1400-1000
+- Neuassyrisches Reich 1000-600
+- Neubabylonisches Reich 626-539
+- Perserreich der Achaimeniden 539-330
+#### Imperiale Dynastien
+So 3500 beginnt die Bronzezeit. Am Ende der Bronzezeit (1200 v.Chr.), so 1400 v. Chr. haben sich große Reiche in Vorderasien gebildet. Drei vor allem sind relevant: Das assyrische Reich im Norden von Mesopotamien, Das Reich Hatti (Hethiterreich) in der heutigen Türkei und das Neue Reich in Ägypten (19. Dynastie).
+
+Die haben sich auf ein Gleichgewicht geeinigt. Gegen 1400 trafen Hatti und Ägypten bei Kadisch in einer großen Schlacht aufeinander, die mehr oder weniger remis ausging. Die Ägypter haben sie eigentlich verloren. Beide Reiche einigten sich auf den Status Quo. 
+
+Das schien für die Ewigkeit. Im Südosten Kassiten und Elam(Sutrukiden), im Westen Achai (Mykenische Kultur). Diese großen Reiche, diese großen Palastzentren stande alle in diplomatischem Verkehr und Handel miteinander. Urplötzlich, 1200 v. Chr. brach das zusammen. Das Hethiterreich ist kollabiert, das Ägypterreich wurde deutlich schwächer. Etwas später verliert dies Mittelassyrische Reich den Griff auf seine Peripherie. Die Paläste im mykenischen Griechenland werden Opfer von Flammen und Zerstörung. Ein Zusammenbruch, ein Kulturschock. Am Ende bleiben nur verstreute dörfliche Siedlungen übrig. Alle diese Imperien sind zu Staub zerfallen. 
+ 
 
 ## Verbleibend
 - [Das frühe Griechenland](https://www.youtube.com/watch?v=L5owl4AfN7U&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=5)

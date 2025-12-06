@@ -7,7 +7,7 @@ author: Ueberphilosophy
 ---
 
 
-Die Franzosen trafen in Kanada die #Algonkin an. Umd amdere mehr:
+Die Franzosen trafen in Kanada die #Algonkin an. Und amdere mehr:
 
 > Montagnais-Naskapi-, Algonkin- und irokesischen Sprachkreise
 
