@@ -9,7 +9,7 @@ tags: Philosophie/Einführung
 ## Einführung
 Hier  Videos, siehe auch [[Einführung Philosophie Audios|Audios]]
 ### Prof. Dr. Hoyningen-Huene
-[[Hoyningen Einführung in die theoretische Philosophie|Notizen zur Vorlesung]] #speaker/Hoyningen-Huene-Paul
+#speaker/Hoyningen-Huene-Paul
 - [Einführung in die Theoretische Philosophie  1 I ](https://www.youtube.com/watch?v=BMeAMwAPIsk)  
 - [Einführung in die Theoretische Philosophie  1 II](https://www.youtube.com/watch?v=1my3hOT5pQU)
 - [Einführung in die Theoretische Philosophie  2 I ](https://www.youtube.com/watch?v=fhABFhviPsU)
@@ -36,7 +36,7 @@ Hier  Videos, siehe auch [[Einführung Philosophie Audios|Audios]]
 - [Einführung in die Theoretische Philosophie 12 II](https://www.youtube.com/watch?v=Pek5kG57lo4)
 
 ### Prof. Dr. Thomas Gil
-[[Gil Einführung in die Philosophie|Notizen zur Vorlesung]] #speaker/Gil-Thomas
+#speaker/Gil-Thomas
 - [Einführung in die Philosophie (Teil 1)](https://www.youtube.com/watch?v=jYQ5bh5388Q)^[Schlägt vor, einen uneindeutigen Satz nach textexternen Gründen zu interpretieren und weiterer Unsinn] 
 - [Einführung in die Philosophie (Teil 2)](https://www.youtube.com/watch?v=kU5WYRwbC2w)^[nicht gehört]
 ### Karl Jaspers

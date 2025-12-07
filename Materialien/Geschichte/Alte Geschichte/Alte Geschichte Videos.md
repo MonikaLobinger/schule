@@ -10,7 +10,7 @@ author: Ueberphilosophy
 ## Alte Geschichte
 Hier Videos, siehe auch [[Alte Geschichte Audios|Audios]]
 ### Grundkurs alte Geschichte Uni Oldenburg
-[[Uni Oldenburg Grundkurs alte Geschichte|Notizen zur Vorlesung]] #speaker/Sommer-Michael
+#speaker/Sommer-Michael
 - [Eine Einführung](https://www.youtube.com/watch?v=WYlxpNClxPI&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP)
 - [Der alte Orient: Vom Neolithikum bis zur Eisenzeit](https://www.youtube.com/watch?v=mI8QwUjx6Y4&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=3) #Neolithikum
 - [Das frühe Griechenland](https://www.youtube.com/watch?v=L5owl4AfN7U&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=5)
@@ -28,7 +28,7 @@ Hier Videos, siehe auch [[Alte Geschichte Audios|Audios]]
 
 
 ### Antike im Zerrspiegel politischer Ideologien 
-Ringvorlesung 2025/2026 - [[Antike im Zerrspiegel politischer Ideologien|Notizen zur Vorlesung]]
+Ringvorlesung 2025/2026  
 - [Ideologiegeprägte Narrative und wiss Argumente: Die Antike im pol Deutungskampf](https://www.youtube.com/watch?v=j5vyLdnuYM0&list=PLhmnOOUKz0CX9q8CNR7vHe-ArD0infIqD&index=2) #speaker/Llanque-Marcus
 - [Der globale autoritäre Populismus und der „Untergang des Abendlandes“](https://www.youtube.com/watch?v=UnNpKt-2yv8&list=PLhmnOOUKz0CX9q8CNR7vHe-ArD0infIqD&index=3) #speaker/Rensmann-Lars
 - [Die ersten Staaten und Städte in Mesopotamien: Eine Ideologiekritik](https://www.youtube.com/watch?v=cXSfCUNIfoo&list=PLhmnOOUKz0CX9q8CNR7vHe-ArD0infIqD&index=3) #speaker/Bernbeck-Reinhard #Mesopotamien 

@@ -5,7 +5,7 @@ publish: true
 author: Ueberphilosophy
 ---
 # Startseite
-Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen.  Andere Ordner enthalten selbst erstellte Definitionen oder andere eigene Texte, sie werden nicht weiter beschrieben.
+Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen. Der Ordner `Werkstatt` enthält nicht exportierte Dateien, leider wird er dennoch im Dateibaum angezeigt.
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol ist leider nicht sichtbar. 
  - Beim  Klick mit der Maus öffnen alle Links, auch externe, leider im selben Fenster. 
@@ -130,6 +130,11 @@ siehe Obsidian [# Advanced Formatting Syntax](https://help.obsidian.md/advanced-
 > Durch ein Minuszeichen wäre er ursprünglich gefaltet. Sonst wird er direkt angezeigt.
 >
 > Es gibt folgende Callouts: Note, Abstract, Info, Todo, Tip, Success, Question, Warning, Failure, Danger, Bug, Example, Quote - alle kleingeschrieben, aber groß angezeigt, falls der Titel nicht überschrieben wird
+
+### Obsidian 
+Dieser Abschnitt gilt nur für  eine laufende Obsidian Instanz
+
+- Obwohl man den Notiznamen für eine neue Notiz im Dialogprompt angegeben hat, muss man noch `<return>` drücken. Dies ist kein Fehler des Scripts. Eventuell ist es eine Regression, jahrelang davor ist es mir nicht negativ aufgefallen.
 
 ### github.io
 - Github hosted zu jedem Account mit dem Service [Github Pages](https://docs.github.com/de/pages) eine statische Webseite. 

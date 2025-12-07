@@ -17,4 +17,4 @@ Jede gehörte Podcastfolge hat eine eigene Notiz
 Auf jeder Seite des Autors, von der der jeweilige Podcast gehört werden kann, gibt es weiterführende Links (alle auf Englisch)
 ## Presocratic Philosophy
 - [[Adamson  001 Thales]]
-- 
+- [[Adamson 002 Anaximander und Anaximenes]]

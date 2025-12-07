@@ -384,9 +384,12 @@ let schule_configuration = {
     diary:          {
       title_date_function:  cbkCalcDateTitle,
       title_date_format: "YYYY-MM-DD",
-      show: { 
-        prevlink: cbkPrevDateLink, nextlink: cbkNextDateLink,
+      show: {
+        prevlink:  cbkPrevDateLink,
+        nextlink:  cbkNextDateLink,
         firstline: cbkNoteName,
+        sndline:   "## ",
+        lastline:  "## -footnotes",
       },
       yaml: { publish: true, },
       folders: ["Diary", ],
