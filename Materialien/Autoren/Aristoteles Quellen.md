@@ -20,7 +20,7 @@ tags: Aristoteles
 ## Organon
 - [Zeno](http://www.zeno.org/Philosophie/M/Aristoteles/Organon) - Deutsch, online zu lesen
 - [Internet Archive](https://archive.org/details/organoncooke01arisuoft/mode/2up) - Griechisch/Englisch, digitalisiertes Buch
-- [Internet Archiv](https://archive.org/details/bub_gb_618-AAAAcAAJ/mode/2up) - Deutsch, digitalisiertes Buch, altdeutsche Schrift
+- [Internet Archiv](https://archive.org/details/bub_gb_618-AAAAcAAJ/mode/2up) - Deutsch, digitalisiertes Buch,  Fraktur
 - [Internet Archiv](https://archive.org/details/dasorganon00kircgoog/mode/2up) - Deutsch, digitalisiertes Buch, teilweise Ränder abgeschnitten
 
 ## De Anima

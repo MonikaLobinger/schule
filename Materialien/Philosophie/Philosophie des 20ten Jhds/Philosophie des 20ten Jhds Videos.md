@@ -9,13 +9,13 @@ author: Ueberphilosophy
 ## Philosophie des 20. Jhds
 ### Heidegger
 #### Martin Heidegger - An Introduction
-#speaker/Finkelde-Dominik 
+[[Heidegger_An_Introduction_Finkelde|eigene Notizen]] #speaker/Finkelde-Dominik 
 - [01 Martin Heidegger - An Introduction](https://www.youtube.com/watch?v=vVPIEdDg-IU&pp=0gcJCSMKAYcqIYzv)
 - [02 Martin Heidegger - An Introduction](https://www.youtube.com/watch?v=mfe-A0SFvQc)
 - [03 Martin Heidegger - An Introduction](https://www.youtube.com/watch?v=h0tYjeq3UqQ)
 - [04 Martin Heidegger - An Introduction](https://www.youtube.com/watch?v=LW8xCkZcgNE)
 #### Martin Heidegger  SS2021
-#speaker/Finkelde-Dominik #Heidegger
+[[Heidegger_Finkelde_2021|eigene Notizen]] #speaker/Finkelde-Dominik #Heidegger
 - [02 §§1-8 1. Teil](https://www.youtube.com/watch?v=3VzCph38qtQ)
 - [03 §§1-8 2. Teil](https://www.youtube.com/watch?v=VIjsuH5rOkA)
 - [04 §§9-13](https://www.youtube.com/watch?v=mhk1GOcdJOs)

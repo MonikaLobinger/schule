@@ -9,7 +9,7 @@ tags: Philosophie/Erkenntnistheorie
 ## Erkenntnistheorie
 ### Finkelde
 #### Vorlesung 2017
-#speaker/Finkelde-Dominik
+[[Erkenntnistheorie_Finkelde_2017|eigene Notizen]] #speaker/Finkelde-Dominik
 - [Erkenntnistheorie 2017 01](https://www.youtube.com/watch?v=7YII6iUumQ8) - Einleitung (The Matrix, Berkeley, Idealism)
 - [Erkenntnistheorie 2017 02](https://www.youtube.com/watch?v=YtOjg_rUbSI) - Was ist Wissen? (Gettier, Nozick, Armstrong)
 - [Erkenntnistheorie 2017 03](https://www.youtube.com/watch?v=i7U0UwrSOso) - Goldman Causal Theorie
@@ -31,7 +31,7 @@ tags: Philosophie/Erkenntnistheorie
 - [Erkenntnistheorie 2017 19](https://www.youtube.com/watch?v=vghWf24-kyA) - Jacques Lacan und "The Ambassadors"
 - [Erkenntnistheorie 2017 20](https://www.youtube.com/watch?v=dA92x8KUFfQ) - Jacques Lacan über Signifikanten. Der Fall H. Keller
 #### Vorlesung 2020
-#speaker/Finkelde-Dominik
+[[Erkenntnistheorie_Finkelde_2020|eigene Notizen]] #speaker/Finkelde-Dominik
 - [Erkenntnistheorie 2020 01  ](https://www.youtube.com/watch?v=N_2WcJcTHbI) - Einführung, There is a crack in everything. That's where the light gets in
 - [Erkenntnistheorie 2020 02a ](https://www.youtube.com/watch?v=X52QpzdmXbM&pp=0gcJCQwKAYcqIYzv) - John Locke (Außenweltproblem)
 - [Erkenntnistheorie 2020 02b1](https://www.youtube.com/watch?v=ic7RDAkVrOc) - David Hume

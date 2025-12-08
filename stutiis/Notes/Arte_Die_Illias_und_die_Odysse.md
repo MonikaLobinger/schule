@@ -1,14 +1,15 @@
 ---
-cssclass: note
-date_created: 2025-11-30
+cssclass: studies
+date_created:
 publish: true
-tags: [Ilias, Odyssee]
-author: Ueberphilosophy
+tags:
+author:
 ---
 
-# Literatur
-## Arte Die Ilias und die Odyssee
-[[Arte_Die_Illias_und_die_Odysse|eigene Notizen]]
+# Die Ilias und die Odyssee
+Notizen zu [[Homer Materialen#Arte Die Ilias und die Odyssee]]
+
+## Offen
 - [Der Apfel der Zwietracht](https://www.youtube.com/watch?v=k9mMOFrm_pI&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=1&pp=iAQB)
 - [Die Stunde der Opfer](https://www.youtube.com/watch?v=ldzA4UOHb2c&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=2&pp=iAQB0gcJCRUKAYcqIYzv)
 - [Der Zorn des Achilles](https://www.youtube.com/watch?v=rcIfnmsUYs8&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=3&pp=iAQB)

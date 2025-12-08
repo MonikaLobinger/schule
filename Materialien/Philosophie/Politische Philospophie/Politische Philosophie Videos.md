@@ -9,4 +9,5 @@ author: Ueberphilosophy
 ## Politische Philosophie
 ### Einzelvorträge
 
-- [Die Aporien des Liberalismus](https://www.youtube.com/watch?v=EK-AKKne5Us) 2018 #speaker/Menke-Christoph  #Liberalismus
+- [Die Aporien des Liberalismus](https://www.youtube.com/watch?v=EK-AKKne5Us) 2018  [[Die_Aporien_des_Liberalismus|eigene Notizen]] #speaker/Menke-Christoph  #Liberalismus ^Einzelvortrag1
+- 

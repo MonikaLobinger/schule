@@ -9,7 +9,7 @@ author: Ueberphilosophy
 # Philosophie
 ## Sprachphilosophie
 ### Vorlesung Finkelde 2020
-#speaker/Finkelde-Dominik 
+[[Sprachphilosophie_Finkelde_2020|eigene Notizen]] #speaker/Finkelde-Dominik 
 - [01 Willard V. O. Quine "Unbestimmtheit der Übersetzung](https://www.youtube.com/watch?v=-873ZKN1t5Y) #Quine-Willard
 - [02 Donald Davidson "Vernünftige Tiere" und "radikale Interpretation"](https://www.youtube.com/watch?v=jJ87hb_0emI) #Davidson-Donald
 - [03 Robert Brandom, Zur Semantik begrifflicher Rollen](https://www.youtube.com/watch?v=KJBEdmsdEMk) #Brandom-Robert

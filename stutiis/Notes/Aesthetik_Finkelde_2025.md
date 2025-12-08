@@ -1,15 +1,15 @@
 ---
-cssclass: note
-date_created: 2025-12-04
+cssclass: studies
+date_created:
 publish: true
 tags:
-author: Ueberphilosophy
+author:
 ---
 
-# Philosophie
-## Ästhetik
-### Vorlesung 2025
-[[Aesthetik_Finkelde_2025|eigene Notizen]] #speaker/Finkelde-Dominik 
+# Ästhetik
+Notizen zu [[Aesthetik Videos#Vorlesung 2025]]
+## Offen
+
 - [01 Einführung](https://www.youtube.com/watch?v=Ar1p-ppNifA)
 - [02 Bataille, die Höhlen v. Lascaux u. der transzendentale Akt des homo pictor](https://www.youtube.com/watch?v=Ur35XtOAPkI) #Bataille-Georges
 - [03 Hegel über Zarathustra, symbolische Kunst und das Reich des Sakralen](https://www.youtube.com/watch?v=HPHFwNgeKwc&pp=0gcJCSMKAYcqIYzv) #Hegel

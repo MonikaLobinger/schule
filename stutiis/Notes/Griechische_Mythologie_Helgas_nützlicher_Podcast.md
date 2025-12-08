@@ -1,16 +1,15 @@
 ---
-cssclass: note
-date_created: 2025-12-04
+cssclass: studies
+date_created:
 publish: true
 tags:
-author: Ueberphilosophy
+author:
 ---
 
-# Literatur
-## Griechische Mythologie
-### Helgas nützlicher Podcast
-[[Griechische_Mythologie_Helgas_nützlicher_Podcast|eigene Notizen]] #speaker/Utz-Helga
--  [1 - Der heilende Gott / Asklepios](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/1-der-heilende-gott-asklepios_7926037/)
+# Griechische Mythologie
+Notizen zu [[Griechische Mythologie Audios#Griechische Mythologie]]
+## Offen
+- [1 - Der heilende Gott / Asklepios](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/1-der-heilende-gott-asklepios_7926037/)
 - [2 - Schöpfungsgeschichten / Eros 1](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/2-schoepfungsgeschichten-eros-1_7926031/)
 - [3 - Schmied, Sturm und Kugelmenschen / Eros 2](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/3-schmied-sturm-und-kugelmenschen-eros-2_7926055/)
 - [4 - Engelchen und Bengelchen / Eros 3](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/4-engelchen-und-bengelchen-eros-3_7926053/)
@@ -57,4 +56,3 @@ author: Ueberphilosophy
 - [45 - Sisyphos, der Steinewälzer](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/45-sisyphos-der-steinewaelzer_8395258/)
 - [46 - Erkennen 1 / Ödipus Anagnorensis](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/46-erkennen-1-oedipus-anagnorensis_8470140/)
 - [47 - Erkennen 2 / Odysseus](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/47-erkennen-2-odysseus_8567937/)
-- 

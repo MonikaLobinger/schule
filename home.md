@@ -5,7 +5,7 @@ publish: true
 author: Ueberphilosophy
 ---
 # Startseite
-Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner Materialen. Der Ordner `Werkstatt` enthält nicht exportierte Dateien, leider wird er dennoch im Dateibaum angezeigt.
+Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Die selbst erstellen Definitionen im Ordner `Definitionen`  sind grob. Der Ordner `stutiis` dient für jeweils eigene Notizen. Der Name ist falsch geschrieben, so kann er über alle Dateien ersetzt werden. Die Dateien des Ordners `Werkstatt` sind persönliche Realisierung von `stutiies`, sie sind nicht exportiert; leider wird der Ordner dennoch manchmal im Dateibaum angezeigt.
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol ist leider nicht sichtbar. 
  - Beim  Klick mit der Maus öffnen alle Links, auch externe, leider im selben Fenster. 
@@ -13,6 +13,12 @@ Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quell
  - Die Verlinkung von Fußnoten funktioniert nicht, entsprechend auch keine Hover-Effekte von Fußnoten.
  - Die [[timeline]] wird  unschön dargestellt.
  - Diese Nachteile sind der Art des Exports geschuldet, wohl dem Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export); doch es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird.
+%% Den Dateibaum anpassen
+site-lib/html/file-tree-content.html
+In vim "1" sukzessive suchen, die Zeile von dem Abschnitt Werkstatt als m merken
+Nochmal "1" suchen, die Zeile drüber als n merken
+Diese Zeilen löschen mit :m,n d
+%%
 
 ## Inhalt
 Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,  und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[-Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline]]  zu finden. Beide Auflistungen sind da  manuell erstellt möglicherweise nicht aktuell. Über die Seitenleiste links kann man alle Seiten finden.
@@ -142,7 +148,7 @@ Dieser Abschnitt gilt nur für  eine laufende Obsidian Instanz
 - Früher hieß der gesamte Service github.io, heute heißt er Github Pages.
 - Github läuft seit über einem Jahrzehnt auch für kostenlose Konten stabil und problemlos
 - Wenigstens Verzeichnisse dürfen nicht mit einem Unterstrich beginnen^[Für Dateien extra habe ich das dann nicht ausprobiert]
-- Ein Minuszeichen würde gehen, macht aber [bash](https://de.wikipedia.org/wiki/Bash_(Shell))-Bearbeitung komplizierter
+- Ein Minuszeichen würde gehen, macht aber Zugriff über [bash](https://de.wikipedia.org/wiki/Bash_(Shell)) komplizierter
 - 
 
 [^2]: Add 2 spaces at the start of each new line.

@@ -18,5 +18,5 @@ author: Ueberphilosophy
 ## Apologie
 - [librivox](https://librivox.org/vertheidigung-des-socrates-by-xenophon/) - audio, deutsch
 ## Oikonomikos
-- [digital slub dresden](https://digital.slub-dresden.de/werkansicht/dlf/105858/1) - digitalisiertes Buch, altdeutsche Schrift, nur online zu lesen
+- [digital slub dresden](https://digital.slub-dresden.de/werkansicht/dlf/105858/1) - digitalisiertes Buch, Fraktur, nur online zu lesen
 - 

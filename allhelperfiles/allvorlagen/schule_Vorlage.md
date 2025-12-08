@@ -4,6 +4,7 @@
     let pict       = "";
     let pict_width = 0;
     let firstline  = "";
+    let sndline    = "";
     let prevlink   = "";
     let nextlink   = "";
     let lastline   = "";
@@ -26,6 +27,7 @@
                 case "pict":      pict       = value; break;
                 case "pict_width":pict_width = value; break;
                 case "firstline": firstline  = value; break;
+                case "sndline":   sndline    = value; break;
                 case "prevlink":  prevlink   = value; break;
                 case "nextlink":  nextlink   = value; break;
                 case "lastline":  lastline   = value; break;
@@ -65,13 +67,24 @@
 
 
 
-<%_* // ***** WRITING Firstline and setting Cursor***** 
+<%_* // ***** WRITING Firstline ***** 
     if(firstline!="") { %>
 # <% firstline %>
 <%_*} -%>
 
+
+<%_* // ***** WRITING Sndline ***** 
+    if(sndline!="") { %>
+<% sndline %>
+<%_*} -%>
+
+<%_* // ***** Setting Cursor ***** %>
 <% tp.file.cursor(1) %>
 
+<%_* // ***** WRITING Lastline ***** 
+    if(lastline!="") { %>
+<% lastline %>
+<%_* } %>
 
 <%_* // ***** WRITING links to prev/next ***** 
 if(nextlink!="") { %>
@@ -81,9 +94,3 @@ if(nextlink!="") { %>
 - <% nextlink %>&#9658;
 <%_* } %>
 
-
-
-<%_* // ***** WRITING Lastline ***** 
-    if(lastline!="") { %>
-<% lastline %>
-<%_* } %>
