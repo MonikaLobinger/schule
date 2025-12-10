@@ -11,10 +11,10 @@ author: Ueberphilosophy
 ### Kulturphilosophie nach Jacques Lacan 2018
 #speaker/Finkelde-Dominik #Lacan-Jacques 
 - [01 Einleitung](https://www.youtube.com/watch?v=T6mW1Ggvylc)
-- [02 Enigmatische Signifikanten (Laplanche)](https://www.youtube.com/watch?v=jpqe6m5PCdo)
-- [03 Freud, Kant und regulative Ideen](https://www.youtube.com/watch?v=_1Q7ptZhhdE)
-- [04 Anrufungen bei Kafka und Schreber](https://www.youtube.com/watch?v=RmigXHjbPP8)
-- [05 Verweilen beim Negativen (Hegel)](https://www.youtube.com/watch?v=ZGrCMLzJzdU)
+- [02 Enigmatische Signifikanten (Laplanche)](https://www.youtube.com/watch?v=jpqe6m5PCdo) #Laplanche-Jean 
+- [03 Freud, Kant und regulative Ideen](https://www.youtube.com/watch?v=_1Q7ptZhhdE) #Freud-Sigmund  #Kant-Immanuel 
+- [04 Anrufungen bei Kafka und Schreber](https://www.youtube.com/watch?v=RmigXHjbPP8) #Kafka-Franz
+- [05 Verweilen beim Negativen (Hegel)](https://www.youtube.com/watch?v=ZGrCMLzJzdU) #Hegel
 - [06 Kultur als generische Entwicklung retroaktiver Perfomanz](https://www.youtube.com/watch?v=ghqQRVqu4yk)
 - [07 "Spiegelstadium"](https://www.youtube.com/watch?v=YZgjoq0bKvg)
 - [08 Der Graph des Begehrens](https://www.youtube.com/watch?v=umVXLe6n_CI)

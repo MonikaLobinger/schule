@@ -8,5 +8,6 @@ author: Ueberphilosophy
 
 # Hegel Georg Wilhelm Friedrich
 [[timeline#^Hegel]]
-
+## Phänomenologie des Geistes
+[Hegel Net](https://hegel.net/hegelwerke/Hegel1807-Phaenomenologie.pdf) - Digitalisat, deutsch
 ## -footnotes

@@ -42,6 +42,7 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Wikisource](https://wikisource.org/wiki/Main_Page)
 - [Google Books](https://books.google.de/)
 - [jstor](https://www.jstor.org/)
+- [Deutsches Textarchiv](https://deutschestextarchiv.de/)
 - [Österreichische Nationalbibliothek](https://onb.digital/)
 - [Standard E-Books](https://standardebooks.org/)
 - [Französische Nationalbibliothek](https://www.bnf.fr/en) 
@@ -49,7 +50,8 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [biblotheca augusthana](https://www.hs-augsburg.de/~harsch/augustana.html)
 - [Herzogin Anna Amalia Bibliothek](https://haab-digital.klassik-stiftung.de/viewer/index/)
 - [Logos Verlag Open Access](https://www.logos-verlag.de/cgi-bin/mylibrary)
-- 
+- [Marxist Internet Archive](https://www.marxists.org/index.htm)
+- [Hegel Werke](https://hegel.net/hegelwerke/)
 %% 
 - [Logos Verlag Open Access Verzeichnis](https://www.logos-verlag.de/ebooks/OA/)
 - [Annas Archive](https://annas-archive.org/) Schattenarchiv, Grauzone, manchmal illegal
@@ -77,6 +79,7 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Alexander Lasch Linguistik YouTube](https://www.youtube.com/@AlexanderLasch/featured)
 - [Elena Smirnova Sprachwissenschaft YouTube](https://www.youtube.com/@elenasmirnova674/featured)
 - [lacan podcast](http://lacast.de/) und [Lacan Videos](https://lacan-entziffern.de/category/video-lacan-entziffern/)
+%%https://transformatorische-bildung.de/ %%
 ## Technisches über diese Site
 ### Einstellungen
 - Erstellt mit [Obsidian](https://obsidian.md/), 

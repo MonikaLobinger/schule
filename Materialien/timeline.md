@@ -149,6 +149,9 @@ Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenscha
 > [!timeline|blue] 1844
 >  [[Nietzsche Quellen|Nietzsche]] †1900 ^Nietzsche
 
+> [!timeline|grey] 1856
+>  [[Freud Quellen|Freud]] †1939 ^Freud
+
 > [!timeline|green] 1866
 >  [[Wells Quellen|Wells]] †1946 ^Wells
 
@@ -160,6 +163,9 @@ Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenscha
   
 > [!timeline|blue] 1859
 >  [[Husserl Quellen|Husserl]] †1938 ^Husserl
+  
+> [!timeline|green] 1883
+>  [[Kafka Quellen|Kafka]] †1924 ^Kafka
   
 > [!timeline|blue] 1889
 >  [[Wittgenstein Quellen|Wittgenstein]] †1951 ^Wittgenstein
@@ -176,6 +182,9 @@ Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenscha
 > [!timeline|blue] 1908
 >  [[Quine Quellen|Quine]] †2000 ^Quine
   
+> [!timeline|grey] 1924
+>  [[Laplanche Quellen|Laplanche]] †2012 ^Laplanche
+
 > [!timeline|blue] 1927
 >  [[Schobinger Quellen|Schobinger]] †2001 ^Schobinger
   

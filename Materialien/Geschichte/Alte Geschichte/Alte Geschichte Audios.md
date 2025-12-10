@@ -10,7 +10,7 @@ author: Ueberphilosophy
 ## Alte Geschichte
 Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
 ### gr.Archaik (audio + text)- hamburg open online university 
-[[Griechische_Archaik_Hamburg_OOU|eigene Notizen]] #speaker/Riess-Werner-Werner 
+[[Griechische_Archaik_Hamburg_OOU|eigene Notizen]] #speaker/Riess-Werner
 - [01 Überblick](https://emanualaltegeschichte.blogs.uni-hamburg.de/ueberblick/)
 - [02 Die Minoer](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-die-minoer/) #Minoische-Kultur #Kreta
 - [03 Die Mykener](https://emanualaltegeschichte.blogs.uni-hamburg.de/03-die-mykener/) #Mykene
