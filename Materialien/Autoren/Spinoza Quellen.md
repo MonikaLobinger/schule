@@ -10,6 +10,6 @@ tags: Spinoza-Baruch
 [[timeline#^Spinoza]]
 
 ## Die Ethik
-[Internet Archive](https://ia801506.us.archive.org/34/items/dieethik00spin/dieethik00spin.pdf) - digitalisiertes Buch, deutsch, Fraktur
+[Internet Archive](https://ia801506.us.archive.org/34/items/dieethik00spin/dieethik00spin.pdf) - Digitalisat, deutsch, Fraktur
 
 ## -footnotes

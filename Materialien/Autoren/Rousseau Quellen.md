@@ -12,11 +12,11 @@ author: Ueberphilosophy
 [Uni Halle](https://opendata.uni-halle.de/explore?bitstream_id=8a711894-a53c-4e5f-a5b1-1c0cf13de852&handle=1981185920/62607&provider=iiif-image&content_search=Abhandlung+von+dem+Ursprunge+der+Ungleichheit+unter+den+Menschen%2C+und+worauf+sie+sich+gr%C3%BCnde) - deutsch, Fraktur, Digitalisat
 
 ## Émile ou De l’éducation (Emile )
-- [Internet Archive](https://archive.org/details/bub_gb_OXcpAAAAYAAJ/mode/2up) - deutsch, digitalisiertes Buch
+- [Internet Archive](https://archive.org/details/bub_gb_OXcpAAAAYAAJ/mode/2up) - deutsch, Digitalisat
 - 
 
 ##  Les Confessions (Die Bekenntnisse)
-- [Internet Archive](https://archive.org/details/bub_gb_b82aLYs_7SEC/mode/2up) - deutsch, digitalisiertes Buch
+- [Internet Archive](https://archive.org/details/bub_gb_b82aLYs_7SEC/mode/2up) - deutsch, Digitalisat
 - 
 
 ## -footnotes

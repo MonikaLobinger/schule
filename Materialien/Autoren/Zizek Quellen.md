@@ -10,7 +10,7 @@ author: Ueberphilosophy
 [[timeline#^Zizek]]
 
 ## How to read Lacan
-- [Internet Archive](https://archive.org/details/how-to-read-lacan_202307) - englisch, digitalisiertes Buch
+- [Internet Archive](https://archive.org/details/how-to-read-lacan_202307) - englisch, Digitalisat
 
 
 ## -footnotes

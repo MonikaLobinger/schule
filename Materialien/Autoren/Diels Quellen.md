@@ -9,7 +9,7 @@ author: Ueberphilosophy
 # Hermann Diels
 [[timeline#^Diels]]
 ## Herakleitos
- - [InternetArchive](https://archive.org/details/herakleitosvonep00hera_0) - digitalisiertes Buch deutsch/griechisch
+ - [InternetArchive](https://archive.org/details/herakleitosvonep00hera_0) - Digitalisat deutsch/griechisch
  - [Zeno](http://www.zeno.org/Philosophie/M/Heraklit+aus+Ephesus) - nur die kommentierten Fragmente, online zu lesen
  - 
 ## Die Fragmente der Vorsokratiker

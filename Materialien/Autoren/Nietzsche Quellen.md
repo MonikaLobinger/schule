@@ -10,7 +10,7 @@ author: Ueberphilosophy
 [[timeline#^Nietzsche]]
 ## Also sprach Zarathustra
 - [pileface](https://www.pileface.com/sollers/pdf/Zarathustra.pdf) - pdf, deutsch
-- [Internetarchive](https://archive.org/details/NietzscheAlsoSprachZarathustra1893/mode/2up) - digitalisiertes Buch, deutsch
+- [Internetarchive](https://archive.org/details/NietzscheAlsoSprachZarathustra1893/mode/2up) - Digitalisat, deutsch
 - 
 
 
