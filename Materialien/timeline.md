@@ -6,7 +6,10 @@ author: Ueberphilosophy
 ---
 
 # Geburten
-Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) leider nicht ansehnlich exportiert. Literaten/Künstler/Musiker "green", Wissenschaftler/Forscher "grey", Politiker/Könige/Feldherren "red"
+Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenschaftler/Forscher "grey", Politiker/Könige/Feldherren "red"
+
+> [!timeline|green] ~-1800 
+> [[Gilgamesch Quellen|Gilgamesch]] ^Gilgamesch
 
 > [!timeline|green] ~-850 
 > [[Homer Quellen|Homer]] ^Homer
@@ -89,6 +92,12 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
 > [!timeline|red] 1485
 > Cortez†1547 ^Cortez-Hernan
 
+> [!timeline|yellow] 1491
+> [[Ignatius Quellen|Ignatius]] †1556 ^Ignatius-von-Loyola
+
+> [!timeline|yellow] 1515
+> [[Theresa Quellen|Theresa]] †1582 ^Theresa-von-Avila
+
 > [!timeline|grey] 1540
 > Acosta †1600 ^Acosta
 
@@ -158,8 +167,20 @@ Wird vom verwendeten Plugin  [Webpage HTML Export](https://github.com/KosmosisD
 > [!timeline|blue] 1889
 >  [[Heidegger Quellen|Heidegger]] †1976 ^Heidegger
   
+> [!timeline|green] 1899
+>  [[Borges Quellen|Borges]] †1986 ^Borges-Jorge-Luis
+  
+> [!timeline|blue] 1903
+>  [[Jankelevitch Quellen|Jankelevitch]] †1985 ^Jankelevitch
+  
+> [!timeline|blue] 1908
+>  [[Quine Quellen|Quine]] †2000 ^Quine
+  
 > [!timeline|blue] 1927
 >  [[Schobinger Quellen|Schobinger]] †2001 ^Schobinger
+  
+> [!timeline|blue] 1930
+>  [[Derrida Quellen|Derrida]] †2004 ^Derrida
   
 > [!timeline|blue] 1949
 >  [[Zizek Quellen|Zizek]]  ^Zizek

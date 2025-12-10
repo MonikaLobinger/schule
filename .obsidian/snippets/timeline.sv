@@ -41,16 +41,15 @@ body {
   --dot-offset: calc(
     var(--timeline-dot-offset-y) + var(--timeline-card-padding-y)
   );
-}
 
-[data-callout="timeline"] .callout-title-inner {
+  .callout-title-inner {
     width: 80%;
     text-align: right;
     color: var(--timeline-title-color);
     font-size: var(--timeline-title-size);
     margin-top: var(--dot-offset);
-}
-[data-callout="timeline"] .callout-icon {
+  }
+  .callout-icon {
     order: 2;
     margin-inline: var(--timeline-line-margin);
     border-left: var(--timeline-line-width) var(--timeline-line-style) var(--timeline-line-color);
@@ -71,12 +70,12 @@ body {
       top: var(--dot-offset);
       left: var(--timeline-dot-offset-x);
     }
-}
-[data-callout="timeline"] .callout-title .svg-icon {
+  }
+  .callout-title .svg-icon {
     display: none;
-}
+  }
 
-[data-callout="timeline"] .callout-content {
+  .callout-content {
     order: 3;
     --p-spacing: 0.5rem;
     background-color: var(--timeline-card-background-color);
@@ -87,6 +86,7 @@ body {
     & > h2:first-child {
       margin-top: 0;
     }
+  }
 }
 
 /* Stacking multiple timelines */

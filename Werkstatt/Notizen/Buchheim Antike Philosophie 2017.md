@@ -28,6 +28,8 @@ logos Doxographie
 ## Vorlesung 2
 [Heraklit](https://cast.itunes.uni-muenchen.de/clips/Mv8bbhQ06N/vod/online.html)
 
+0:13
+
 Heraklit hält viel auf Bewegung und ihre Rolle auf die Konstitution der Welt.
 
 > Doch werde das Bewegte durch ein Bewegtes erkannt
@@ -42,11 +44,15 @@ Heraklit hält den Tod für eine innere Bedingung des Lebens. Parmenides hält i
 
 Heraklit gibt viel auf das Zeugnis unserer Sinne, während Parmenides dies als eine Art systhematischer Irreführung betrachtet und sich nur auf das Denken berufen will. 
 
-Seinsformen sind diejenigen Züge an den Dingen kraft derer sie sind
+Seinsformen sind diejenigen Züge an den Dingen kraft derer sie sind. Bei Parmenides logische Seinsform, bei Heraklit phänomenale Seinsform
 
-Nun nur noch zu Heraklit
+0:33 Nun nur noch zu Heraklit
 
 Im allgemeinen Konflikt der Dinge stellt sich heraus, was etwas ist und was nicht.
+
+bis 0:43 - der Hintergrund ist so laut
+
+
 ## Offen
 - [Parmenides](https://cast.itunes.uni-muenchen.de/clips/kN7ThPh3BX/vod/online.html)
 - [Empedokles, Anaxagoras, Atomistik](https://cast.itunes.uni-muenchen.de/clips/MwYwFANxpn/vod/online.html)

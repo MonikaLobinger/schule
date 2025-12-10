@@ -160,6 +160,31 @@ Es gibt aber Texte die Wörter enthalten die man noch nicht kennt.
 
 
 ### Das Hethitische
+## Das Gilgamesch-Epos
+[Das Gilgamesch-Epos](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/das-gilgamesch-epos_9484355/)
+
+18:31 Ischtar will Gilgamesch zu ihrem Liebhaber machen. 
+
+Gilgamesch's [Antwort](https://www.lyrik.ch/lyrik/spur1/gilgame/gilgam6.htm):
+> Was muß ich dir geben, wenn ich dich nehme?  
+Brauchst du Salbe für den Leib, oder brauchst du Gewänder?  
+Fehlt es dir etwa an Brot oder Nahrung?  
+Freilich habe ich götterwürdige Speise,  
+Habe manchen Trank, der dem Königtum ansteht!  
+[1 Vers fehlt]  
+Doch wozu? An der Straße, da sei dein Sitz,  
+... mit einem Mantel magst du bekleidet sein,  
+Dann wird dich nehmen, wer immer Lust hat!  
+Ein Ofen bist du, der das Eis nicht ...  
+Eine unfertige Türe, die Wind und Blast nicht abhält!  
+Ein Palast, der niederschmettert den Helden,  
+Ein Elefant, der da abreißt seine Decke!  
+Erdpech, das seinen Träger besudelt,  
+Ein Schlauch, der seinen Träger durchnäßt!  
+Ein Kalkstein, der die steinerne Mauer sprengt,  
+Ein Jaspis, der das feindliche Land herbeilockt!  
+Ein Schuh, der seinen Besitzer kneift!  
+Welchen deiner Buhlen behältst du für allezeit lieb?
 ## Offen
 - [Was ist Altorientalistik?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/was-ist-altorientalistik-9484359/)
 - [Die Wiederentdeckung des Alten Orients und die Entschlüsselung der Keilschrift](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-wiederentdeckung-des-alten-orients_9484360/)
@@ -167,7 +192,6 @@ Es gibt aber Texte die Wörter enthalten die man noch nicht kennt.
 - [Altorientalische Schöpfungsmythen](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/altorientalische-schoepfungsmythen_9484358/)
 - [Von Schreibern, Schafen und verschollenen Schwestern - Mesop Schrifttum, Teil 1](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/von-schreibern-schafen-und-verschollenen-schwestern_9484357/)
 - [Von Feldzügen, Vorzeichen und verzeihenden Göttern - Mesop Schrifttum, Teil 2](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/von-feldzuegen-vorzeichen-und-verzeihenden-goettern_9484356/)
-- [Das Gilgamesch-Epos](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/das-gilgamesch-epos_9484355/)
 - [Hexen, Geister und Dämonen - Die unheimliche Seite des Alten Orients](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/hexen-geister-und-daemonen_9484354/)
 - [Das Reich von Akkad](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/das-reich-von-akkad_9484352/)
 - [Ein König und sein missratener Sohn - Aus dem Königreich von Mari](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/ein-koenig-und-sein-missratener-sohn_9686124/)

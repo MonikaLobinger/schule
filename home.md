@@ -5,19 +5,25 @@ publish: true
 author: Ueberphilosophy
 ---
 # Startseite
-Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Die selbst erstellen Definitionen im Ordner `Definitionen`  sind grob. Der Ordner `stutiis` dient für jeweils eigene Notizen. Der Name ist falsch geschrieben, so kann er über alle Dateien ersetzt werden. Die Dateien des Ordners `Werkstatt` sind persönliche Realisierung von `stutiies`, sie sind nicht exportiert; leider wird der Ordner dennoch manchmal im Dateibaum angezeigt.
+Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Die selbst erstellen Definitionen im Ordner `Definitionen`  sind grob. Der Ordner `stutiis` dient für jeweils eigene Notizen. Der Name ist falsch geschrieben, so kann er über alle Dateien ersetzt werden. Die Dateien des Ordners `Werkstatt` sind persönliche Realisierung von `stutiis`, sie sind nicht exportiert; leider wird der Ordner dennoch manchmal im Dateibaum angezeigt.
 
- - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol ist leider nicht sichtbar. 
- - Beim  Klick mit der Maus öffnen alle Links, auch externe, leider im selben Fenster. 
- - [Callouts](https://help.obsidian.md/callouts) sind nicht klappbar. 
- - Die Verlinkung von Fußnoten funktioniert nicht, entsprechend auch keine Hover-Effekte von Fußnoten.
- - Die [[timeline]] wird  unschön dargestellt.
- - Diese Nachteile sind der Art des Exports geschuldet, wohl dem Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export); doch es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird.
+ - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol wird beim Drüberfahren mit der Maus sichtbar. 
+ - Beim  Klick mit der Maus öffnen alle Links, auch externe,  im selben Fenster. `Ctrl`^[`Shift`]-Klick öffnet in einem neuen Tab.
+ - Die Verlinkung von Fußnoten funktioniert nicht, entsprechend auch keine Hover-Effekte von Fußnoten.^[Das ist wohl dem Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export); doch es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird.]
 %% Den Dateibaum anpassen
 site-lib/html/file-tree-content.html
-In vim "1" sukzessive suchen, die Zeile von dem Abschnitt Werkstatt als m merken
-Nochmal "1" suchen, die Zeile drüber als n merken
-Diese Zeilen löschen mit :m,n d
+
+```
+:%s/<div class="tree-item-self is-clickable mod-collapsible nav-folder-title" data-path="Werkstatt"\_.\{-}zzzzzz<\/div><\/a><div class="tree-item-children nav-file-children"><\/div><\/div><\/div><\/div>//
+```
+
+Batch `.makepriv` im Verzeichnis `/opt/lampp/htdocs/schoolout` aufrufen
+```
+#!/usr/bin/env bash
+cp site-lib/html/file-tree-content.html site-lib/html/file-tree-content.sv
+sed -i 's/<div class="tree-item-self is-clickable mod-collapsible nav-folder-title" data-path="Werkstatt".*zzzzzz<\/div><\/a><div class="tree-item-children nav-file-children"><\/div><\/div><\/div><\/div>//' site-lib/html/file-tree-content.html
+```
+`.domakepub` stellt die öffentliche Version wieder her
 %%
 
 ## Inhalt
@@ -70,35 +76,49 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Uni Hamburg Lecture2Go Videokatalog](https://lecture2go.uni-hamburg.de/l2go)
 - [Alexander Lasch Linguistik YouTube](https://www.youtube.com/@AlexanderLasch/featured)
 - [Elena Smirnova Sprachwissenschaft YouTube](https://www.youtube.com/@elenasmirnova674/featured)
-- 
+- [lacan podcast](http://lacast.de/) und [Lacan Videos](https://lacan-entziffern.de/category/video-lacan-entziffern/)
 ## Technisches über diese Site
 ### Einstellungen
 - Erstellt mit [Obsidian](https://obsidian.md/), 
 - exportiert mit dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export). 
-- Verzeichnis für Daily Notes `Werkstatt/Diary`. 
-- Strict Line Breaks, 
-- Show line numbers, 
-- Source-Editing Mode, 
-- Properties in Document hidden, 
-- vim-key bindings, 
-- Nicht Show Inline Title, 
-- Attachments nach `allhelperfiles/allresources` , 
-- template folder location  `allhelperfiles/allvorlagen`.  
+- Einstellungen
+  - Editor
+    - Default editing mode: Source mode 
+    - Strict Line Breaks, 
+    - Properties in Document hidden, 
+    - Show line numbers, 
+    - vim-key bindings, 
+  - Files and Links 
+    - Attachments nach `allhelperfiles/allresources` , 
+    - Show all file types
+  - Appearance
+    -  Theme `Obuntu`, die Orange Farbe zu Grün geändert %%Vorher Willemstad%%
+    - Nicht Show Inline Title
+   - Hotkeys
+    - Eigene Shortcuts in `.obsidian/hotkeys.json` ^[hardlinked zu `allhelperfiles/pointobsidian/hotkeys.json`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität].
+  - Diary 
+    - Verzeichnis für Daily Notes `Werkstatt/Diary`. 
+  - Templates
+    - template folder location  `allhelperfiles/allvorlagen`.  
+  - Dataview
+    -  Enable Javascript Queries
+  - Templater
+    - Template Folder Location `allhelperfiles/allvorlagen`
+    - automatic jump to cursor, 
+    - Trigger Templater on new file creation, 
+    - Kein enable folder templates, 
+    - Enable file regex template
+    - file regex template `allhelperfiles/allvorlagen/foty_Vorlage.md`, 
+    - Script files folder location `allhelperfiles/allscripts`
+- Sonst Defaults, 
 - Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes.  
-- Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md) als `timeline.css`. 
-- Sonst Defaults, außer Theme `Willemstad`, 
-- angepasst mit dem Plugin [Style Settings](https://github.com/mgmeyers/obsidian-style-settings), das Einstellungen in `data.json` speichert. 
-- Der Export angepasst mit eigener Datei  `willemstad_to_html.css`. 
-- Zeitleiste verlangsamt den Export und wird nicht korrekt exportiert.
-
+- Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md), leicht angepasst, als `timeline.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/timeline.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
+- Anfangs verwendetes Theme Willemstad angepasst mit dem Plugin [Style Settings](https://github.com/mgmeyers/obsidian-style-settings), das Einstellungen in `.obsidian/plugins/obsidian-style-settings/data.json` ^[hardlinked zu `allhelperfiles/pointobsidian/plugins/obsidian-style-settings/data.json`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität] speichert. Aktuelles Theme Obuntu unterstützt das Plugin nicht.
+- Export angepasst mit eigener Datei  `obuntu_adapt.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/obuntu_adap.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
 - Eigenes Script `foty.js` nach `allhelperfiles/allscripts`, 
 - Template `foty_Vorlage.md` nach `allhelperfiles/allvorlagen`. 
-- Im Templater Template folder location auf `allhelperfiles/allvorlagen`, 
-- automatic jump to cursor, 
-- Trigger Templater on new file creation, 
-- Kein enable folder templates, 
-- file regex template `allhelperfiles/allvorlagen/foty_Vorlage.md`, 
-- Script files folder location `allhelperfiles/allscripts`
+- Plugin [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
+- Plugin [Shortcuts Extender](https://github.com/ryjjin/Obsidian-shortcuts-extender)
 ### Formatierungen
 #### Basics
 siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
@@ -132,8 +152,8 @@ siehe Obsidian [# Advanced Formatting Syntax](https://help.obsidian.md/advanced-
 - Callouts
 - Tags #tag und Nested Tags #nested/tag - Groß/Kleinschreibung ist für Tags egal
 
-> [!quote]+ Das ist ein Callout Block
-> Durch ein Minuszeichen wäre er ursprünglich gefaltet. Sonst wird er direkt angezeigt.
+> [!quote]- Das ist ein Callout Block
+> Durch ein Pluszeichen wäre er ursprünglich aufgefaltet. So wird er gefaltet angezeigt.
 >
 > Es gibt folgende Callouts: Note, Abstract, Info, Todo, Tip, Success, Question, Warning, Failure, Danger, Bug, Example, Quote - alle kleingeschrieben, aber groß angezeigt, falls der Titel nicht überschrieben wird
 
