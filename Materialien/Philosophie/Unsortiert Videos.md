@@ -20,3 +20,6 @@ author: Ueberphilosophy
 - [Nichtwachheit. Oder: Die unbewusste Struktur der Realität (Louis Althusser et al)](https://www.youtube.com/watch?v=mR7Hr7Rl41k) #speaker/Finkelde-Dominik #Althusser-Louis
 - [Zizek und David Lynch - Die Kunst des theoretisch Erhabenen](https://www.youtube.com/watch?v=y9iEon03w24)
 - [Uncanny Kant: On Truth and Subjectivity, Zupancic and Finkelde 2024 Ljubljana](https://www.youtube.com/watch?v=SGIUVLRwCJ8)
+
+
+## -footnotes

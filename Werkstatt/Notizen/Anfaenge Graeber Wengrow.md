@@ -12,3 +12,4 @@ zu [Anfänge](https://www.klett-cotta.de/produkt/anfaenge-9783608985085-t-72) vo
 Jedes Kapitel hat seine eigene Notiz
 - [[01 Abschied von der Kindheit der Menschheit]]
 - [[02 Sündhafte Freiheit]]
+## -footnotes

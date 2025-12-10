@@ -10,3 +10,5 @@ apothéōsis - ἀποθέωσις
 Vergottung, Vergöttlichung
 
 später auch Verherrlichung, Verklärung
+
+## -footnotes

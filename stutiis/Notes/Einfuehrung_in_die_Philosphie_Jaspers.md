@@ -18,3 +18,4 @@ Notizen zu [[Einführung Philosophie Videos#Karl Jaspers]]
 - [Einführung in die Philosophie 5/7 (1960/51)](https://www.youtube.com/watch?v=p5rQUgMUMJ0)
 - [Einführung in die Philosophie 6/7 (1960/51)](https://www.youtube.com/watch?v=-5dgky7xPt4)
 - [Einführung in die Philosophie 7/7 (1960/51)](https://www.youtube.com/watch?v=d8bsnSzRRaI)
+## -footnotes

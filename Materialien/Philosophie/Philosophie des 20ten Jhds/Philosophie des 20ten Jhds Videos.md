@@ -26,3 +26,4 @@ author: Ueberphilosophy
 - [09 Humanismus und Kehre](https://www.youtube.com/watch?v=yQPwgfyseiY&pp=0gcJCSMKAYcqIYzv)
 - [10 Heidegger und Derrida](https://www.youtube.com/watch?v=bJAByp4Sp6M)
 - [11  Heidegger im Kontext](https://www.youtube.com/watch?v=3VwiC-Bm9eI)
+## -footnotes

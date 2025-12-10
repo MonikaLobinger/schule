@@ -10,3 +10,5 @@ author: Ueberphilosophy
 [[timeline#^Protagoras]]
 
 Alle seine Schriften sind heute verloren.
+
+## -footnotes

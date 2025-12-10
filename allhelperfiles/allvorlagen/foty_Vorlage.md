@@ -72,7 +72,6 @@
 # <% firstline %>
 <%_*} -%>
 
-
 <%_* // ***** WRITING Sndline ***** 
     if(sndline!="") { %>
 <% sndline %>
@@ -81,10 +80,6 @@
 <%_* // ***** Setting Cursor ***** %>
 <% tp.file.cursor(1) %>
 
-<%_* // ***** WRITING Lastline ***** 
-    if(lastline!="") { %>
-<% lastline %>
-<%_* } %>
 
 <%_* // ***** WRITING links to prev/next ***** 
 if(nextlink!="") { %>
@@ -94,3 +89,9 @@ if(nextlink!="") { %>
 - <% nextlink %>&#9658;
 <%_* } %>
 
+
+
+<%_* // ***** WRITING Lastline ***** 
+    if(lastline!="") { %>
+<% lastline %>
+<%_* } %>

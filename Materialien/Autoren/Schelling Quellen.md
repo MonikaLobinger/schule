@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Friedrich Schelling
 [[timeline#^Schelling]]
+
+## -footnotes

@@ -39,3 +39,5 @@ Hier Audios, siehe auch [[Einführung Philosophie Videos|Videos]]
 - [Meier - Das politische Leben. Einführung in die politische Philosophie](https://cast.itunes.uni-muenchen.de/clips/1knALKAsJc/vod/high_quality.mp4)
 - [Betzler - Das Rechte und das Gute. Einführung in die normative Ethik](https://cast.itunes.uni-muenchen.de/clips/N3K6JngYKM/vod/high_quality.mp4)
 - [Adamson - Notwendigkeit. Einführung in die mittelalterliche Philosophie](https://cast.itunes.uni-muenchen.de/clips/uEo0NUDlga/vod/high_quality.mp4)
+
+## -footnotes

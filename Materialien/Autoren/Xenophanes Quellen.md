@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Xenophanes von Kolophon
 [[timeline#^Xenophanes]]
+
+## -footnotes

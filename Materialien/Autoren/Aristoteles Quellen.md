@@ -25,3 +25,6 @@ tags: Aristoteles
 
 ## De Anima
 [Internet Archiv](https://archive.org/details/dreibcherberdie00kircgoog/page/n1/mode/1up) - Deutsch, digitalisiertes Buch
+
+
+## -footnotes

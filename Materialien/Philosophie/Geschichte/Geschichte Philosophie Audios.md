@@ -12,3 +12,5 @@ tags: Philosophie/Geschichte
 [[Philosophy_without_any_gaps|eigene Notizen]] #speaker/Adamson-Peter
 
 [History of Philosophy without any gaps](https://historyofphilosophy.net/all-episodes) - Vom Autor selbst aufgelistet, alle Englisch
+
+## -footnotes

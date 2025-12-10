@@ -17,3 +17,5 @@ author: Ueberphilosophy
 
 ![[Wahrheit_2025_11_28_2.png]]
 
+## -footnotes
+

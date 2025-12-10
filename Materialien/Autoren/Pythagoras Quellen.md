@@ -10,3 +10,5 @@ author: Ueberphilosophy
 [[timeline#^Pythagoras]]
 
 Von Pythagoras sind keine Werke erhalten.  Ob er überhaupt was geschrieben hat, ist strittig.
+
+## -footnotes

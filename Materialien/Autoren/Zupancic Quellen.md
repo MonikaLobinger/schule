@@ -7,3 +7,6 @@ author: Ueberphilosophy
 ---
 # Alenka Zupancic
 [[timeline#^Zupancic]]
+
+
+## -footnotes

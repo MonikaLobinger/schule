@@ -8,3 +8,6 @@ author: Ueberphilosophy
 # Simplicius von Kilikien
 [[timeline#^Simplicius]]
 
+
+
+## -footnotes

@@ -56,3 +56,4 @@ Notizen zu [[Griechische Mythologie Audios#Griechische Mythologie]]
 - [45 - Sisyphos, der Steinewälzer](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/45-sisyphos-der-steinewaelzer_8395258/)
 - [46 - Erkennen 1 / Ödipus Anagnorensis](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/46-erkennen-1-oedipus-anagnorensis_8470140/)
 - [47 - Erkennen 2 / Odysseus](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/47-erkennen-2-odysseus_8567937/)
+## -footnotes

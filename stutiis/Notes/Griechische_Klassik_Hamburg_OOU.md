@@ -15,3 +15,4 @@ Notizen zu [[Alte Geschichte Audios#gr. Klassik (audio + text)- hamburg open onl
 - [03 Die Kleisthenischen Reformen / Die athenische Außenpolitik des 5. Jahrhunderts](https://emanualaltegeschichte.blogs.uni-hamburg.de/03-die-kleisthenischen-reformen-die-athenische-aussenpolitik-des-5-jahrhunderts/)
 - [04 Der peleponnesische Krieg](https://emanualaltegeschichte.blogs.uni-hamburg.de/04-der-peleponnesische-krieg/) 
 - [05 Die athenische Demokratie](https://emanualaltegeschichte.blogs.uni-hamburg.de/05-die-athenische-demokratie/) 
+## -footnotes

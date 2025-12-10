@@ -10,3 +10,6 @@ tags: Locke-John
 ## Ein Versuch über den menschlichen Verstand
 - [susannealbers](https://www.susannealbers.de/literatur/LockeVerstand.pdf) - pdf, deutsch
 - 
+
+
+## -footnotes

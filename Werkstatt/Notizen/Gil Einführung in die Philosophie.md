@@ -41,5 +41,6 @@ Wissen, Begriffe, Sätze, Behauptung, Propositionen, Argumente, Dialektik,  #Dic
 ## Bemerkenswerte Stellen
 - 27:36 Freundschaft ... Aristoteles
 
+## -footnotes
 
 

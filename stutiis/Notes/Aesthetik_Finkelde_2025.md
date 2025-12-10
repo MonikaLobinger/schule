@@ -30,3 +30,4 @@ Notizen zu [[Aesthetik Videos#Vorlesung 2025]]
 - [18 "Alles so schön sinnlos hier". (Di Blasi mit Santner)](https://www.youtube.com/watch?v=wlSanlPlvYE&pp=0gcJCSMKAYcqIYzv)
 - [19 Adorno und das Naturschöne](https://www.youtube.com/watch?v=C9yWAimFpXg) #Adorno-Theodor
 - [20 Jacque Rancière "Aufteilung des Sinnlichen"](https://www.youtube.com/watch?v=tTaERkufhN4) #Ranciere-Jaques
+## -footnotes

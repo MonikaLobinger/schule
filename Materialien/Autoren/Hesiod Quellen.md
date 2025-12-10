@@ -15,3 +15,6 @@ tags: Hesiod
 - [gottwein](https://www.gottwein.de/Grie/hes/thggr.php?submit=deutsche+%C3%9Cbersetzung) - griechisch/deutsch, online lesen
 - [gutenberg](https://www.projekt-gutenberg.org/hesiod/theogon/theogon.html) - deutsch, online lesen
 - [lernhelfer](https://www.lernhelfer.de/sites/default/files/lexicon/pdf/BWS-DEU2-0384-03.pdf) - deutsch, pdf
+
+
+## -footnotes

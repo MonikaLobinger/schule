@@ -196,3 +196,5 @@ Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenscha
 
 > [!timeline|blue] 1981
 >  [[Zorn Quellen|Zorn]]  ^Zorn
+
+## -footnotes

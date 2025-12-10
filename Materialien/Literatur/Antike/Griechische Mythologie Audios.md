@@ -58,3 +58,6 @@ author: Ueberphilosophy
 - [46 - Erkennen 1 / Ödipus Anagnorensis](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/46-erkennen-1-oedipus-anagnorensis_8470140/)
 - [47 - Erkennen 2 / Odysseus](https://wissenschaftspodcasts.de/podcasts/griechische-mythologie/47-erkennen-2-odysseus_8567937/)
 - 
+
+
+## -footnotes

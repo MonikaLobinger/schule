@@ -11,3 +11,4 @@ author: Ueberphilosophy
 2. in verschiedener Weise deutbar
 
 Daten von [Wiktionary](https://de.wiktionary.org/wiki/%C3%A4quivok)
+## -footnotes

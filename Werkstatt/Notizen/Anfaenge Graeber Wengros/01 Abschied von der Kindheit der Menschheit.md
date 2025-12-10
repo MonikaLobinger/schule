@@ -40,3 +40,5 @@ Das Buch geht um die vergangenen 30000 Jahre und berücksichtigt neue Forschungs
 > es ist ein perfekter Zirkelschluss: Wenn sich kostbare Objekte über weite Entfernungen bewegten, ist dies ein Beleg für »Handel«, und wenn Handel stattfand, muss er in irgendeiner Form kommerziell gewesen sein.
 
 > Wenn die Menschen nicht 95 Prozent ihrer evolutionären Vergangenheit in kleinen Gruppen von Jägern und Sammlern verbracht haben, was haben sie dann die ganze Zeit getan? Wenn der Ackerbau und die Städte nicht mit der plötzlichen Entstehung von Hierarchie und Herrschaft verbunden waren, was bedeuteten sie dann? Was geschah wirklich in den Perioden, die wir gewöhnlich mit der Entstehung »des Staates« in Verbindung bringen?
+
+## -footnotes

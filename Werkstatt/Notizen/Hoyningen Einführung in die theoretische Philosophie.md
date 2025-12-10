@@ -261,6 +261,6 @@ Frühere Ontologien hatten Gegenständ und Ideen. Nun gibt es immer neue. Bei Wi
 [Einführung in die Theoretische Philosophie 12 II](https://www.youtube.com/watch?v=Pek5kG57lo4)
 
 
-
+## -footnotes
 
 

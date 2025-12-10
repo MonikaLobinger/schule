@@ -9,3 +9,5 @@ author: Ueberphilosophy
 atopía - ατοπία 
 
 Ortlosigkeit, von hoher Originalität, Unverortbarkeit, nicht einzuordnen, 
+
+## -footnotes

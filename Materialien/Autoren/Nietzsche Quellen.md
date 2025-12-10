@@ -12,3 +12,6 @@ author: Ueberphilosophy
 - [pileface](https://www.pileface.com/sollers/pdf/Zarathustra.pdf) - pdf, deutsch
 - [Internetarchive](https://archive.org/details/NietzscheAlsoSprachZarathustra1893/mode/2up) - digitalisiertes Buch, deutsch
 - 
+
+
+## -footnotes

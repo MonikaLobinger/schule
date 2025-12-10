@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Willard von Orman Quine
 [[timeline#^Quine]]
+
+## -footnotes

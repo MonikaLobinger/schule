@@ -22,3 +22,6 @@ author: Ueberphilosophy
 - [10 Zizeks "Sublime Objects of Ideology"](https://www.youtube.com/watch?v=WR8xShDagYQ&pp=0gcJCSMKAYcqIYzv)
 - [11 und 12 Erhabene Objekte der Ideologie](https://www.youtube.com/watch?v=DnBHya3EQMY&pp=0gcJCSMKAYcqIYzv)
 ### Einzelvideos
+
+
+## -footnotes

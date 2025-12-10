@@ -9,3 +9,5 @@ author: Ueberphilosophy
 logos, logoi - λογοσ, λογοι
 
 Wort Rede Argument Begriff 
+
+## -footnotes

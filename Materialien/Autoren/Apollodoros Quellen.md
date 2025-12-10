@@ -10,3 +10,5 @@ author: Ueberphilosophy
 [[timeline#^Apollodoros]]
 
 Nur in 356 Fragmente erhalten
+
+## -footnotes

@@ -9,3 +9,5 @@ author: Ueberphilosophy
 pneúma - πνεῦμα
 
 Atem, Luft, Hauch, Geist
+
+## -footnotes

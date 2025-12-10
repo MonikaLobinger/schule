@@ -64,3 +64,4 @@ bis 0:43 - der Hintergrund ist so laut
 - [Skepsis](https://cast.itunes.uni-muenchen.de/clips/ZkTacqgQg7/vod/online.html)
 - [Philon, Christentum, Johannes](https://cast.itunes.uni-muenchen.de/clips/zsdRVP2pet/vod/online.html)
 - [Plotin, Augustinus](https://cast.itunes.uni-muenchen.de/clips/qFUrnnNJcR/vod/online.html)
+## -footnotes

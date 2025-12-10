@@ -9,3 +9,5 @@ author: Ueberphilosophy
  kalokagathía - καλοκἀγαθία 
 
 Ideal der körperlichen und geistigen Vortrefflichkeit (kalòs kaì agathós „schön und gut“)
+
+## -footnotes

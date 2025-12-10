@@ -22,3 +22,5 @@ Sicher wissen wir kaum was über ihn. Wahrscheinlich war er in einem gewissen Si
 Thales meinte, Wasser wäre wichtig. Das war damals eine weit verbreitete Ansicht. Doch für Thales war Wasser der Einzige Ursprung aller Dinge, wohingegen andere Denker mehrere Ursprungsmaterialen (z.B. Feuer, Wasser, Luft, Erde) annahmen. Alles wäre aus Wasser. Dieser Ursprung ist zudem materiell.
 
 Ausserdem meinte er, dass alles beseelt sei, als Beleg führ er Magnete und Bernstein an, denn diese ziehen andere Sachen an, initiieren also Bewegung. Seele war damals wohl mit Bewegung verbunden. Die Seele aber ist göttlich. Daraus resultiert die ihm zugeschriebene Catchphrase "Alle Dinge sind voller Götter".
+
+## -footnotes

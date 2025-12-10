@@ -32,3 +32,4 @@ Notizen zu [[Erkenntnistheorie Videos#Vorlesung 2020]]
 - [Erkenntnistheorie 2020 06a ](https://www.youtube.com/watch?v=gDtYYu64cIk) - Jacques Lacan "Über Struktur..."
 - [Erkenntnistheorie 2020 06b ](https://www.youtube.com/watch?v=zydY2OLLMyg) - Slavoj Zizek: "Die unbewusste Struktur der Realität"
 
+## -footnotes

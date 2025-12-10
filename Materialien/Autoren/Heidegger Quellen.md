@@ -7,3 +7,6 @@ author: Ueberphilosophy
 ---
 # Martin Heidegger
 [[timeline#^Heidegger]]
+
+
+## -footnotes

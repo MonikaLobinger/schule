@@ -171,6 +171,8 @@ Dieser Abschnitt gilt nur für  eine laufende Obsidian Instanz
 - Ein Minuszeichen würde gehen, macht aber Zugriff über [bash](https://de.wikipedia.org/wiki/Bash_(Shell)) komplizierter
 - 
 
+## -footnotes
+
 [^2]: Add 2 spaces at the start of each new line.
   This lets you write footnotes that span multiple lines.
 

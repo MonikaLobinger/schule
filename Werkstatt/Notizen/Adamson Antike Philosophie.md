@@ -27,3 +27,4 @@ Nicht zu Ende gehört, für den Stress zu wenig universitär.
 - [Aristoteles über die Seele](https://www.youtube.com/watch?v=TB4nAFl7tMk&list=PLmbzLDB0GOlNJZ_U19CreR-b6T4M16oGC&index=5&pp=iAQB)
 - [Aristoteles über die Seele: Wahrnehmung und Geist](https://www.youtube.com/watch?v=frS3d44G-jc&list=PLmbzLDB0GOlNJZ_U19CreR-b6T4M16oGC&index=6&pp=iAQB)
 - [Aristoteles Ethik - Glückseligkeit und Tugend](https://www.youtube.com/watch?v=AwuNe5vCZzY&list=PLmbzLDB0GOlNJZ_U19CreR-b6T4M16oGC&index=7&pp=iAQB)
+## -footnotes

@@ -20,3 +20,5 @@ tags: Descartes-Rene
 - [Internet Archive](https://archive.org/details/bub_gb_fTZHAAAAIAAJ/page/n7/mode/2up) - deutsch, eine Abteilung eines digitalisierten Buchs
 - [susannealbers](https://www.susannealbers.de/03philosophie-literatur-Descartes2Prin.html) - pdf
 - 
+
+## -footnotes

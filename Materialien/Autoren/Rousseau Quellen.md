@@ -18,3 +18,5 @@ author: Ueberphilosophy
 ##  Les Confessions (Die Bekenntnisse)
 - [Internet Archive](https://archive.org/details/bub_gb_b82aLYs_7SEC/mode/2up) - deutsch, digitalisiertes Buch
 - 
+
+## -footnotes

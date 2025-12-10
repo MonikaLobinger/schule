@@ -30,3 +30,5 @@ Die Erde wäre eine Art Zylinder, wie ne Trommel und wir leben auf der flachen S
 Dies Unbegrenzte aus dem alles sei, wäre Luft. Durch Verdünnung wird es heißer und es entstehe daraus Feuer, durch Verdickung wird es kälter und je dicker entstehe daraus Wind, Wolken, Wasser, Erde, Stein. 
 
 Die Seele ist aus Luft (Atem)
+
+## -footnotes

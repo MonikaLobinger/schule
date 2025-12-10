@@ -30,3 +30,4 @@ Notizen zu [[Homer Materialen#Arte Die Ilias und die Odyssee]]
 - [Rückkehr nach Ithaka](https://www.youtube.com/watch?v=YNmLi_7vyP4&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=18&pp=iAQB)
 - [Die Narbe des Königs](https://www.youtube.com/watch?v=5xvuu1jlOS0&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=19&pp=iAQB)
 - [Götterdämmerung](https://www.youtube.com/watch?v=7SprhXVl_WE&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=20&pp=iAQB)
+## -footnotes

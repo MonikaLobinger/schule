@@ -30,4 +30,5 @@ Notizen zu [[Erkenntnistheorie Videos#Vorlesung 2017]]
 - [Erkenntnistheorie 2017 18](https://www.youtube.com/watch?v=w5ny9vy3rIQ) - Daniel Dennett "Competence without Comprehension"
 - [Erkenntnistheorie 2017 19](https://www.youtube.com/watch?v=vghWf24-kyA) - Jacques Lacan und "The Ambassadors"
 - [Erkenntnistheorie 2017 20](https://www.youtube.com/watch?v=dA92x8KUFfQ) - Jacques Lacan über Signifikanten. Der Fall H. Keller
-- 
+
+## -footnotes

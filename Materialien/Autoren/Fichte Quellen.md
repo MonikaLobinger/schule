@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Johann Gottlieb Fichte
 [[timeline#^Fichte]]
+
+## -footnotes

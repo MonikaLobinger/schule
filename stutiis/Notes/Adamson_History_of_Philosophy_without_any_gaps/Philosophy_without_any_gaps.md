@@ -8,3 +8,5 @@ author:
 
 # History of Philosophy without any gaps
 Auflistung aller Notizen zu den einzelnen Folgen
+
+## -footnotes

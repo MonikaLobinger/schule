@@ -9,3 +9,6 @@ author: Ueberphilosophy
 # Urs Schällibaum
 [[timeline#^Schaellibaum]]
 ## Reflexivität und Verschiebung
+
+
+## -footnotes

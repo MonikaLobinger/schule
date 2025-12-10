@@ -7,3 +7,6 @@ author: Ueberphilosophy
 ---
 # Hugo Grotius
 [[timeline#^Grotius]]
+
+
+## -footnotes

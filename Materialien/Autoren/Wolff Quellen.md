@@ -10,3 +10,5 @@ tags: Wolff-Christian
 
 ## Anmerkungen über die vernünftigen Gedanken von Gott, der Welt und der Seele des Menschen
 - [Internet Archive](https://archive.org/details/bub_gb_5OcTAAAAQAAJ) - digitalisiertes Buch, deutsch, Fraktur
+
+## -footnotes

@@ -13,3 +13,5 @@ author: Ueberphilosophy
  - [Zeno](http://www.zeno.org/Philosophie/M/Heraklit+aus+Ephesus) - nur die kommentierten Fragmente, online zu lesen
  - 
 ## Die Fragmente der Vorsokratiker
+
+## -footnotes

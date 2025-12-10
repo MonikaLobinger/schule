@@ -8,3 +8,6 @@ author: Ueberphilosophy
 
 # Jacques Derrida
 [[timeline#^Derrida]]
+
+
+## -footnotes

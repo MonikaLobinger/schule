@@ -8,3 +8,6 @@ author: Ueberphilosophy
 
 # Alkmaion
 [[timeline#^Alkmaion]]
+
+
+## -footnotes

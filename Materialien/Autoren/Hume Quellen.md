@@ -10,3 +10,6 @@ tags: Hume-David
 ## Traktat über die menschliche Natur
 - [Internet Archive](https://ia801400.us.archive.org/31/items/traktatberdiemen00hume/traktatberdiemen00hume.pdf) - deutsch, digitalisiertes Buch
 - 
+
+
+## -footnotes

@@ -14,3 +14,5 @@ tags: Platon
  ## Protagora
  - [Susanne Albers](https://www.susannealbers.de/03philosophie-literatur-Platon09pr.html) - deutsch, eingebettetes pdf, plus song
  
+
+## -footnotes

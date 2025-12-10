@@ -19,3 +19,4 @@ Notizen zu [[Alte Geschichte Audios#gr.Archaik (audio + text)- hamburg open onli
 - [07 Krise und Entstehung der Polis](https://emanualaltegeschichte.blogs.uni-hamburg.de/07-krise-und-entstehung-der-polis/) 
 - [08 Die große Kolonisation / Der Orient](https://emanualaltegeschichte.blogs.uni-hamburg.de/08-die-grosse-kolonisation-der-orient/)
 - [09 Neue Kriegstechniken und Tyrannis](https://emanualaltegeschichte.blogs.uni-hamburg.de/09-neue-kriegstechnik-und-tyrannis/)
+## -footnotes

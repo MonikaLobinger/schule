@@ -9,3 +9,6 @@ tags: Frege-Gottlob
 [[timeline#^Frege]]
 ## Begriffsschrift
 - [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k65658c/f1.item) - digitalisiertes Buch
+
+
+## -footnotes

@@ -21,3 +21,4 @@ Notizen zu [[Alte Geschichte Audios#Von Assur nach Babylon - Uni Leipzig]]
 - [Ein König und sein missratener Sohn - Aus dem Königreich von Mari](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/ein-koenig-und-sein-missratener-sohn_9686124/)
 - [Wie klang Babylonisch?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/wie-klang-babylonisch-9777304/)
 - [Ägypten liegt nicht in der Nähe! — internationale Diplomatie vor 3300 Jahren](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/aegypten-liegt-nicht-in-der-naehe-internationale-diplomatie-vor-3300-jahren_9894299/)
+## -footnotes

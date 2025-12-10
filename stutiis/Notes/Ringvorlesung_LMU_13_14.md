@@ -15,3 +15,4 @@ Notizen zu [[Einführung Philosophie Audios#WiSe 2013/14]]
 - [J. Nida-Rümelin - Gerechtigkeit. Einführung in die Ethik und politische Philosophie](https://cast.itunes.uni-muenchen.de/clips/lKCx3mdk7H/vod/high_quality.mp4)
 - [Adamson - Einheit. Einführung in die Philosophie der islamischen Welt](https://cast.itunes.uni-muenchen.de/clips/omZsaj4ch8/vod/high_quality.mp4)
 - [Seitscheck - Die Notwendigkeit der Religion. Einführung in die Religionsphilosophie](https://cast.itunes.uni-muenchen.de/clips/240vSgQfN2/vod/high_quality.mp4)
+## -footnotes

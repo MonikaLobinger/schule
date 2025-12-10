@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Hegel Georg Wilhelm Friedrich
 [[timeline#^Hegel]]
+
+## -footnotes

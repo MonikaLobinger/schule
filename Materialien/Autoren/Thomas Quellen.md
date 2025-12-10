@@ -7,3 +7,5 @@ author: Ueberphilosophy
 ---
 # Thomas von Aquin
 [[timeline#^Thomas]]
+
+## -footnotes

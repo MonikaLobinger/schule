@@ -34,3 +34,4 @@ Notizen zu [[Einführung Philosophie Videos#Prof. Dr. Hoyningen-Huene]]
 - [Einführung in die Theoretische Philosophie 11 II](https://www.youtube.com/watch?v=4Dperdz_Ak0)
 - [Einführung in die Theoretische Philosophie 12 I](https://www.youtube.com/watch?v=zGB46wTImRk)
 - [Einführung in die Theoretische Philosophie 12 II](https://www.youtube.com/watch?v=Pek5kG57lo4)
+## -footnotes

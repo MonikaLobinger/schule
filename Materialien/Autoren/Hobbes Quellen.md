@@ -23,3 +23,5 @@ author: Ueberphilosophy
 ## De Cive
 - [Internet Archive](https://archive.org/details/englishworksofth029501mbp/page/n1/mode/2up) - Englisch, digitalisiertes Buch, durchnässt
  
+
+## -footnotes

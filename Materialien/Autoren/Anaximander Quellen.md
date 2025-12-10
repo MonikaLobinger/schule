@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Anaximander von Milet
 [[timeline#^Anaximander]]
+
+## -footnotes

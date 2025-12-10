@@ -7,3 +7,6 @@ author: Ueberphilosophy
 ---
 # Edmund Husserl
 [[timeline# ^Husserl]]
+
+
+## -footnotes

@@ -14,3 +14,4 @@ Notizen zu [[Philosophie des 20ten Jhds Videos#Martin Heidegger - An Introductio
 - [02 Martin Heidegger - An Introduction](https://www.youtube.com/watch?v=mfe-A0SFvQc)
 - [03 Martin Heidegger - An Introduction](https://www.youtube.com/watch?v=h0tYjeq3UqQ)
 - [04 Martin Heidegger - An Introduction](https://www.youtube.com/watch?v=LW8xCkZcgNE)
+## -footnotes

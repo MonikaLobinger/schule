@@ -20,3 +20,4 @@ Notizen zu [[Alte Geschichte Videos#Antike im Zerrspiegel politischer Ideologien
 - [Konzeptionen von Leadership in Vergangenheit und Gegenwart: Ein interdiszBlick](https://www.youtube.com/watch?v=ICcZJSpDWDs&list=PLhmnOOUKz0CX9q8CNR7vHe-ArD0infIqD&index=9)
 - ["L‘immortalità dell‘idea di Roma”. Mussolinis Inszenierung der Antike im fasch Rom](https://www.youtube.com/watch?v=flMWRRz_ro8&list=PLhmnOOUKz0CX9q8CNR7vHe-ArD0infIqD&index=10)
 - [Arier, Aliens und Atlantis: Archäologische Wisskomm zwischen Popkultur & Ideologie](https://www.youtube.com/watch?v=i5TQRBlgKP4&list=PLhmnOOUKz0CX9q8CNR7vHe-ArD0infIqD&index=11) 
+## -footnotes

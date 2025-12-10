@@ -18,3 +18,4 @@ Notizen zu [[Einführung Philosophie Audios#WiSe 2014/15]]
 - [J. Nida-Rümelin - Verpflichtung. Einführung in die Ethik](https://cast.itunes.uni-muenchen.de/clips/QepaXR68Zp/vod/high_quality.mp4)
 - [Adamson - Einheit. Einführung in die platonische Tradition](https://cast.itunes.uni-muenchen.de/clips/rnnnIUsUyr/vod/high_quality.mp4)
 - [Seitscheck - Philosophie und Religion. Einführung in die Religionsphilosophie.](https://cast.itunes.uni-muenchen.de/clips/frMYek8X0C/vod/high_quality.mp4)
+## -footnotes

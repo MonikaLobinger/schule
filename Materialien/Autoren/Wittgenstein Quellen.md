@@ -10,3 +10,5 @@ author: Ueberphilosophy
 [[timeline#^Wittgenstein]]
 ##  Tractatus Logico-Philosophicus
 [Gutenberg](https://www.gutenberg.org/files/5740/5740-pdf.pdf) - englisch und deutsch, pdf
+
+## -footnotes

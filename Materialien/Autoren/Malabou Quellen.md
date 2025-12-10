@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Catherine Malabou
 [[timeline#^Malabou]]
+
+## -footnotes

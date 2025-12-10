@@ -20,3 +20,6 @@ author: Ueberphilosophy
 ## Oikonomikos
 - [digital slub dresden](https://digital.slub-dresden.de/werkansicht/dlf/105858/1) - digitalisiertes Buch, Fraktur, nur online zu lesen
 - 
+
+
+## -footnotes

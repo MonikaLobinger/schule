@@ -15,3 +15,4 @@ author: Ueberphilosophy
 ### Pfaller
 [[Gegenwartsphilosophie_Pfaller|eigene Notizen]]
 - [Robert Pfaller - Parallaxes of Sinister Enjoyment](https://www.youtube.com/watch?v=eRxf8bRpJ1w)  2019 #speaker/Pfaller-Robert
+## -footnotes

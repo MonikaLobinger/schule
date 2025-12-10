@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Jorge Luis Borges
 [[timeline#^Borges-Jorge-Luis]]
+
+## -footnotes

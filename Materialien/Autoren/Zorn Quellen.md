@@ -11,3 +11,6 @@ author: Ueberphilosophy
 ## Vom Gebäude zum Gerüst
 - [logos-verlag](https://www.logos-verlag.de/ebooks/OA/978-3-8325-4033-3.pdf) - deutsch, pdf
 - 
+
+
+## -footnotes

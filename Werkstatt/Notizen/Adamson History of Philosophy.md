@@ -18,3 +18,4 @@ Auf jeder Seite des Autors, von der der jeweilige Podcast gehört werden kann, g
 ## Presocratic Philosophy
 - [[Adamson  001 Thales]]
 - [[Adamson 002 Anaximander und Anaximenes]]
+## -footnotes

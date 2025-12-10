@@ -19,3 +19,4 @@ Notizen zu [[Sprachphilosophie Videos#Vorlesung Finkelde 2020]]
 - [07 Jacques Derrida - Die Schriftlichkeit der Sprache](https://www.youtube.com/watch?v=4iCgPkGOk38) 
 - [08 J. J. von Uexküll - Biosemiotik: zur Sprache in der Natur](https://www.youtube.com/watch?v=uowoeLWMssc) 
 - [09 Ruth G. Millikan - Substanzen im Tierreich](https://www.youtube.com/watch?v=LTiy4nsgTKQ) 
+## -footnotes

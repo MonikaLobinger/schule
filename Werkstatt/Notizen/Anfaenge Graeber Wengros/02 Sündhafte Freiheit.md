@@ -120,4 +120,6 @@ Die südlichen Wendat wurden in Oklahoma angesiedelt. Die nördliche Gruppe lies
 ###  Mi’kmaq, Míkmaq, Micmac
 Im 16.Jhd südlich und östlich der Bucht des Sankt-Lorenz-Stroms. Stark bewaldet, heftige Winter. Ca 10.000 Stammesangehörige. Mitte 17.Jhd entwickelte Chrestien Le Clercq, ein Missionar eine Hieroglyphenschrift mit über 5000 Zeichen. Diese wurde schnell indigenisiert.
 
-Je nach Jahreszeit: Sammeln, etwas Gertenbau, Fisch, Meeresfrüchte, Jagd.
+Je nach Jahreszeit: Sammeln, etwas Gartenbau, Fisch, Meeresfrüchte, Jagd.
+
+## -footnotes

@@ -134,4 +134,5 @@ Das schien für die Ewigkeit. Im Südosten Kassiten und Elam(Sutrukiden), im Wes
 - [Die Soldatenkaiser](https://www.youtube.com/watch?v=UM1UCaqN1BI&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=24)
 - [Rom und das Christentum](https://www.youtube.com/watch?v=3Szl_E8qcaI&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=25)
 - [Die Spätantike](https://www.youtube.com/watch?v=ZHyL9uSOuc8&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=27)
-- 
+
+## -footnotes

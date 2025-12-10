@@ -9,3 +9,5 @@ author: Ueberphilosophy
 aretḗ -  ἀρετή 
 
 Tugend
+
+## -footnotes

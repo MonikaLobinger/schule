@@ -16,3 +16,5 @@ Prinzipien: Bewegung, Kampf/Opposition vs Einheit,
 Ideen: Der Mensch weiß schon alles, es muss nur hervorgeholt werden
 
 Methoden: Zerstörung falscher Meinungen
+
+## -footnotes

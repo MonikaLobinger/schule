@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Ignatius von Loyola
 [[timeline#^Ignatius-von-Loyola]]
+
+## -footnotes

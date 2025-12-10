@@ -13,3 +13,6 @@ Es existieren keine persönlichen Überlieferungen. [[Platon Quellen|Platon]] ha
 
 Dr. Emma Edelstein^[Sie und ihr Mann Ludwig Edelstein haben den Holocaust überlebt] beschreibt 1935 das xenophontische und das platonische [Bild des Sokrates](https://archive.org/details/McGillLibrary-rbsc_xenophontisches-platonisches_PA4497E41935-18267/mode/2up)^[digitalisiertes Buch, deutsch] ^Edelstein
 
+
+
+## -footnotes

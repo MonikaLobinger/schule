@@ -201,3 +201,5 @@ Welchen deiner Buhlen behältst du für allezeit lieb?
  [[Uni Leipzig Von Assur nach Babylon#^Zeichen|Etwas]] steht für Etwas anderes. Vorher noch materiell - die Tonmarken, nun nur Zeichen. Später konnte man da drauf kommen, dass es allgemein in der Sprache so ist. Die Sprache gab es schon lange, als sie zum Zählen von Gütern für diesen reduzierten Bereich verschriftlicht wurde.
 
 [[Uni Leipzig Von Assur nach Babylon#^Trenner|Trenner]] Eine Worttrennung ist Etwas - man nimmt kein Leerzeichen, keinen Abstand.
+
+## -footnotes

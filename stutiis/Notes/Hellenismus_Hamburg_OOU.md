@@ -18,3 +18,4 @@ Notizen zu [[Alte Geschichte Audios#Hellenismus(audio + text)- hamburg open onli
 - [04 Die Seleukiden und die Ptolemäer](https://emanualaltegeschichte.blogs.uni-hamburg.de/04-die-seleukiden-und-die-ptolemaeer/) 
 - [05 Das Alltagsleben und das Leben am Hof](https://emanualaltegeschichte.blogs.uni-hamburg.de/05-das-alltagsleben-und-das-leben-am-hof/)
 - [06 Religiöse Entwicklungen im Hellenismus](https://emanualaltegeschichte.blogs.uni-hamburg.de/06-religioese-entwicklungen-im-hellenismus/) 
+## -footnotes

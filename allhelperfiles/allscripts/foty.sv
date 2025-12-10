@@ -358,22 +358,12 @@ let example_configuration3 = {
 //user_configuration = example_configuration3
 //#endregion EXAMPLE CONFIGURATIONS
 
-function cbkFmtLastLine(noteName, noteType, noteSetting, tp, app) {
-  let lastline="## -footnotes"
-  let mocstring = noteSetting.getValue("mocstring")
-  if(noteName.startsWith(mocstring)) {
-    lastline = ""
-  }
-  return lastline
-}
-
 let schule_configuration = {
   SECTION_NOTETYPES:
   {
     __SPEC: {DEFAULT: "note"},
     defaults: {
-      __SPEC: {REPEAT: true},
-      mocstring:          {__SPEC:false, DEFAULT:"-",TYPE:"String", },
+      __SPEC: {REPEAT: true},  
       yaml: {__SPEC: {RENDER: false,},
         cssclass:         {__SPEC:false, DEFAULT: cbkFmtCssClasses, TYPE: "(Array.<String>|Function)"},
         date_created:     {__SPEC:false, DEFAULT: cbkFmtCreated, TYPE: "(Date|Function)", },
@@ -385,7 +375,7 @@ let schule_configuration = {
         type:             {__SPEC:false, DEFAULT: cbkNoteType, TYPE: "(String|Function)",},
         prevlink:         {__SPEC:false, DEFAULT: "", TYPE: "(String|Function)",},
         nextlink:         {__SPEC:false, DEFAULT: "", TYPE: "(String|Function)",},
-        lastline:         {__SPEC:false, DEFAULT: cbkFmtLastLine, TYPE: "(String|Function)",},
+        lastline:         {__SPEC:false, DEFAULT: "## -footnotes", TYPE: "(String|Function)",},
       },
     },
     note: {

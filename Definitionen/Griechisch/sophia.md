@@ -11,3 +11,5 @@ sophía - σοφία 
 Weisheit
 
 ατοπια
+
+## -footnotes

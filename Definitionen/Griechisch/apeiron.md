@@ -9,3 +9,5 @@ author: Ueberphilosophy
 apeiron - ἄπειρον
 
 Das Markierungslose, Unbegrenzte
+
+## -footnotes

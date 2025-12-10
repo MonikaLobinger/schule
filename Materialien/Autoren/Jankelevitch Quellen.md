@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Vladimir Janelevitch
 [[timeline#^Jankelevitch]]
+
+## -footnotes

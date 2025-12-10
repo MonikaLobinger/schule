@@ -8,3 +8,5 @@ author: Ueberphilosophy
 
 # Trochäus
 Ein zweisilbriger Versfuß, Teil eines Verses, einmal lang/betont und einmal kurz/unbetont
+
+## -footnotes

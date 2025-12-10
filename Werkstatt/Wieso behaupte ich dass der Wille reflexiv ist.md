@@ -33,3 +33,5 @@ Die haben einen entgrenzten Willen, diese Mächtigen und Reichen.
 Auch dieser alles denkbar wollen könnende Wille fällt nicht vom Himmel und kommt nicht von Natur. Das ist möglicherweise eine empirische Frage. Und möglicherweise sogar sinnlos. Weil die Möglichkeit etwas empirisch zu wollen vlt nichts empirisches ist. Aber vlt verschränkt sich hier z.B. empirisch und theoretisch, und damit der Picosche Wille und der jeweils in Aktion tretende.
 
 Bestimmt trifft reflexive Logik auch auf diese zu. Die Definition ganz oben enthält das Wort "verhalten" - das ist was anderes als "zutreffen" oder "so sein".
+
+## -footnotes

@@ -10,3 +10,5 @@ author: Ueberphilosophy
 aporía- ἀπορία
 
 Ratlosigkeit, Ausweglosigkeit, Unvereinbarkeit
+
+## -footnotes
