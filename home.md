@@ -46,12 +46,15 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Österreichische Nationalbibliothek](https://onb.digital/)
 - [Standard E-Books](https://standardebooks.org/)
 - [Französische Nationalbibliothek](https://www.bnf.fr/en) 
+- [Münchener Digitalisierungszentrum](https://www.digitale-sammlungen.de/de)
 - [Bibliothek Uni Halle](https://halit.bibliothek.uni-halle.de/search?q=&v=)
 - [biblotheca augusthana](https://www.hs-augsburg.de/~harsch/augustana.html)
 - [Herzogin Anna Amalia Bibliothek](https://haab-digital.klassik-stiftung.de/viewer/index/)
+- [Internet History Sourcebooks Project](https://sourcebooks.fordham.edu/index.asp)
 - [Logos Verlag Open Access](https://www.logos-verlag.de/cgi-bin/mylibrary)
 - [Marxist Internet Archive](https://www.marxists.org/index.htm)
 - [Hegel Werke](https://hegel.net/hegelwerke/)
+- [Psychoanalytische Bibliothek Berlin](https://psybi-berlin.de/literatur-online/)
 %% 
 - [Logos Verlag Open Access Verzeichnis](https://www.logos-verlag.de/ebooks/OA/)
 - [Annas Archive](https://annas-archive.org/) Schattenarchiv, Grauzone, manchmal illegal

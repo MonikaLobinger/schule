@@ -5,9 +5,10 @@ publish: true
 author: Ueberphilosophy
 ---
 
-# Geburten
-Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenschaftler/Forscher "grey", Politiker/Könige/Feldherren "red"
+# Zeitleiste
 
+Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissenschaftlys/Forschys "grey", Politikys/Königys/Feldherren "red", Philosophys "blue"
+##  Geburt
 > [!timeline|green] ~-1800 
 > [[Gilgamesch Quellen|Gilgamesch]] ^Gilgamesch
 
@@ -39,7 +40,7 @@ Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenscha
 > [[Pythagoras Quellen|Pythagoras]] †~-510 ^Pythagoras
 
 > [!timeline|green] ~-522
-> Pindar †~-466 ^Pindar
+> [[Pindar Quellen|Pindar]] †~-466 ^Pindar
 
 > [!timeline|blue] ~-540^[Laut Buchheim nach Apollodoros Angaben wahrscheinlich]
 > [[Heraklit Quellen|Heraklit]] †~-460 ^Heraklit
@@ -75,7 +76,7 @@ Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenscha
 > [[Simplicius Quellen|Simplicius]]  †560 ^Simplicius
 
 > [!timeline|red] ~747
-> Karl der Große †814 ^Karl-der-Grosse
+> [[Karl Quellen|Karl der Große]]^[von Einhard]  †814 ^Karl-der-Grosse
 
 > [!timeline|blue] 1225
 >[[Thomas Quellen|Thomas]] †1274 ^Thomas
@@ -84,13 +85,13 @@ Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenscha
 >[[Pico Quellen|Pico]] †1494 ^Pico
 
 > [!timeline|grey] 1473
-> Kopernikus†1542 ^Kopernikus
+> [[Kopernikus Quellen|Kopernikus]]†1542 ^Kopernikus
 
 > [!timeline|red] 1478
 > Pizarro†1541 ^Pizarro-Francisco
 
 > [!timeline|red] 1485
-> Cortez†1547 ^Cortez-Hernan
+> [[Cortes Quellen|Cortes]] †1547 ^Cortes-Hernan
 
 > [!timeline|yellow] 1491
 > [[Ignatius Quellen|Ignatius]] †1556 ^Ignatius-von-Loyola
@@ -99,10 +100,10 @@ Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenscha
 > [[Theresa Quellen|Theresa]] †1582 ^Theresa-von-Avila
 
 > [!timeline|grey] 1540
-> Acosta †1600 ^Acosta
+> [[Acosta Quellen|Acosta]] †1600 ^Acosta
 
 > [!timeline|grey] 1564
-> Galileo Galilei †1642 ^Galileo
+> [[Galileo Quellen|Galileo]] †1642 ^Galileo
 
 > [!timeline|blue] 1583
 >[[Grotius Quellen|Grotius]] †1645 ^Grotius
@@ -145,6 +146,9 @@ Literaten/Künstler/Musiker "green", Religiöse/Spirituelle "yellow", Wissenscha
 
 > [!timeline|blue] 1775
 >  [[Schelling Quellen|Schelling]] †1845 ^Schelling
+
+> [!timeline|grey] 1809
+>  [[Darwin Quellen|Darwin]] †1882 ^Darwin
 
 > [!timeline|blue] 1844
 >  [[Nietzsche Quellen|Nietzsche]] †1900 ^Nietzsche
