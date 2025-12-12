@@ -8,6 +8,10 @@ author: Ueberphilosophy
 
 # Hegel Georg Wilhelm Friedrich
 [[timeline#^Hegel]]
-## Phänomenologie des Geistes
+## Wer denkt abstrakt ^[1807]
+- [zeno](http://www.zeno.org/Philosophie/M/Hegel,+Georg+Wilhelm+Friedrich/Wer+denkt+abstrakt) - deutsch, online zu lesen
+- [hegel-system](https://hegel-system.de/de/wer_denkt_abstrakt.pdf) - deutsch, Pdf
+- [librivox](https://ia600203.us.archive.org/28/items/sammlung_prosa_013_0906_librivox/germancollection013_08werdenktabstrakt_rk.mp3) - deutsch, Audio
+## Phänomenologie des Geistes ^[1807]
 [Hegel Net](https://hegel.net/hegelwerke/Hegel1807-Phaenomenologie.pdf) - Digitalisat, deutsch
 ## -footnotes

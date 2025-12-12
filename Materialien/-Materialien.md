@@ -15,4 +15,6 @@ Manuell erstellter Katalog aller Seiten mit Links zu Lernmaterialien
 ![[-Literatur]]
 
 ![[-Philosophie]]
+
+![[-Wissenschaft]]
 %%

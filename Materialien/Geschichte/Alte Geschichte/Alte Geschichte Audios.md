@@ -38,7 +38,7 @@ Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
 - [05 Das Alltagsleben und das Leben am Hof](https://emanualaltegeschichte.blogs.uni-hamburg.de/05-das-alltagsleben-und-das-leben-am-hof/)
 - [06 Religiöse Entwicklungen im Hellenismus](https://emanualaltegeschichte.blogs.uni-hamburg.de/06-religioese-entwicklungen-im-hellenismus/) #Hellenismus
 ### Von Assur nach Babylon - Uni Leipzig
-[[Von_Assyr_nach_Babylon_Uni_Leibzig|eigene Notizen]]
+[[Von_Assyr_nach_Babylon_Uni_Leibzig|eigene Notizen]] #wird_fortgesetzt 
 - [Was ist Altorientalistik?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/was-ist-altorientalistik-9484359/)
 - [Die Wiederentdeckung des Alten Orients und die Entschlüsselung der Keilschrift](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-wiederentdeckung-des-alten-orients_9484360/)
 - [Die Gesetze Hammu-rapis](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-gesetze-hammu-rapis_9484361/)

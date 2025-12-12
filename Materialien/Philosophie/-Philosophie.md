@@ -23,5 +23,7 @@ author: Ueberphilosophy
 
 ![[-Philosophie-Aesthetik]]
 
-[[Unsortiert Videos]]
+[[Philosophie Unsortiert Videos]]
+
+[[Philosophie Podcasts]]
 

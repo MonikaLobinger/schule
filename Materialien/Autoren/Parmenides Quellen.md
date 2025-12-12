@@ -8,8 +8,8 @@ tags: Parmenides-von-Elea
 # Parmenides von Elea
 [[timeline#^Parmenides]]
 ## Lehrgedicht
-- [Helmut Hille](https://www.helmut-hille.de/parmen1.html)
-- [Griechisch/Deutsch mit langem Vorwort](https://archive.org/stream/parmenideslehrg00parmgoog/parmenideslehrg00parmgoog_djvu.txt) - txt Datei, miserabel formatiert
-- [Erlauterung von Loew](http://www.rhm.uni-koeln.de/078/Loew.pdf) - pdf
-
+- [zeno](http://www.zeno.org/Philosophie/M/Parmenides+aus+Elea/Fragmente/Aus:+%C3%9Cber+die+Natur) - deutsch, online zu lesen
+- [Helmut Hille](https://www.helmut-hille.de/parmen1.html) - deutsch, online zu lesen,
+- [philoctetes](http://philoctetes.free.fr/parmenidesunicode.htm) - griechisch/englisch, mit Links der griechischen Worte zu perseus
+- [Internet Archive](https://ia800306.us.archive.org/14/items/parmenideslehrg00parmgoog/parmenideslehrg00parmgoog.pdf) - griechisch/deutsch, Digitalisat
 ## -footnotes

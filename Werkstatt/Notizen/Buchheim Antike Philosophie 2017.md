@@ -21,7 +21,7 @@ Die Vorlesung dauert zwei Zeitstunden, auf Video sind nur anderthalb.
 >  -
 >  Der zweite Grund ist von Platon formuliert worden und der sagt dass anders als in anderen Disziplinen kein der Seele zugängliches empirisches Bild der Gegenstände existiert, sondern dass philosophische Gegenstände also die wichtigsten und ehrwürdigsten wie Platon sagt überhaupt nur in [[logos|logoi]] existieren können. Nur im logoi existieren. Das heißt, das, worüber Sie in der Philosophie sprechen ist selber wieder philosophischer logos. Das heißt nicht, dass man bloß über Worte redet, sondern über das, was in den Worten gefasst werden kann. In den logoi gefasst werden kann und immer gefasst wurde. Nur es gibt keinen unabhängigen Zugang zu diesen Sachen über die die Philosophie handelt und das gilt für alle Philosophie bis heute, also es gibt keine Ausnahmen von dieser Regel, sondern alles was philosophische Gegenstände sind, Seele, Normen, ... praktische ... theoretische Philosophie ... all das ist tatsächlich geronnener logos und hat keine unabhängige Zugänglichkeit ... Sowohl die Artikulation der Philosophie als auch die Gegenstände der Philosophie sind philosophischer Logos. 
 
-> Es gibt zwei Grundformen des Umgangs mit Philosophiegeschichte. Die eine Form ist die [[Doxographie|doxographische]], also diejenige, die Lehrmeinungen darstellt, charakterisiert. Und die andere ist systematisch Vorbilder in das Weiterdenken zu intergrieren. 
+> Es gibt zwei Grundformen des Umgangs mit Philosophiegeschichte. Die eine Form ist die [[Doxographie|doxographische]], also diejenige, die Lehrmeinungen darstellt, charakterisiert. Und die andere ist systematisch Vorbilder in das Weiterdenken zu integrieren. 
 
 ### Stichwörter
 logos Doxographie 
@@ -38,11 +38,11 @@ Die Verhältnisse etablieren sich durch die Bewegung und bleiben auch so durch d
 
 Es ist sehr wahrscheinlich, dass Aristoteles Heraklits Idee der Bewegung als [[anathymiasis|Aufdunstung]] als Grundbestandteil seiner eigenen Philosophie verwendet. 
 
-Parmenides schliesst dagegen alle Bewegung von dem, was in Wahrheit ist, aus. 
+Parmenides schließt dagegen alle Bewegung von dem, was in Wahrheit ist, aus. 
 
 Heraklit hält den Tod für eine innere Bedingung des Lebens. Parmenides hält ihn für obsolet und für überwindbar.
 
-Heraklit gibt viel auf das Zeugnis unserer Sinne, während Parmenides dies als eine Art systhematischer Irreführung betrachtet und sich nur auf das Denken berufen will. 
+Heraklit gibt viel auf das Zeugnis unserer Sinne, während Parmenides dies als eine Art systematischer Irreführung betrachtet und sich nur auf das Denken berufen will. 
 
 Seinsformen sind diejenigen Züge an den Dingen kraft derer sie sind. Bei Parmenides logische Seinsform, bei Heraklit phänomenale Seinsform
 
@@ -51,7 +51,6 @@ Seinsformen sind diejenigen Züge an den Dingen kraft derer sie sind. Bei Parmen
 Im allgemeinen Konflikt der Dinge stellt sich heraus, was etwas ist und was nicht.
 
 bis 0:43 - der Hintergrund ist so laut
-
 
 ## Offen
 - [Parmenides](https://cast.itunes.uni-muenchen.de/clips/kN7ThPh3BX/vod/online.html)

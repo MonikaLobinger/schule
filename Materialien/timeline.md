@@ -135,11 +135,20 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 > [!timeline|green] 1712
 >  [[Rousseau Quellen|Rousseau]] †1778 ^Rousseau
 
+> [!timeline|green] 1713
+>  [[Diderot Quellen|Diderot]] †1784 ^Diderot
+
 > [!timeline|blue] 1724
 >  [[Kant Quellen|Kant]] †1804 ^Kant
 
+> [!timeline|green] 1761
+>  [[Kotzebue Quellen|Kotzebue]] †1819 ^Kotzebue
+
 > [!timeline|blue] 1762
 >  [[Fichte Quellen|Fichte]] †1814 ^Fichte
+
+> [!timeline|green] 1770
+>  [[Hoelderlin Quellen|Hölderlin]] †1843 ^Hoelderlin
 
 > [!timeline|blue] 1770
 >  [[Hegel Quellen|Hegel]] †1831 ^Hegel
@@ -155,6 +164,9 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 
 > [!timeline|grey] 1856
 >  [[Freud Quellen|Freud]] †1939 ^Freud
+
+> [!timeline|blue] 1861
+>  [[Whitehead Quellen|Whitehead]] †1947 ^
 
 > [!timeline|green] 1866
 >  [[Wells Quellen|Wells]] †1946 ^Wells
@@ -179,6 +191,9 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
   
 > [!timeline|green] 1899
 >  [[Borges Quellen|Borges]] †1986 ^Borges-Jorge-Luis
+  
+> [!timeline|blue] 1902
+>  [[Kojeve Quellen|Kojeve]] †1968 ^Kojeve
   
 > [!timeline|blue] 1903
 >  [[Jankelevitch Quellen|Jankelevitch]] †1985 ^Jankelevitch
@@ -206,6 +221,9 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 
 > [!timeline|blue] 1966
 >  [[Zupancic Quellen|Zupancic]]  ^Zupancic
+
+> [!timeline|blue] 1968
+>  [[Harman Quellen|Harman]]  ^Harman-Graham
 
 > [!timeline|blue] 1981
 >  [[Zorn Quellen|Zorn]]  ^Zorn

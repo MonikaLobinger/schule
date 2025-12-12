@@ -55,10 +55,13 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Marxist Internet Archive](https://www.marxists.org/index.htm)
 - [Hegel Werke](https://hegel.net/hegelwerke/)
 - [Psychoanalytische Bibliothek Berlin](https://psybi-berlin.de/literatur-online/)
-%% 
+- [oapen](https://oapen.org/)
+- [de Gruyter open access](https://library.oapen.org/browse?type=publisher&value=De+Gruyter)
 - [Logos Verlag Open Access Verzeichnis](https://www.logos-verlag.de/ebooks/OA/)
+%% 
 - [Annas Archive](https://annas-archive.org/) Schattenarchiv, Grauzone, manchmal illegal
 - https://dokumen.pub/  Bücher mit Copyright Verletzungen und evlt Malware 
+- [Zeitungsartikel archive.ph](https://archive.ph/)
 %% 
 ### Kanäle für Materialen
 #### Sammlungen von Kanälen
@@ -73,7 +76,7 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Uni Tübingen kath-theol Fakultät Vorlesungen als Videos](https://uni-tuebingen.de/fakultaeten/katholisch-theologische-fakultaet/lehrstuehle/philosophische-grundfragen-der-theologie/vorlesungen-als-video/)
 - [TU Darmstadt Philosophie Audiothek](https://www.philosophie.tu-darmstadt.de/institut_phil/audiothek_phil/index.de.jsp)
 - [Philosophische Audiothek Uni Wien](https://audiothek.philo.at/)
-- [Finkelde Youtube](https://www.youtube.com/@dominikfinkelde/videos)
+- [Finkelde Youtube](https://www.youtube.com/@dominikfinkelde/videos) 
 - [Online Vorlesungen Philosophie des Geistes](https://www.online-vorlesungen.de/Videos/Philosophie/Philosophie_des_Geistes.htm)
 #### Andere Bereiche
 - [LMU Psychologie/Pädagogik - einige frei](https://videoonline.edu.lmu.de/de/semester)
@@ -82,6 +85,7 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Alexander Lasch Linguistik YouTube](https://www.youtube.com/@AlexanderLasch/featured)
 - [Elena Smirnova Sprachwissenschaft YouTube](https://www.youtube.com/@elenasmirnova674/featured)
 - [lacan podcast](http://lacast.de/) und [Lacan Videos](https://lacan-entziffern.de/category/video-lacan-entziffern/)
+- [ard radiowissen](https://www.ardaudiothek.de/sendung/radiowissen/urn:ard:show:a5369fa8556fcd7b/)
 %%https://transformatorische-bildung.de/ %%
 ## Technisches über diese Site
 ### Einstellungen
@@ -119,12 +123,14 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - Sonst Defaults, 
 - Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes.  
 - Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md), leicht angepasst, als `timeline.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/timeline.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
-- Anfangs verwendetes Theme Willemstad angepasst mit dem Plugin [Style Settings](https://github.com/mgmeyers/obsidian-style-settings), das Einstellungen in `.obsidian/plugins/obsidian-style-settings/data.json` ^[hardlinked zu `allhelperfiles/pointobsidian/plugins/obsidian-style-settings/data.json`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität] speichert. Aktuelles Theme Obuntu unterstützt das Plugin nicht.
 - Export angepasst mit eigener Datei  `obuntu_adapt.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/obuntu_adap.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
 - Eigenes Script `foty.js` nach `allhelperfiles/allscripts`, 
 - Template `foty_Vorlage.md` nach `allhelperfiles/allvorlagen`. 
 - Plugin [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
-- Plugin [Shortcuts Extender](https://github.com/ryjjin/Obsidian-shortcuts-extender)
+- Plugin [Shortcuts Extender](https://github.com/ryjjin/Obsidian-shortcuts-extender) ^[Nur wegen des Backticks für Code, insbesondere des dreifachen Backticks für Code Blöcke]
+- Plugin [ProZen](https://github.com/cmoskvitin/obsidian-prozen)
+- Plugin [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode)
+- Plugin [Vimrc](https://github.com/esm7/obsidian-vimrc-support)
 ### Formatierungen
 #### Basics
 siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
@@ -137,7 +143,7 @@ siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
 - - [x] erledigt
 - - [ ] offen
 - Inline `code` und Codeblöcke mit \`\`\` umschlossen
-- Fußnoten direkt im Text ^[Nach einem Dach steht der Fussnotentext in eckigen Klammern] und längere Fußnoten[^2] (keine Hover-Anzeige  mit `Webpage HTML Export`)
+- Fußnoten direkt im Text^[Nach einem Dach steht der Fussnotentext in eckigen Klammern] und  mit `[^zahl]` längere Fußnoten[^2] (keine Hover-Anzeige  von Fußnoten mit `Webpage HTML Export`)
 - internes und externe Links (Benutze auch Wiki-Links)
 - Bilder anzeigen mit \!\[\]\(link\), in Größe 250  mit  \!\[\|250\]\(link\)
 - Absatz (Leerzeile beendet Absatz)
