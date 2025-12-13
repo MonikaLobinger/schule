@@ -245,5 +245,21 @@
     }
   ],
   "typewriter-mode:move-typewriter-down": [],
-  "typewriter-mode:move-typewriter-up": []
+  "typewriter-mode:move-typewriter-up": [],
+  "theme:toggle-light-dark": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F9"
+    }
+  ],
+  "editor:toggle-spellcheck": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F9"
+    }
+  ]
 }

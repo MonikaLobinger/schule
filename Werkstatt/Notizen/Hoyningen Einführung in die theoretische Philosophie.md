@@ -123,7 +123,6 @@ Ontologie gibt es nun auch eingeschränkt, z.B. Ontologie einer Theorie
 Aristoteles selbst nennt das was heute Metaphysik heißt "erste Philosophie": die grundlegendsten Fragen hinsichtlich der Welt
 
 Was unter Metaphysik verstanden wird hat sich im Laufe der Geschichte __extrem__ verändert.
-
 #### Schematische Einteilung in 5 Phasen
 ##### Phase 1 Antike und Mittelalter 
 sachhaltige metaphysische Fragen, z.B. Aristoteles: Das Seiende ist Einzeldinge mit allgemeinen Eigenschaften, z.B. bei Platon ist das eigentlich Seiende sind Ideen. Methodik wird nur beiläufig thematisiert. Ende des Mittelalters kommen immer mehr Probleme dieser Methode in den Blickpunkt.
@@ -139,7 +138,7 @@ Neuzeit (17. Jhd bis Ende 18. Jhd) - systematische Reflexion auf Möglichkeiten 
 ###### Rationalismus
 Der Rationalismus ist uns heute relativ fremd. Die Sinneswahrnehmung spielt allenfalls eine untergeordnete Rolle. Primär ist die Vernunfterkenntnis.
 
-[[timeline#^Descartes|Descartes]]: : Zwei-Substanzen-Lehre
+[[timeline#^Descartes|Descartes]]: Zwei-Substanzen-Lehre
 
 [[timeline#^Leibniz|Leibniz]]: Satz vom zureichenden Grund "Für alles was es gibt, gibt es einen zureichenden Grund (weshalb es so ist, wie es ist)"
 

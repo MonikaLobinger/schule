@@ -9,6 +9,6 @@ author: Ueberphilosophy
 # Giovanni Pico della Mirandola
 [[timeline#^Pico]]
 ## Über die Würde des Menschen
-[[Willensbekundung]](http://www.willensbekundung.net/Assets/PDF_Dateien/Mirandola_Wuerde_des_Menschen.pdf) - deutsch, pdf
+[Willensbekundung](http://www.willensbekundung.net/Assets/PDF_Dateien/Mirandola_Wuerde_des_Menschen.pdf) - deutsch, pdf
 
 ## -footnotes

@@ -5,7 +5,7 @@ publish: true
 author: Ueberphilosophy
 ---
 # Startseite
-Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Die selbst erstellen Definitionen im Ordner `Definitionen`  sind grob. Der Ordner `stutiis` dient für jeweils eigene Notizen. Der Name ist falsch geschrieben, so kann er über alle Dateien ersetzt werden. Die Dateien des Ordners `Werkstatt` sind persönliche Realisierung von `stutiis`, sie sind nicht exportiert; leider wird der Ordner dennoch manchmal im Dateibaum angezeigt.
+Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Die selbst erstellen Definitionen im Ordner `Definitionen`  sind grob. Der Ordner `stutiis` dient für jeweils eigene Notizen. Der Name ist durchgängig falsch geschrieben, so ist er eindeutig und kann über alle Dateien ersetzt werden. 
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol wird beim Drüberfahren mit der Maus sichtbar. 
  - Beim  Klick mit der Maus öffnen alle Links, auch externe,  im selben Fenster. `Ctrl`^[`Shift`]-Klick öffnet in einem neuen Tab.
@@ -27,7 +27,7 @@ sed -i 's/<div class="tree-item-self is-clickable mod-collapsible nav-folder-tit
 %%
 
 ## Inhalt
-Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,  und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[-Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline]]  zu finden. Beide Auflistungen sind da  manuell erstellt möglicherweise nicht aktuell. Über die Seitenleiste links kann man alle Seiten finden.
+Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,  und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[-Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline]]  zu finden. Der Katalog wird automatisch erstellt, die timeline manuell. Eventuell gibt es Fehler und in den Auflistungen fehlen Seiten. Über die Seitenleiste links kann man alle Seiten finden.
 
 
 - Grobe [[timeline|Zeitleiste]]  mit Links zu Quellenseiten (verknüpft über den Autorennamen)
@@ -76,7 +76,8 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Uni Tübingen kath-theol Fakultät Vorlesungen als Videos](https://uni-tuebingen.de/fakultaeten/katholisch-theologische-fakultaet/lehrstuehle/philosophische-grundfragen-der-theologie/vorlesungen-als-video/)
 - [TU Darmstadt Philosophie Audiothek](https://www.philosophie.tu-darmstadt.de/institut_phil/audiothek_phil/index.de.jsp)
 - [Philosophische Audiothek Uni Wien](https://audiothek.philo.at/)
-- [Finkelde Youtube](https://www.youtube.com/@dominikfinkelde/videos) 
+- [Philosophie Uni Stuttgart](https://www.youtube.com/@institutfurphilosophieuniv5984/featured)
+- [Finkelde YouTube](https://www.youtube.com/@dominikfinkelde/videos) 
 - [Online Vorlesungen Philosophie des Geistes](https://www.online-vorlesungen.de/Videos/Philosophie/Philosophie_des_Geistes.htm)
 #### Andere Bereiche
 - [LMU Psychologie/Pädagogik - einige frei](https://videoonline.edu.lmu.de/de/semester)
@@ -84,8 +85,8 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Uni Hamburg Lecture2Go Videokatalog](https://lecture2go.uni-hamburg.de/l2go)
 - [Alexander Lasch Linguistik YouTube](https://www.youtube.com/@AlexanderLasch/featured)
 - [Elena Smirnova Sprachwissenschaft YouTube](https://www.youtube.com/@elenasmirnova674/featured)
-- [lacan podcast](http://lacast.de/) und [Lacan Videos](https://lacan-entziffern.de/category/video-lacan-entziffern/)
-- [ard radiowissen](https://www.ardaudiothek.de/sendung/radiowissen/urn:ard:show:a5369fa8556fcd7b/)
+- [Lacan Podcast](http://lacast.de/) und [Lacan Videos](https://lacan-entziffern.de/category/video-lacan-entziffern/)
+- [ARD Radiowissen](https://www.ardaudiothek.de/sendung/radiowissen/urn:ard:show:a5369fa8556fcd7b/)
 %%https://transformatorische-bildung.de/ %%
 ## Technisches über diese Site
 ### Einstellungen
@@ -121,11 +122,13 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
     - file regex template `allhelperfiles/allvorlagen/foty_Vorlage.md`, 
     - Script files folder location `allhelperfiles/allscripts`
 - Sonst Defaults, 
-- Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes.  
+- Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes mit [[home#^Script|Script]] `allhelperfiles/allscripts/foty.js` und [[home#^Vorlage|Vorlage]] `allhelperfiles/allvorlagen/foty_Vorlage.md`
 - Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md), leicht angepasst, als `timeline.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/timeline.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
+- Editmode angepasst mit eigener Datei `plainsource.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/plainsource.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität].
 - Export angepasst mit eigener Datei  `obuntu_adapt.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/obuntu_adap.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
-- Eigenes Script `foty.js` nach `allhelperfiles/allscripts`, 
-- Template `foty_Vorlage.md` nach `allhelperfiles/allvorlagen`. 
+- Embedded Links in den Katalogen angepasst mit eigener Datei  `catalogs.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/catalogs.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
+- Eigenes Script `foty.js` nach `allhelperfiles/allscripts`, ^Script
+- Eigenes Template `foty_Vorlage.md` nach `allhelperfiles/allvorlagen`. ^Vorlage
 - Plugin [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
 - Plugin [Shortcuts Extender](https://github.com/ryjjin/Obsidian-shortcuts-extender) ^[Nur wegen des Backticks für Code, insbesondere des dreifachen Backticks für Code Blöcke]
 - Plugin [ProZen](https://github.com/cmoskvitin/obsidian-prozen)
@@ -137,7 +140,7 @@ siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
 - __bold__ *schräg* ~~Durchgestrichen~~ ==Highlight== ***Fett Schräg***  ***==Fett Schräg Highlight==*** ^textformate
 - [[home#^zitat|Zitate]], beginnend mit \> 
 - Listen, wie diese, auch geschachtelt
-- 1) und auch
+- 1) und auch,
 - 2) nummerierte Listen
 - sowie Aufgaben
 - - [x] erledigt
@@ -156,10 +159,10 @@ siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
 > Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society. ==-Doug Engelbart, 1961== ^zitat
 
 #### Weitergehende Formatierungen
-siehe Obsidian [# Advanced Formatting Syntax](https://help.obsidian.md/advanced-syntax) und folgende Seiten
+siehe Obsidian [Advanced Formatting Syntax](https://help.obsidian.md/advanced-syntax) und folgende Seiten für
 - Tabellen
 - Mermaid Diagramme
-- Mathematische Ausdrücke innerhalb  \$Zeichen inline $e^{2i\pi} = 1$ oder  \$\$ Zeichen als Block
+- Mathematische Ausdrücke innerhalb  \$-Zeichen inline $e^{2i\pi} = 1$ oder Paaren von \$\$-Zeichen als Block
 - Anker, Links zu [[home#^textformate|Ankern]], sowie Linknamenüberschreibungen
 - Callouts
 - Tags #tag und Nested Tags #nested/tag - Groß/Kleinschreibung ist für Tags egal
@@ -173,16 +176,50 @@ siehe Obsidian [# Advanced Formatting Syntax](https://help.obsidian.md/advanced-
 Dieser Abschnitt gilt nur für  eine laufende Obsidian Instanz
 
 - Obwohl man den Notiznamen für eine neue Notiz im Dialogprompt angegeben hat, muss man noch `<return>` drücken. Dies ist kein Fehler des Scripts. Eventuell ist es eine Regression, jahrelang davor ist es mir nicht negativ aufgefallen.
+#### tote interne Links
+%%
+```dataviewjs
+let r = Object.entries(dv.app.metadataCache.unresolvedLinks) .filter(([k,v])=>Object.keys(v).length) .flatMap(([k,v]) => Object.keys(v).map(x=>dv.fileLink(x)))  
+dv.list([...new Set(r)])  
+```
+%%
 
+```dataviewjs
+let result = {};
+function process(referingFile, unresolvedLinks) {
+    Object.keys(unresolvedLinks).forEach(function (link) {
+        link = dv.fileLink(link);
+        if (!result[link]) result[link] = [];
+        result[link].push(dv.fileLink(referingFile));
+    });
+}
+
+// Filter for files in a specific directory (e.g., starting with "10 Example Data/dailys")
+Object.entries(dv.app.metadataCache.unresolvedLinks)
+    .filter(([referingFile]) => {
+        return !referingFile.startsWith("allhelperfiles/allvorlagen");
+    })
+    .forEach(([referingFile, unresolvedLink]) => process(referingFile, unresolvedLink));
+
+// Display the results in a table
+dv.table(
+    ["Non existing notes", "Linked from"],
+    Object.entries(result).map(([unresolvedLink, referingFiles]) => [
+        unresolvedLink,
+        referingFiles.join(" • ")
+    ])
+);   
+```
 ### github.io
-- Github hosted zu jedem Account mit dem Service [Github Pages](https://docs.github.com/de/pages) eine statische Webseite. 
-- Das Github Projekt, das diese Seite definiert muss `accountname.github.io` heissen.
+- Github hosted mit dem Service [Github Pages](https://docs.github.com/de/pages) zu jedem Account eine statische Webseite. 
+- Das Github Projekt, das diese Seite definiert muss `accountname.github.io` heißen.
 - Früher hieß der gesamte Service github.io, heute heißt er Github Pages.
 - Github läuft seit über einem Jahrzehnt auch für kostenlose Konten stabil und problemlos
 - Wenigstens Verzeichnisse dürfen nicht mit einem Unterstrich beginnen^[Für Dateien extra habe ich das dann nicht ausprobiert]
 - Ein Minuszeichen würde gehen, macht aber Zugriff über [bash](https://de.wikipedia.org/wiki/Bash_(Shell)) komplizierter
-- 
-
+%%
+tote externe Links checken: https://error404.atomseo.com/
+%%
 ## -footnotes
 
 [^2]: Add 2 spaces at the start of each new line.

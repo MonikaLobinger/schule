@@ -12,8 +12,12 @@ Man kann sagen, man ist eine Frau oder  man ist ein Mann. Egal ob man Muskeln od
 Aber man kann nicht sagen, man ist ein Schmetterling oder ein Weizenkorn, wenn man es nicht wie Jesus metaphorisch meint, sondern Angst hat von einem Vogel oder einem Huhn gefressen zu werden. Weiß das Huhn, dass ich kein Weizenkorn bin?
 
 Mann und Frau als soziale Rolle, Huhn als biologische Gegebenheit. Gibt es noch andere soziale Rollen für die man nichts tun oder haben muss? Lehrer, König, Kenner, ... muss anerkannt werden. Fresser, Genießer, Betrachter, Zuhörender, Zerstörer, Bewahrer. Die sind alle nicht total, Mann/Frau ist das auch nicht. 
+
+Man könnte sich auch als Beschützer des Pfarrers oder wahrer Mann von Prinzessin Ann definieren. Da definiert man sich in Beziehung auf jemanden. Steht es einem frei, das zu tun? Vlt das mit dem Beschützer, aber solange es nur einen wahren Mann geben kann, letzteres nicht. Das würde für andere etwas festlegen. Auch darf die Tätigkeit als Beschützer und wahrer Mann nicht bestimmend in das Leben des Pfarrers und Prinzessin Ann eingreifen.
 ## Wie ist es mit der Anerkennung
 Aber die müssen alle nicht anerkannt werden - klar, bewahrst du deine Erinnerungen, aber ein Bewahrer damit ich ihn anerkenne müßte wenigstens die Erinnerungen der letzten hundert Jahre unserer Stadt bewahren. Es ist aber nicht binär - ich gestehe damit nur nicht Bewahrer zu, weise aber nicht automatisch etwas anderes zu. Nicht-Bewahrer gibt es nicht. Ich sage: Für mich bist du kein Bewahrer. Aber ich sage nicht, du bist ein Erzeuger oder ein Vergesser. 
+
+Und einen selbst definierten Beschützer oder wahren Mann muss ich nicht anerkennen.
 
 Ein Transmann ist kein Mann und keine Frau. Eine Transfrau ist keine Frau und kein Mann.
 

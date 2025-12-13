@@ -5,25 +5,46 @@ publish: true
 tags:
 author: Ueberphilosophy
 ---
-![[-Philosophie-Einfuehrung]]
+## Philosophie
+```dataviewjs
+/* Embedded alle Kataloge der nächsten Tiefe
+*/
+const eval_foldername = `"${dv.current().file.folder}"`;
+const foldername = dv.current().file.folder;
 
-![[-Philosophie-Geschichte]]
+function depth(path) {
+    return path.split("/").length;
+}
+const tiefe = depth(foldername)+1;
 
-![[-Philosophie-Erkenntnistheorie]]
+const pages = dv
+    .pages(eval_foldername)
+    .where(p => 
+      (p.file.name.substring(0,1) == "-") &&
+      (depth(p.file.folder)==tiefe) 
+     )
+    ;
+pages.forEach(i => {dv.el("p","![[" + i.file.link.path + "]]")})
+```
 
-![[-Politische-Philosophie]]
+```dataviewjs
+/* Listet aller Sammlungen
+*/
+const eval_foldername = `"${dv.current().file.folder}"`;
+const foldername = dv.current().file.folder;
 
-![[-Kulturphilosophie]]
+function depth(path) {
+    return path.split("/").length;
+}
+const tiefe = depth(foldername);
 
-![[-Sprachphilosophie]]
-
-![[-Philosophie-zwanzigstes-Jhd]]
-
-![[-Gegenwartsphilosophie]]
-
-![[-Philosophie-Aesthetik]]
-
-[[Philosophie Unsortiert Videos]]
-
-[[Philosophie Podcasts]]
+const pages = dv
+    .pages(eval_foldername)
+    .where(p => 
+      (p.file.name.substring(0,1) != "-") &&
+      (depth(p.file.folder)==tiefe) 
+     )
+    ;
+dv.list(pages.file.link)
+```
 

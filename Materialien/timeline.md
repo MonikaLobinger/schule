@@ -52,22 +52,22 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 >  Perikles †-429 ^Perikles
 
 > [!timeline|blue] ~-490
->  [[Protagoras Quellen|Protagoras]] †~-411 ^Protagoras
+> [[Protagoras Quellen|Protagoras]] †~-411 ^Protagoras
 
 > [!timeline|blue] -469
->  [[Sokrates Quellen|Sokrates]] †-399 ^Sokrates
+> [[Sokrates Quellen|Sokrates]] †-399 ^Sokrates
 
 > [!timeline|blue] ~-428
->  [[Platon Quellen|Platon]] †~-348 ^Platon
+> [[Platon Quellen|Platon]] †~-348 ^Platon
 
 > [!timeline|green] ~-428
->  [[Xenophon Quellen|Xenophon]] †~-354 ^Xenophon
+> [[Xenophon Quellen|Xenophon]] †~-354 ^Xenophon
 
 > [!timeline|blue] -384
->  [[Aristoteles Quellen|Aristoteles]] †-322 ^Aristoteles
+> [[Aristoteles Quellen|Aristoteles]] †-322 ^Aristoteles
 
 > [!timeline|blue] -371
->  [[Theophrastos Quellen|Theophrastos]] †-287 ^Theophrastos
+> [[Theophrastos Quellen|Theophrastos]] †-287 ^Theophrastos
 
 > [!timeline|green] ~-180
 > [[Apollodoros Quellen|Apollodoros]]  †~-120 ^Apollodoros
@@ -130,102 +130,108 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 > Ludwig XV †1774 ^Ludwig-XV
 
 > [!timeline|blue] 1711
->  [[Hume Quellen|Hume]] †1776 ^Hume
+> [[Hume Quellen|Hume]] †1776 ^Hume
 
 > [!timeline|green] 1712
->  [[Rousseau Quellen|Rousseau]] †1778 ^Rousseau
+> [[Rousseau Quellen|Rousseau]] †1778 ^Rousseau
 
 > [!timeline|green] 1713
->  [[Diderot Quellen|Diderot]] †1784 ^Diderot
+> [[Diderot Quellen|Diderot]] †1784 ^Diderot
 
 > [!timeline|blue] 1724
->  [[Kant Quellen|Kant]] †1804 ^Kant
+> [[Kant Quellen|Kant]] †1804 ^Kant
 
 > [!timeline|green] 1761
->  [[Kotzebue Quellen|Kotzebue]] †1819 ^Kotzebue
+> [[Kotzebue Quellen|Kotzebue]] †1819 ^Kotzebue
 
 > [!timeline|blue] 1762
->  [[Fichte Quellen|Fichte]] †1814 ^Fichte
+> [[Fichte Quellen|Fichte]] †1814 ^Fichte
 
 > [!timeline|green] 1770
->  [[Hoelderlin Quellen|Hölderlin]] †1843 ^Hoelderlin
+> [[Hoelderlin Quellen|Hölderlin]] †1843 ^Hoelderlin
 
 > [!timeline|blue] 1770
->  [[Hegel Quellen|Hegel]] †1831 ^Hegel
+> [[Hegel Quellen|Hegel]] †1831 ^Hegel
 
 > [!timeline|blue] 1775
->  [[Schelling Quellen|Schelling]] †1845 ^Schelling
+> [[Schelling Quellen|Schelling]] †1845 ^Schelling
 
 > [!timeline|grey] 1809
->  [[Darwin Quellen|Darwin]] †1882 ^Darwin
+> [[Darwin Quellen|Darwin]] †1882 ^Darwin
 
 > [!timeline|blue] 1844
->  [[Nietzsche Quellen|Nietzsche]] †1900 ^Nietzsche
+> [[Nietzsche Quellen|Nietzsche]] †1900 ^Nietzsche
 
 > [!timeline|grey] 1856
->  [[Freud Quellen|Freud]] †1939 ^Freud
+> [[Freud Quellen|Freud]] †1939 ^Freud
 
 > [!timeline|blue] 1861
->  [[Whitehead Quellen|Whitehead]] †1947 ^
+> [[Whitehead Quellen|Whitehead]] †1947 ^
 
 > [!timeline|green] 1866
->  [[Wells Quellen|Wells]] †1946 ^Wells
+> [[Wells Quellen|Wells]] †1946 ^Wells
 
 > [!timeline|green] 1848
->  [[Diels Quellen|Diels]] †1948 ^Diels
+> [[Diels Quellen|Diels]] †1948 ^Diels
   
 > [!timeline|blue] 1848
->  [[Frege Quellen|Frege]] †1925 ^Frege
+> [[Frege Quellen|Frege]] †1925 ^Frege
   
 > [!timeline|blue] 1859
->  [[Husserl Quellen|Husserl]] †1938 ^Husserl
+> [[Husserl Quellen|Husserl]] †1938 ^Husserl
   
 > [!timeline|green] 1883
->  [[Kafka Quellen|Kafka]] †1924 ^Kafka
+> [[Kafka Quellen|Kafka]] †1924 ^Kafka
   
 > [!timeline|blue] 1889
->  [[Wittgenstein Quellen|Wittgenstein]] †1951 ^Wittgenstein
+> [[Wittgenstein Quellen|Wittgenstein]] †1951 ^Wittgenstein
   
 > [!timeline|blue] 1889
->  [[Heidegger Quellen|Heidegger]] †1976 ^Heidegger
+> [[Heidegger Quellen|Heidegger]] †1976 ^Heidegger
   
 > [!timeline|green] 1899
->  [[Borges Quellen|Borges]] †1986 ^Borges-Jorge-Luis
+> [[Borges Quellen|Borges]] †1986 ^Borges-Jorge-Luis
   
 > [!timeline|blue] 1902
->  [[Kojeve Quellen|Kojeve]] †1968 ^Kojeve
+> [[Kojeve Quellen|Kojeve]] †1968 ^Kojeve
   
 > [!timeline|blue] 1903
->  [[Jankelevitch Quellen|Jankelevitch]] †1985 ^Jankelevitch
+> [[Jankelevitch Quellen|Jankelevitch]] †1985 ^Jankelevitch
+  
+> [!timeline|blue] 1905
+> [[Hempel Quellen|Hempel]] †1997 ^Hempel-Carl-Gustav
   
 > [!timeline|blue] 1908
->  [[Quine Quellen|Quine]] †2000 ^Quine
+> [[Quine Quellen|Quine]] †2000 ^Quine
   
 > [!timeline|grey] 1924
->  [[Laplanche Quellen|Laplanche]] †2012 ^Laplanche
+> [[Laplanche Quellen|Laplanche]] †2012 ^Laplanche
 
 > [!timeline|blue] 1927
->  [[Schobinger Quellen|Schobinger]] †2001 ^Schobinger
+> [[Schobinger Quellen|Schobinger]] †2001 ^Schobinger
+  
+> [!timeline|blue] 1927
+> [[Gettier Quellen|Gettier]] †2021 ^Gettier
   
 > [!timeline|blue] 1930
->  [[Derrida Quellen|Derrida]] †2004 ^Derrida
+> [[Derrida Quellen|Derrida]] †2004 ^Derrida
   
 > [!timeline|blue] 1949
->  [[Zizek Quellen|Zizek]]  ^Zizek
+> [[Zizek Quellen|Zizek]]  ^Zizek
 
 > [!timeline|blue] 1959
->  [[Malabou Quellen|Malabou]]  ^Malabou
+> [[Malabou Quellen|Malabou]]  ^Malabou
 
 > [!timeline|blue] 1957
->  [[Schaellibaum Quellen|Schaellibaum]]  ^Schaellibaum
+> [[Schaellibaum Quellen|Schaellibaum]]  ^Schaellibaum
 
 > [!timeline|blue] 1966
->  [[Zupancic Quellen|Zupancic]]  ^Zupancic
+> [[Zupancic Quellen|Zupancic]]  ^Zupancic
 
 > [!timeline|blue] 1968
->  [[Harman Quellen|Harman]]  ^Harman-Graham
+> [[Harman Quellen|Harman]]  ^Harman-Graham
 
 > [!timeline|blue] 1981
->  [[Zorn Quellen|Zorn]]  ^Zorn
+> [[Zorn Quellen|Zorn]]  ^Zorn
 
 ## -footnotes
