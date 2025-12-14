@@ -54,7 +54,7 @@
   --link-decoration-hover: none;
 }
 /* Damit das Plugin "Webpage HTML Export" den Dateinamen nicht als H1 anzeigt */
-.page-title, .mod-header {
+.page-title  {
   display:none;
 }
 .theme-light code {
@@ -82,6 +82,9 @@ h6 {
   text-decoration-thickness: 1px !important;
   text-decoration-style: dashed !important;
   text-underline-offset: 0.5rem !important;
+}
+[data-heading="-footnotes"] {
+    display: none;
 }
 
 

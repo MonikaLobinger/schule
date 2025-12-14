@@ -1,8 +1,9 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-12-05
 publish: true
 tags: Hegel
+ddckey: 
 author: Ueberphilosophy
 ---
 

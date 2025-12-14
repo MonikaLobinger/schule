@@ -1,8 +1,9 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-11-29
 publish: true
 tags: Nietzsche-Friedrich
+ddckey: 
 author: Ueberphilosophy
 ---
 

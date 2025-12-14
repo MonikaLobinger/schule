@@ -1,9 +1,10 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-11-26
 publish: true
-author: Ueberphilosophy
 tags: Kant-Immanuel
+ddckey: 
+author: Ueberphilosophy
 ---
 # Immanuel Kant
 [[timeline#^Kant]]

@@ -1,9 +1,10 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-11-27
 publish: true
-author: Ueberphilosophy
 tags: Philosophie/Geschichte
+ddckey: 
+author: Ueberphilosophy
 ---
 
 # Philosophie

@@ -11,7 +11,7 @@
     let fugger     = false; // used by example configurations
     
     
-    let knownYAML  = ["cssclass", "date_created", "publish", "tags", ];
+    let knownYAML  = ["cssclasses", "date_created", "publish", "tags", ];
     const inYAML   = new Map()
     let results    = await tp.user.foty(tp, app); 
 

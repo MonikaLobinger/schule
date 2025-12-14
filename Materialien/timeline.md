@@ -1,7 +1,9 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-11-28
 publish: true
+tags:
+ddckey: 
 author: Ueberphilosophy
 ---
 

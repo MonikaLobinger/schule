@@ -1,8 +1,9 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-12-04
 publish: true
 tags: Schobinger-Jean-Pierre
+ddckey: 
 author: Ueberphilosophy
 ---
 

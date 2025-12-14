@@ -1,5 +1,5 @@
 ---
-cssclass: note
+cssclasses: note
 date_created: 2025-11-30
 publish: true
 tags: apeiron

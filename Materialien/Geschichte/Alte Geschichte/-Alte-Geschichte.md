@@ -1,12 +1,13 @@
 ---
-cssclass: note
+cssclasses: catalog
 date_created: 2025-12-03
 publish: true
 tags:
+ddckey: Gesch_125
 author: Ueberphilosophy
 ---
 ```dataviewjs
-/* Listet aller Sammlungen
+/* Listet aller Materialien
 */
 const eval_foldername = `"${dv.current().file.folder}"`;
 const foldername = dv.current().file.folder;

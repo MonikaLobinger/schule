@@ -1,9 +1,10 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-11-28
 publish: true
-author: Ueberphilosophy
 tags: Sokrates
+ddckey: 
+author: Ueberphilosophy
 ---
 
 # Sokrates

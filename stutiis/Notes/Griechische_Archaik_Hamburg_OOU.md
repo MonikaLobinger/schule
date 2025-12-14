@@ -1,13 +1,13 @@
 ---
-cssclass: studies
+cssclasses: studies
 date_created:
-publish: true
+publish: false
 tags:
 author:
 ---
 
 # griechische Archaik 
-Notizen zu [[Alte Geschichte Audios#gr.Archaik (audio + text)- hamburg open online university]]
+Notizen zu [[UniHamburg_Emanuel_Griechisch_Archaik]]
 
 ## Offen
 - [01 Überblick](https://emanualaltegeschichte.blogs.uni-hamburg.de/ueberblick/)

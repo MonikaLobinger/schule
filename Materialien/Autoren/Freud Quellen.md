@@ -1,8 +1,9 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-12-10
 publish: true
 tags: Freud-Sigmund
+ddckey: 
 author: Ueberphilosophy
 ---
 # Siegmund Freud

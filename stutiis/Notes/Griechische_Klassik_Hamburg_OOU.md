@@ -1,7 +1,7 @@
 ---
-cssclass: studies
+cssclasses: studies
 date_created:
-publish: true
+publish: false
 tags:
 author:
 ---

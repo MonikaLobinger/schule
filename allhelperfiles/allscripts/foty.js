@@ -35,7 +35,7 @@ let user_configuration = {
       date_created_date_format: {__SPEC:false, DEFAULT:"YYYY-MM-DD",TYPE:"Date", },
       frontmatter: {__SPEC: {RENDER: false,},
         aliases:          {__SPEC:false, DEFAULT: cbkFmtAlias, TYPE: "(Array.<String>|Function)"},
-        cssclass:         {__SPEC:false, DEFAULT: cbkFmtCssClasses, TYPE: "(Array.<String>|Function)"},
+        cssclasses:       {__SPEC:false, DEFAULT: cbkFmtCssClasses, TYPE: "(Array.<String>|Function)"},
         date_created:     {__SPEC:false, DEFAULT: cbkFmtCreated, TYPE: "(Date|Function)", },
         position:         {__SPEC:false, IGNORE: true, TYPE: "Boolean", },
         private:          {__SPEC:false, DEFAULT: false, TYPE: "Boolean", },
@@ -284,7 +284,7 @@ function headerOrt(noteName) {
 //    key "____" is sent.
 //    aliases: Array of string
 //        Function cbkFmtAlias notename, mocstring removed  and "," replaced with blank
-//    cssclass: Array of string
+//    cssclasses: Array of string
 //        Function cbkFmtCssClasses returns notType in array
 //    date_created: Date
 //        cbkFmtCreated returns current date, respecting 
@@ -375,7 +375,7 @@ let schule_configuration = {
       __SPEC: {REPEAT: true},
       mocstring:          {__SPEC:false, DEFAULT:"-",TYPE:"String", },
       yaml: {__SPEC: {RENDER: false,},
-        cssclass:         {__SPEC:false, DEFAULT: cbkFmtCssClasses, TYPE: "(Array.<String>|Function)"},
+        cssclasses:       {__SPEC:false, DEFAULT: cbkFmtCssClasses, TYPE: "(Array.<String>|Function)"},
         date_created:     {__SPEC:false, DEFAULT: cbkFmtCreated, TYPE: "(Date|Function)", },
         author:           {__SPEC:false, DEFAULT: "Ueberphilosophy", TYPE: "String", },
         publish:          {__SPEC:false, DEFAULT: true, TYPE: "Boolean", },
@@ -389,17 +389,31 @@ let schule_configuration = {
       },
     },
     note: {
-      yaml: {__SPEC: {RENDER: false,}, },
-      show: {__SPEC: {RENDER: true,}, },
+      yaml: { },
+      show: { },
     },
     stutiis: {
       folders: ["stutiis", ],
       yaml: {
         date_created: "",
         author: "",
-        cssclass: "studies",
+        cssclasses: "studies",
+        publish: false,
       },
       show: {__SPEC: {RENDER: true,}, },
+    },
+    material: {
+      folders: ["Materialien", ],
+      yaml: {
+        ddckey:  {__SPEC:false, VALUE: "", TYPE: "String", },
+        media:   {__SPEC:false, VALUE: "video", TYPE: "(String|Array.<String>|Function)",},
+      },
+    },
+    autor: {
+      folders: ["Materialien/Autoren",],
+      yaml: {
+        ddckey:  {__SPEC:false, VALUE: "", TYPE: "String", },
+      },
     },
     diary:          {
       title_date_function:  cbkCalcDateTitle,

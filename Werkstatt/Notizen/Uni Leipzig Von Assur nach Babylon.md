@@ -1,5 +1,5 @@
 ---
-cssclass: note
+cssclasses: note
 date_created: 2025-12-06
 publish: true
 tags:

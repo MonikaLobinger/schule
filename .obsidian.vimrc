@@ -7,3 +7,4 @@ nmap <F9> :nohl<CR>
 " Yank to system clipboard
 set clipboard=unnamed
 inoremap jk <Esc>
+inoremap <C-j> <Esc>

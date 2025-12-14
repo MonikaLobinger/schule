@@ -1,11 +1,17 @@
 ---
-cssclass: note
+cssclasses: catalog
 date_created: 2025-12-01
 publish: true
 tags:
+ddckey: All
 author: Ueberphilosophy
 ---
-# Automatisch erstellte Ansicht aller Unterkataloge:
+# Gesamtkatolog Lernmaterialien
+Die [Systematik](https://biblio.media.h-da.de/IuD/bibdk1.htm) folgt der DDC, sie verwendet die [[DDCKlassen]] der  [Deutschen Nationalbibliothek](https://www.dnb.de/DE/Professionell/DDC-Deutsch/DDCUebersichten/ddcUebersichten.html)
+
+> [!Info] Das Projekt befindet sich im Umbau 
+> die Systematik ist noch nicht durchgehend angepasst. 
+## Automatisch erstellte Ansicht aller Unterkataloge:
 
 ```dataviewjs
 /* Embedded alle Kataloge der nächsten Tiefe

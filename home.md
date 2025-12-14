@@ -1,15 +1,18 @@
 ---
-cssclass: note
+cssclasses: note
 date_created: 2025-11-24
 publish: true
 author: Ueberphilosophy
 ---
 # Startseite
-Sammlung von Online [[-Materialien|Materialien]] zum Lernen und [[timeline|Quelltexten]]. Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Die selbst erstellen Definitionen im Ordner `Definitionen`  sind grob. Der Ordner `stutiis` dient für jeweils eigene Notizen. Der Name ist durchgängig falsch geschrieben, so ist er eindeutig und kann über alle Dateien ersetzt werden. 
+Sammlung von Links zu __[[-Materialien|Materialien]]__ zum Lernen und frei zugänglichen __[[timeline|Quelltexten]]__. 
+
+Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Die selbst erstellen Definitionen im Ordner `Definitionen`  sind grob. Der Ordner `stutiis` kann für jeweils eigene Notizen verwendet. Der Name ist durchgängig falsch geschrieben, so ist er eindeutig und kann über alle Dateien ersetzt werden. 
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol wird beim Drüberfahren mit der Maus sichtbar. 
  - Beim  Klick mit der Maus öffnen alle Links, auch externe,  im selben Fenster. `Ctrl`^[`Shift`]-Klick öffnet in einem neuen Tab.
  - Die Verlinkung von Fußnoten funktioniert nicht, entsprechend auch keine Hover-Effekte von Fußnoten.^[Das ist wohl dem Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export); doch es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird.]
+ - Hover auf Anker zeigen nicht die Ansicht der Ankerposition.^[Auch das wohl dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) geschuldet, denn in Obsidian selbst funktioniert das.]. z.B. [[home#^textformate|Verlinkung zu Anker Textformate auf dieser Seite.]]
 %% Den Dateibaum anpassen
 site-lib/html/file-tree-content.html
 
@@ -91,13 +94,15 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 ## Technisches über diese Site
 ### Einstellungen
 - Erstellt mit [Obsidian](https://obsidian.md/), 
-- exportiert mit dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export). 
+- exportiert mit dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export).
 - Einstellungen
   - Editor
     - Default editing mode: Source mode 
     - Strict Line Breaks, 
     - Properties in Document hidden, 
     - Show line numbers, 
+    - Kein Auto-pair brackets
+    - Kein Auto-Pair Markdown Syntax
     - vim-key bindings, 
   - Files and Links 
     - Attachments nach `allhelperfiles/allresources` , 
@@ -121,8 +126,10 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
     - Enable file regex template
     - file regex template `allhelperfiles/allvorlagen/foty_Vorlage.md`, 
     - Script files folder location `allhelperfiles/allscripts`
+- Core Plugins aus: Canvas, Graph View, Note Composer, Sync
 - Sonst Defaults, 
 - Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes mit [[home#^Script|Script]] `allhelperfiles/allscripts/foty.js` und [[home#^Vorlage|Vorlage]] `allhelperfiles/allvorlagen/foty_Vorlage.md`
+- Im Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) im Abschnitt Page Features aus: Graph und RSS
 - Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md), leicht angepasst, als `timeline.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/timeline.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
 - Editmode angepasst mit eigener Datei `plainsource.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/plainsource.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität].
 - Export angepasst mit eigener Datei  `obuntu_adapt.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/obuntu_adap.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 

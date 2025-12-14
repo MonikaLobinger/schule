@@ -1,8 +1,9 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-12-02
 publish: true
 tags: Diels-Hermann
+ddckey: 
 author: Ueberphilosophy
 ---
 

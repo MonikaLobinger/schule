@@ -1,9 +1,10 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-11-24
 publish: true
-author: Ueberphilosophy
 tags: Parmenides-von-Elea
+ddckey: 
+author: Ueberphilosophy
 ---
 # Parmenides von Elea
 [[timeline#^Parmenides]]

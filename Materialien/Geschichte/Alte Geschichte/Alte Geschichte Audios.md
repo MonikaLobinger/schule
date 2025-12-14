@@ -1,8 +1,9 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-12-01
 publish: true
 tags:
+ddckey: 
 author: Ueberphilosophy
 ---
 
@@ -10,7 +11,9 @@ author: Ueberphilosophy
 ## Alte Geschichte
 Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
 ### gr.Archaik (audio + text)- hamburg open online university 
-[[Griechische_Archaik_Hamburg_OOU|eigene Notizen]] #speaker/Riess-Werner
+
+[[stutiis/Notes/Griechische_Archaik_Hamburg_OOU|eigene Notizen]] #speaker/Riess-Werner
+
 - [01 Überblick](https://emanualaltegeschichte.blogs.uni-hamburg.de/ueberblick/)
 - [02 Die Minoer](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-die-minoer/) #Minoische-Kultur #Kreta
 - [03 Die Mykener](https://emanualaltegeschichte.blogs.uni-hamburg.de/03-die-mykener/) #Mykene
@@ -22,15 +25,20 @@ Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
 - [09 Neue Kriegstechniken und Tyrannis](https://emanualaltegeschichte.blogs.uni-hamburg.de/09-neue-kriegstechnik-und-tyrannis/) #Tyrannis
 
 ### gr. Klassik (audio + text)- hamburg open online university 
- [[Griechische_Klassik_Hamburg_OOU|eigene Notizen]] #speaker/Riess-Werner
+
+ [[stutiis/Notes/Griechische_Klassik_Hamburg_OOU|eigene Notizen]] #speaker/Riess-Werner
+ 
 - [01 Einführung in die Klassik](https://emanualaltegeschichte.blogs.uni-hamburg.de/01-einfuehrung-in-die-klassik/)
 - [02 Die Perserkriege](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-die-perserkriege/) #Perserkriege
 - [03 Die Kleisthenischen Reformen / Die athenische Außenpolitik des 5. Jahrhunderts](https://emanualaltegeschichte.blogs.uni-hamburg.de/03-die-kleisthenischen-reformen-die-athenische-aussenpolitik-des-5-jahrhunderts/) #Athen
-- [04 Der peleponnesische Krieg](https://emanualaltegeschichte.blogs.uni-hamburg.de/04-der-peleponnesische-krieg/) #peleponnesische-Krieg
+- [04 Der peleponnesische Krieg](https://emanualaltegeschichte.blogs.uni-hamburg.de/04-der-peleponnesische-krieg/) #peleponnesischer-Krieg
 - [05 Die athenische Demokratie](https://emanualaltegeschichte.blogs.uni-hamburg.de/05-die-athenische-demokratie/) #Demokratie
 
+
 ### Hellenismus(audio + text)- hamburg open online university 
+
 [[Hellenismus_Hamburg_OOU|eigene Notizen]] #speaker/Riess-Werner
+
 - [01 Alexander der Große](https://emanualaltegeschichte.blogs.uni-hamburg.de/01-alexander-der-grosse/) #Alexander-der-Grosse
 - [02 Grundzüge der Ereignisgeschichte bis ca. 200 v. Chr.](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-grundzuege-der-ereignisgeschichte-bis-ca-200-v-chr/)
 - [03 Die Antigoniden und die Bünde](https://emanualaltegeschichte.blogs.uni-hamburg.de/03-die-antigoniden-und-die-buende/) #Angigoniden
@@ -38,7 +46,9 @@ Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
 - [05 Das Alltagsleben und das Leben am Hof](https://emanualaltegeschichte.blogs.uni-hamburg.de/05-das-alltagsleben-und-das-leben-am-hof/)
 - [06 Religiöse Entwicklungen im Hellenismus](https://emanualaltegeschichte.blogs.uni-hamburg.de/06-religioese-entwicklungen-im-hellenismus/) #Hellenismus
 ### Von Assur nach Babylon - Uni Leipzig
-[[Von_Assyr_nach_Babylon_Uni_Leibzig|eigene Notizen]] #wird_fortgesetzt 
+
+[[Von_Assyr_nach_Babylon_Uni_Leibzig|eigene Notizen]] #wird_fortgesetzt
+
 - [Was ist Altorientalistik?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/was-ist-altorientalistik-9484359/)
 - [Die Wiederentdeckung des Alten Orients und die Entschlüsselung der Keilschrift](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-wiederentdeckung-des-alten-orients_9484360/)
 - [Die Gesetze Hammu-rapis](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-gesetze-hammu-rapis_9484361/)

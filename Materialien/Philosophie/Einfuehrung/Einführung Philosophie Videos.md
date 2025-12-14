@@ -1,9 +1,10 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-11-24
 publish: true
-author: Ueberphilosophy
 tags: Philosophie/Einführung
+ddckey: 
+author: Ueberphilosophy
 ---
 # Philosophie
 ## Einführung

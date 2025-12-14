@@ -1,8 +1,9 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-12-01
 publish: true
 tags: Protagoras
+ddckey: 
 author: Ueberphilosophy
 ---
 

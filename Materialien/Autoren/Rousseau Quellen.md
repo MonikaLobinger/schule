@@ -1,8 +1,9 @@
 ---
-cssclass: note
+cssclasses: material
 date_created: 2025-12-05
 publish: true
 tags: Rousseau-Jean-Jacques
+ddckey: 
 author: Ueberphilosophy
 ---
 # Jean-Jacques Rousseau

@@ -1,10 +1,10 @@
 ---
 aliases: display commands
-cssclass: 
+cssclasses: 
 date_created: 2021-06-26
 private: false
 publish: false
-tags: 0/note, 0/Obsidian
+tags: 
 author: Matthias C. Hormann a.k.a. Moonbase59
 source: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/37
 revised: true

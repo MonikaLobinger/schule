@@ -1,5 +1,5 @@
 ---
-cssclass: note
+cssclasses: note
 date_created: 2025-11-27
 publish: true
 author: Ueberphilosophy
