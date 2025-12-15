@@ -392,8 +392,21 @@ let schule_configuration = {
       yaml: { },
       show: { },
     },
+    werkstatt: {
+      folders: ["Mitschriften",],
+      yaml: {
+//        /* schule_public */  date_created: "",
+        /* schule_private */ date_created: cbkFmtCreated,
+//        /* schule_public */  author: "",
+        /* schule_private */ author: "Ueberphilosophy",
+//        /* schule_public */  cssclasses: "studies",
+        /* schule_private */ cssclasses: "werkstatt",
+        publish: false,
+      },
+      show: {__SPEC: {RENDER: true,}, },
+    },
     stutiis: {
-      folders: ["stutiis", ],
+      folders: ["XXXstutiis", ],
       yaml: {
         date_created: "",
         author: "",
@@ -410,7 +423,7 @@ let schule_configuration = {
       },
     },
     autor: {
-      folders: ["Materialien/Autoren",],
+      folders: ["Autoren",],
       yaml: {
         ddckey:  {__SPEC:false, VALUE: "", TYPE: "String", },
       },
@@ -424,7 +437,7 @@ let schule_configuration = {
         firstline: cbkNoteName,
         sndline:   "## ",
       },
-      yaml: { publish: true, },
+      yaml: { publish: false, },
       folders: ["Diary", ],
     },
   },

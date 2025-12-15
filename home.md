@@ -7,7 +7,7 @@ author: Ueberphilosophy
 # Startseite
 Sammlung von Links zu __[[-Materialien|Materialien]]__ zum Lernen und frei zugänglichen __[[timeline|Quelltexten]]__. 
 
-Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Die selbst erstellen Definitionen im Ordner `Definitionen`  sind grob. Der Ordner `stutiis` kann für jeweils eigene Notizen verwendet. Der Name ist durchgängig falsch geschrieben, so ist er eindeutig und kann über alle Dateien ersetzt werden. 
+Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Die selbst erstellen Definitionen im Ordner `Definitionen`  sind grob. Der Ordner `Werkstatt` kann für jeweils eigene Notizen verwendet. 
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol wird beim Drüberfahren mit der Maus sichtbar. 
  - Beim  Klick mit der Maus öffnen alle Links, auch externe,  im selben Fenster. `Ctrl`^[`Shift`]-Klick öffnet in einem neuen Tab.
@@ -27,6 +27,10 @@ cp site-lib/html/file-tree-content.html site-lib/html/file-tree-content.sv
 sed -i 's/<div class="tree-item-self is-clickable mod-collapsible nav-folder-title" data-path="Werkstatt".*zzzzzz<\/div><\/a><div class="tree-item-children nav-file-children"><\/div><\/div><\/div><\/div>//' site-lib/html/file-tree-content.html
 ```
 `.domakepub` stellt die öffentliche Version wieder her
+%%
+
+%% 
+Der gesamte Ablauf des Exports steht in Diary/2025-12-14#Wie es läuft
 %%
 
 ## Inhalt
@@ -222,8 +226,9 @@ dv.table(
 - Das Github Projekt, das diese Seite definiert muss `accountname.github.io` heißen.
 - Früher hieß der gesamte Service github.io, heute heißt er Github Pages.
 - Github läuft seit über einem Jahrzehnt auch für kostenlose Konten stabil und problemlos
-- Wenigstens Verzeichnisse dürfen nicht mit einem Unterstrich beginnen^[Für Dateien extra habe ich das dann nicht ausprobiert]
+- Verzeichnisse und Dateien dürfen nicht mit einem Unterstrich beginnen
 - Ein Minuszeichen würde gehen, macht aber Zugriff über [bash](https://de.wikipedia.org/wiki/Bash_(Shell)) komplizierter
+- Dateinamen dürfen mit einem Klammeraffen `@` oder einer Ziffer beginnen
 %%
 tote externe Links checken: https://error404.atomseo.com/
 %%

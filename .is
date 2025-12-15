@@ -1,0 +1,19 @@
+#! /usr/bin/env bash
+if [ -f .ispub ]; then
+  echo "      PUBLIC          "
+  echo "      ======          "
+  echo "Ist Public - um es privat zu machen: .makepriv"
+fi
+if [ -f .ispriv ]; then
+  echo "      PRIVAT          "
+  echo "      ======          "
+  echo "Ist Privat - um es public zu machen: .domakepub"
+  echo "Um zu exportieren: .prepareforexport"
+fi
+if [ -f .isexport ]; then
+  echo "      EXPORT          "
+  echo "      ======          "
+  echo "Ist im Export Modus - um es privat zu machen: .makepriv"
+fi
+echo "Auskommentiert ist ein Kommando, um alle Verweise auf stutiies/Notes/ zu entfernen"
+# find Materialien/ -type f -name "*.md" -print0 | xargs -0 sed -i 's/stutiis\/Notes\///g'

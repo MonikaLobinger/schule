@@ -1,0 +1,9 @@
+#! /usr/bin/env bash
+if [ -f .ispriv ]; then
+  rm .ispriv
+  mv .stutiis XXXstutiis
+  sleep 1
+  touch .isexport
+else
+  echo "Exportiert werden kann nur im  Private mode"
+fi

@@ -1,0 +1,12 @@
+#! /usr/bin/env bash
+if [ -f .ispriv ]; then
+  rm .ispriv
+  mv Werkstatt .Werkstatt
+  sleep 1
+  mv .stutiis Werkstatt
+  sed -i 's/\/\/\(.*schule_public\)/\1/' allhelperfiles/allscripts/foty.js
+  sed -i 's/\(.*schule_private\)/\/\/\1/' allhelperfiles/allscripts/foty.js
+  touch .ispub
+else
+  echo "Schon nicht privat"
+fi

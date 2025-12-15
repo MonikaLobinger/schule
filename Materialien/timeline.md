@@ -168,7 +168,7 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 > [[Freud Quellen|Freud]] †1939 ^Freud
 
 > [!timeline|blue] 1861
-> [[Whitehead Quellen|Whitehead]] †1947 ^
+> [[Whitehead Quellen|Whitehead]] †1947 ^Whitehead
 
 > [!timeline|green] 1866
 > [[Wells Quellen|Wells]] †1946 ^Wells

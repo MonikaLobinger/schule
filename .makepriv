@@ -1,0 +1,17 @@
+#! /usr/bin/env bash
+if [ -f .ispub ]; then
+  rm .ispub
+  mv Werkstatt .stutiis
+  sleep 1
+  mv .Werkstatt Werkstatt
+  sed -i 's/\/\/\(.*schule_private\)/\1/' allhelperfiles/allscripts/foty.js
+  sed -i 's/\(.*schule_public\)/\/\/\1/' allhelperfiles/allscripts/foty.js
+  touch .ispriv
+elif [ -f .isexport ]; then
+  rm .isexport
+  mv XXXstutiis .stutiis
+  sleep 1
+  touch .ispriv
+else
+  echo "Schon nicht public"
+fi
