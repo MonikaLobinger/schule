@@ -1,14 +1,12 @@
 ---
 cssclasses: werkstatt
-date_created: 2025-12-06
-publish: true
+date_created: 2025-12-15
+publish: false
 tags:
 author: Ueberphilosophy
 ---
-
-# Von Assur nach Babylon
-[[Alte Geschichte Audios#Von Assur nach Babylon - Uni Leipzig]]
-
+# Mitschrift
+zu [[Von_Assur_nach_Babylon_UniLeibzig]]
 ## Anfänge des Schreibens
 [Anfänge des Schreibens](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/anfaenge-des-schreibens_9484353/)
 
@@ -196,10 +194,10 @@ Welchen deiner Buhlen behältst du für allezeit lieb?
 - [Das Reich von Akkad](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/das-reich-von-akkad_9484352/)
 - [Ein König und sein missratener Sohn - Aus dem Königreich von Mari](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/ein-koenig-und-sein-missratener-sohn_9686124/)
 - [Ägypten liegt nicht in der Nähe! — internationale Diplomatie vor 3300 Jahren](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/aegypten-liegt-nicht-in-der-naehe-internationale-diplomatie-vor-3300-jahren_9894299/)
-
 ## Unsachgemäße Anmerkungen
  [[Uni Leipzig Von Assur nach Babylon#^Zeichen|Etwas]] steht für Etwas anderes. Vorher noch materiell - die Tonmarken, nun nur Zeichen. Später konnte man da drauf kommen, dass es allgemein in der Sprache so ist. Die Sprache gab es schon lange, als sie zum Zählen von Gütern für diesen reduzierten Bereich verschriftlicht wurde.
 
 [[Uni Leipzig Von Assur nach Babylon#^Trenner|Trenner]] Eine Worttrennung ist Etwas - man nimmt kein Leerzeichen, keinen Abstand.
+
 
 ## -footnotes

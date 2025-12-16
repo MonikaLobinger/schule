@@ -1,18 +1,13 @@
 ---
-cssclasses: material
-date_created: 2025-12-01
+cssclasses: studies
+date_created: 2025-12-15
 publish: true
 tags:
-ddckey: 938
-media:
-  - video
-  - text
-author: Ueberphilosophy
+author: 
 ---
-[Griechische Geschichte III: Der Hellenismus - UniHamburg_Emanual](https://emanualaltegeschichte.blogs.uni-hamburg.de/category/podcasts+hellenismus/) #speaker/Riess-Werner
-
-[[@Griechisch_Hellenismus_UniHamburg_Emanual|Mitschrift]]
-
+# Mitschrift
+zu [[Griechische_III_Hellenismus_UniHamburg_Emanual]]
+## Offen
 - [01 Alexander der Große](https://emanualaltegeschichte.blogs.uni-hamburg.de/01-alexander-der-grosse/) #Alexander-der-Grosse
 - [02 Grundzüge der Ereignisgeschichte bis ca. 200 v. Chr.](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-grundzuege-der-ereignisgeschichte-bis-ca-200-v-chr/)
 - [03 Die Antigoniden und die Bünde](https://emanualaltegeschichte.blogs.uni-hamburg.de/03-die-antigoniden-und-die-buende/) #Angigoniden

@@ -1,12 +1,12 @@
 ---
-cssclasses: werkstatt
+cssclasses: studies
 date_created: 2025-12-15
-publish: false
+publish: true
 tags:
-author: Ueberphilosophy
+author: 
 ---
 # Mitschrift
-zu [[Griechisch_Archaik_UniHamburg_Emanual]]
+zu [[Griechische_I_Archaik_UniHamburg_Emanual]]
 ## Offen
 - [01 Überblick](https://emanualaltegeschichte.blogs.uni-hamburg.de/ueberblick/)
 - [02 Die Minoer](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-die-minoer/) #Minoische-Kultur #Kreta

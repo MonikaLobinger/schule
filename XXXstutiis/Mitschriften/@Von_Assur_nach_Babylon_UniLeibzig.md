@@ -1,19 +1,13 @@
 ---
-cssclasses: material
-date_created: 2025-12-01
-publish: true
+cssclasses: studies
+date_created:
+publish: false
 tags:
-ddckey: 
-author: Ueberphilosophy
+author:
 ---
-
-# Geschichte
-## Alte Geschichte
-Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
-### Von Assur nach Babylon - Uni Leipzig
-
-[[Von_Assyr_nach_Babylon_Uni_Leibzig|eigene Notizen]] #wird_fortgesetzt
-
+# Mitschrift
+zu [[Von_Assur_nach_Babylon_UniLeibzig]]
+## Offen
 - [Was ist Altorientalistik?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/was-ist-altorientalistik-9484359/)
 - [Die Wiederentdeckung des Alten Orients und die Entschlüsselung der Keilschrift](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-wiederentdeckung-des-alten-orients_9484360/)
 - [Die Gesetze Hammu-rapis](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-gesetze-hammu-rapis_9484361/)
@@ -27,5 +21,4 @@ Hier Audios, siehe auch [[Alte Geschichte Videos|Videos]]
 - [Ein König und sein missratener Sohn - Aus dem Königreich von Mari](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/ein-koenig-und-sein-missratener-sohn_9686124/)
 - [Wie klang Babylonisch?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/wie-klang-babylonisch-9777304/)
 - [Ägypten liegt nicht in der Nähe! — internationale Diplomatie vor 3300 Jahren](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/aegypten-liegt-nicht-in-der-naehe-internationale-diplomatie-vor-3300-jahren_9894299/)
-
 ## -footnotes

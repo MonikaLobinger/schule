@@ -5,6 +5,7 @@
     let pict_width = 0;
     let firstline  = "";
     let sndline    = "";
+    let thrdline   = "";
     let prevlink   = "";
     let nextlink   = "";
     let lastline   = "";
@@ -28,6 +29,7 @@
                 case "pict_width":pict_width = value; break;
                 case "firstline": firstline  = value; break;
                 case "sndline":   sndline    = value; break;
+                case "thrdline":  thrdline   = value; break;
                 case "prevlink":  prevlink   = value; break;
                 case "nextlink":  nextlink   = value; break;
                 case "lastline":  lastline   = value; break;
@@ -75,6 +77,11 @@
 <%_* // ***** WRITING Sndline ***** 
     if(sndline!="") { %>
 <% sndline %>
+<%_*} -%>
+
+<%_* // ***** WRITING Thrdline ***** 
+    if(thrdline!="") { %>
+<% thrdline %>
 <%_*} -%>
 
 <%_* // ***** Setting Cursor ***** %>

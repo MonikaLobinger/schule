@@ -12,5 +12,5 @@ author: Ueberphilosophy
  - [ ] [[Homer Materialen#Arte Die Illias und die Odyssee|Arte - die Illias und die Odyssee]] 3
  - [ ] [Die Ilias - der Krieg um Troja](https://www.youtube.com/watch?v=3k6x6RL-zdA) 44:00
  - [ ] vom [[Alte Geschichte Videos#Grundkurs alte Geschichte Uni Oldenburg|Grundkurs alte Geschichte der Uni Oldenburg]] Anfang und die Griechen - 2
- - [ ] [[Anfaenge Graeber Wengrow]] - 1
+ - [ ] [[-Anfaenge Graeber Wengrow]] - 1
 

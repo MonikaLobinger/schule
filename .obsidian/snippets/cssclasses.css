@@ -44,6 +44,12 @@
 .bigbiglist h6 {
   margin-left: 4rem !important;
 }
+.bigbiglist p {
+  padding-left: 5rem !important;
+  position: relative;
+  top: -0.8rem;
+  line-height: 1px;
+}
 .bigbiglist ul {
   padding: 0 !important;
   margin: 0 !important;
@@ -51,24 +57,35 @@
 .bigbiglist li {
    margin-left: 2rem !important;
 }
+
+
+.catalog table.dataview.table-view-table {
+  border-left: 0;
+  border-top: 0;
+  border-bottom: 0;
+}
+.catalog table.dataview.table-view-table th {
+  background: blue;
+  display: none;
+}
 .catalog .markdown-embed-title {
   display: none;
 }
 .catalog .block-language-dataviewjs.node-insert-event > p {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  xmargin-top: 0 !important;
+  xmargin-bottom: 0 !important;
 }
 
 .catalog div.block-language-dataviewjs.node-insert-event > div {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-  padding-left: 0.3rem !important;
+  xmargin-top: 0 !important;
+  xmargin-bottom: 0 !important;
+  xpadding-left: 0.3rem !important;
 }
 .catalog div.block-language-dataviewjs.node-insert-event * {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
+  xmargin-top: 0 !important;
+  xmargin-bottom: 0 !important;
+  xpadding-top: 0 !important;
+  xpadding-bottom: 0 !important;
 }
 .catalog div.block-language-dataviewjs.node-insert-event h2 {
   padding-left: 0.5rem !important;

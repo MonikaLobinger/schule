@@ -6,7 +6,7 @@ tags:
 author: Ueberphilosophy
 ---
 # Mitschrift
-zu [[Griechisch_Hellenismus_UniHamburg_Emanual]]
+zu [[Griechische_III_Hellenismus_UniHamburg_Emanual]]
 ## Offen
 - [01 Alexander der Große](https://emanualaltegeschichte.blogs.uni-hamburg.de/01-alexander-der-grosse/) #Alexander-der-Grosse
 - [02 Grundzüge der Ereignisgeschichte bis ca. 200 v. Chr.](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-grundzuege-der-ereignisgeschichte-bis-ca-200-v-chr/)

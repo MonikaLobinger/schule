@@ -6,7 +6,7 @@ tags:
 author: Ueberphilosophy
 ---
 # Mitschrift
-zu [[Griechisch_Klassik_UniHamburg_Emanual]]
+zu [[Griechische_II_Klassik_UniHamburg_Emanual]]
 ## Offen
 - [01 Einführung in die Klassik](https://emanualaltegeschichte.blogs.uni-hamburg.de/01-einfuehrung-in-die-klassik/)
 - [02 Die Perserkriege](https://emanualaltegeschichte.blogs.uni-hamburg.de/02-die-perserkriege/) #Perserkriege

@@ -30,7 +30,7 @@ sed -i 's/<div class="tree-item-self is-clickable mod-collapsible nav-folder-tit
 %%
 
 %% 
-Der gesamte Ablauf des Exports steht in Diary/2025-12-14#Wie es läuft
+Der gesamte Ablauf des Exports steht in [[2025-12-14#Wie es läuft]]
 %%
 
 ## Inhalt
@@ -145,6 +145,7 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - Plugin [ProZen](https://github.com/cmoskvitin/obsidian-prozen)
 - Plugin [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode)
 - Plugin [Vimrc](https://github.com/esm7/obsidian-vimrc-support)
+- Plugin [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers)
 ### Formatierungen
 #### Basics
 siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
@@ -164,6 +165,7 @@ siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
 - mehrere Leerzeichen verschwinden zu einem 
 - Neue Zeile verschwindet, außer zwei Leerzeichen sind vorm Zeilenumbruch
 - Überschriften (# bis ###### )
+- Links zu [[home#Sammlungen von Kanälen|Überschriften]]
 - Trennlinie mit drei \-\-\-
 - Kommentare innerhalb von \%\%, die nicht exportiert werden - %%sieht man nicht%% -
 
