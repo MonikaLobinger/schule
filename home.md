@@ -99,7 +99,7 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 ### Einstellungen
 - Erstellt mit [Obsidian](https://obsidian.md/), 
 - exportiert mit dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export).
-- Einstellungen
+- Einstellungen 
   - Editor
     - Default editing mode: Source mode 
     - Strict Line Breaks, 

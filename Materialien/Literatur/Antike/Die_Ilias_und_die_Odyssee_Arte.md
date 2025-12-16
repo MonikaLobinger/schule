@@ -3,13 +3,16 @@ cssclasses: material
 date_created: 2025-11-30
 publish: true
 tags: [Ilias, Odyssee]
-ddckey: 
+ddckey: 883 
+media:
+  - video
 author: Ueberphilosophy
 ---
 
-# Literatur
-## Arte Die Ilias und die Odyssee
-[[Arte_Die_Illias_und_die_Odysse|eigene Notizen]]
+## [Die Ilias und die Odyssee - Arte](https://www.youtube.com/playlist?list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU)
+
+[[Werkstatt/Mitschriften/@Die_Ilias_und_die_Odyssee_Arte|Mitschrift]]
+
 - [Der Apfel der Zwietracht](https://www.youtube.com/watch?v=k9mMOFrm_pI&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=1&pp=iAQB)
 - [Die Stunde der Opfer](https://www.youtube.com/watch?v=ldzA4UOHb2c&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=2&pp=iAQB0gcJCRUKAYcqIYzv)
 - [Der Zorn des Achilles](https://www.youtube.com/watch?v=rcIfnmsUYs8&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=3&pp=iAQB)
