@@ -8,10 +8,13 @@ author: Ueberphilosophy
 ---
 # Gesamtkatolog Lernmaterialien
 Die [Systematik](https://biblio.media.h-da.de/IuD/bibdk1.htm) folgt der DDC, sie verwendet die [[DDCKlassen]] der  [Deutschen Nationalbibliothek](https://www.dnb.de/DE/Professionell/DDC-Deutsch/DDCUebersichten/ddcUebersichten.html)
+> [!info] Anzeige noch fehlerhaft
+> Nach dem Umbau der Kataloge muss die Anzeige noch überarbeitet werden.
 
-> [!Info] Das Projekt befindet sich im Umbau 
-> die Systematik ist noch nicht durchgehend angepasst. 
 ## Automatisch erstellte Ansicht aller Unterkataloge:
+```dataviewjs
+await dv.executeJs(await dv.io.load("Materialien/catalog.js"));
+```
 
 ```dataviewjs
 /* Embedded alle Kataloge der nächsten Tiefe

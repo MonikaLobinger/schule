@@ -1,0 +1,13 @@
+---
+cssclasses: catalog
+date_created: 2025-12-17
+publish: true
+tags:
+ddckey: 
+author: Ueberphilosophy
+---
+### Antike Philosophie
+```dataviewjs
+await dv.executeJs(await dv.io.load("Materialien/catalog.js"));
+```
+

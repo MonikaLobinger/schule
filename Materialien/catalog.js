@@ -1,4 +1,4 @@
-const laenge_der_ueberschrift = 60;
+const laenge_der_ueberschrift = 70;
 const eval_foldername = `"${dv.current().file.folder}"`;
 const foldername = dv.current().file.folder;
 
@@ -11,6 +11,12 @@ function filelink(file,noteText) {
   let headerName = file.path;
   if (found != null) {
     headerName = found[0].slice(4,-1).slice(0,laenge_der_ueberschrift);
+  } else {
+    regex = /## .*/;
+    found = noteText.match(regex);
+    if (found != null) {
+      headerName = found[0].slice(3).slice(0,laenge_der_ueberschrift);
+    }
   }
   fllink = "[[" + file.path + "|" + headerName + "]]"
   return fllink;
@@ -27,7 +33,11 @@ const pages = await Promise.all(
     dv.pages(eval_foldername)
     .where(p =>
       (p.file.name.substring(0,1) != "-") &&
-      (depth(p.file.folder)==tiefe)
+      (!p.file.path.includes("Autoren/")) &&
+      (!p.file.path.includes("Autoren\\")) &&
+      (p.file.name != "timeline") &&
+      (p.file.name != "DDCKlassen") &&
+      (depth(p.file.folder)>=tiefe)
      )
    .map(async (page) => {
       const content = await dv.io.load(page.file.path);

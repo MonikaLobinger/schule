@@ -1,17 +1,16 @@
 ---
 cssclasses: werkstatt
 date_created: 2025-12-02
-publish: true
-tags:
+publish: false
+tags: [Anaximander-von-Milet, Anaximenes-von-Milet] 
 author: Ueberphilosophy
 ---
-
 # Notizen
 Notizen zu Adamson [2 - Infinity and Beyond: Anaximander and Anaximenes](https://historyofphilosophy.net/anaximander-anaximenes)
 
 [[timeline#^Anaximander|Anaximander]] und [[timeline#^Anaximenes|Anaximenes]]
 
-Über diese beiden wissen wir ein bißchen mehr als über [[Adamson  001 Thales|Thales]].
+Über diese beiden wissen wir ein bißchen mehr als über [[Adamson 001 Thales|Thales]].
 
 ### Anaximander
 Anaximander meint, das Prinzip von allem wäre das Unbegrenzte, [[apeiron]]. 

@@ -6,23 +6,7 @@ tags:
 ddckey: 
 author: Ueberphilosophy
 ---
+### Geschichte der Philosophie
 ```dataviewjs
-/* Listet aller Sammlungen
-*/
-const eval_foldername = `"${dv.current().file.folder}"`;
-const foldername = dv.current().file.folder;
-
-function depth(path) {
-    return path.split("/").length;
-}
-const tiefe = depth(foldername);
-
-const pages = dv
-    .pages(eval_foldername)
-    .where(p => 
-      (p.file.name.substring(0,1) != "-") &&
-      (depth(p.file.folder)==tiefe) 
-     )
-    ;
-dv.list(pages.file.link)
+await dv.executeJs(await dv.io.load("Materialien/catalog.js"));
 ```
