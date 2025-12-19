@@ -13,6 +13,7 @@ Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. D
  - Beim  Klick mit der Maus öffnen alle Links, auch externe,  im selben Fenster. `Ctrl`^[`Shift`]-Klick öffnet in einem neuen Tab.
  - Die Verlinkung von Fußnoten funktioniert nicht, entsprechend auch keine Hover-Effekte von Fußnoten.^[Das ist wohl dem Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export); doch es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird.]
  - Hover auf Anker zeigen nicht die Ansicht der Ankerposition.^[Auch das wohl dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) geschuldet, denn in Obsidian selbst funktioniert das.]. z.B. [[home#^textformate|Verlinkung zu Anker Textformate auf dieser Seite.]]
+ - Hover auf Überschriften zeigen nur für die aktuelle Seite die Position der Überschrift^[Auch das wohl dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) geschuldet, denn in Obsidian selbst funktioniert das.].  Die exportierte Sammlung verwendet in den Katalogen Links auf Überschriften der DDC Klassen. Für diese ist der Fehler durch einem Script korrigiert. ^[In der Verlinkung wird an die Überschrift "_0" angehängt, so dass sie funktioniert. Da die Sammlung auch direkt in Obsidian verwendet wird und dort "_0" nicht zum Link gehört, wird das nicht in den Quellen angepasst]
 %% Den Dateibaum anpassen
 site-lib/html/file-tree-content.html
 
@@ -77,12 +78,13 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Philosophiechannels auf YouTube](https://griffl.org/die-besten-philosophie-channels-auf-youtube/)
 - [30 Quellen für Onlinevorlesungen aller Fachbereiche](https://www.fernstudi.net/magazin/10963)
 - [Wissenschaftspodcasts](https://wissenschaftspodcasts.de/)
+- [Philosophie Blogs](https://www.information-philosophie.de/blogs.html)
 #### Kanäle Philosophie
 - [LMU Videos von Vorlesungen und Vorträgen Philosophie](https://www.philosophie.lmu.de/de/medien/videos-von-vorlesungen-und-vortraegen/)
 - [Uni Hannover Philosophie Vorlesungsaufzeichnungen](https://www.philos.uni-hannover.de/de/studium/lehrveranstaltungen/videos)
 - [Uni Tübingen kath-theol Fakultät Vorlesungen als Videos](https://uni-tuebingen.de/fakultaeten/katholisch-theologische-fakultaet/lehrstuehle/philosophische-grundfragen-der-theologie/vorlesungen-als-video/)
 - [TU Darmstadt Philosophie Audiothek](https://www.philosophie.tu-darmstadt.de/institut_phil/audiothek_phil/index.de.jsp)
-- [Philosophische Audiothek Uni Wien](https://audiothek.philo.at/)
+- [Philosophische Audiothek Uni Wien](https://audiothek.philo.at/) - [Sitemaps](https://audiothek.philo.at/sitemap.xml)
 - [Philosophie Uni Stuttgart](https://www.youtube.com/@institutfurphilosophieuniv5984/featured)
 - [Finkelde YouTube](https://www.youtube.com/@dominikfinkelde/videos) 
 - [Online Vorlesungen Philosophie des Geistes](https://www.online-vorlesungen.de/Videos/Philosophie/Philosophie_des_Geistes.htm)
@@ -94,6 +96,8 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - [Elena Smirnova Sprachwissenschaft YouTube](https://www.youtube.com/@elenasmirnova674/featured)
 - [Lacan Podcast](http://lacast.de/) und [Lacan Videos](https://lacan-entziffern.de/category/video-lacan-entziffern/)
 - [ARD Radiowissen](https://www.ardaudiothek.de/sendung/radiowissen/urn:ard:show:a5369fa8556fcd7b/)
+### Alle Medien
+- [Datenbank Infosystem](https://dbis.ur.de/browse/subjects/31/)
 %%https://transformatorische-bildung.de/ %%
 ## Technisches über diese Site
 ### Einstellungen
@@ -130,10 +134,14 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
     - Enable file regex template
     - file regex template `allhelperfiles/allvorlagen/foty_Vorlage.md`, 
     - Script files folder location `allhelperfiles/allscripts`
+  - Webpage HTML Export
+     - Abschnitt Page Features
+       - Graph View aus
+       - Backlinks aus
+       - RSS aus
 - Core Plugins aus: Canvas, Graph View, Note Composer, Sync
 - Sonst Defaults, 
 - Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes mit [[home#^Script|Script]] `allhelperfiles/allscripts/foty.js` und [[home#^Vorlage|Vorlage]] `allhelperfiles/allvorlagen/foty_Vorlage.md`
-- Im Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) im Abschnitt Page Features aus: Graph und RSS
 - Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md), leicht angepasst, als `timeline.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/timeline.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
 - Editmode angepasst mit eigener Datei `plainsource.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/plainsource.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität].
 - Export angepasst mit eigener Datei  `obuntu_adapt.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/obuntu_adap.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
@@ -145,7 +153,7 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 - Plugin [ProZen](https://github.com/cmoskvitin/obsidian-prozen)
 - Plugin [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode)
 - Plugin [Vimrc](https://github.com/esm7/obsidian-vimrc-support)
-- Plugin [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers)
+- Plugin [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers) - aber nur falls nötig aktiv, verlangsamt bei großen Dateien Reaktion auf Tastendruck merklich.
 ### Formatierungen
 #### Basics
 siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
@@ -157,6 +165,7 @@ siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
 - sowie Aufgaben
 - - [x] erledigt
 - - [ ] offen
+-  Tags, z.B. #Argumente , auch geschachtelte Tags wie #speaker/Jaspers-Karl 
 - Inline `code` und Codeblöcke mit \`\`\` umschlossen
 - Fußnoten direkt im Text^[Nach einem Dach steht der Fussnotentext in eckigen Klammern] und  mit `[^zahl]` längere Fußnoten[^2] (keine Hover-Anzeige  von Fußnoten mit `Webpage HTML Export`)
 - internes und externe Links (Benutze auch Wiki-Links)
@@ -165,12 +174,16 @@ siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
 - mehrere Leerzeichen verschwinden zu einem 
 - Neue Zeile verschwindet, außer zwei Leerzeichen sind vorm Zeilenumbruch
 - Überschriften (# bis ###### )
-- Links zu [[home#Sammlungen von Kanälen|Überschriften]]
+- Links zu [[home#Sammlungen von Kanälen|Überschriften auf selber Seite]], auf anderer Seite funktioniert [[DDCKlassen#723|723 nur in Obsidian, im Export normalerweise nicht]], außer auf anderer Seite ist der Link  als [[DDCKlassen#723_0|723_0 für den Export angepasst]]
 - Trennlinie mit drei \-\-\-
 - Kommentare innerhalb von \%\%, die nicht exportiert werden - %%sieht man nicht%% -
 
 > Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society. ==-Doug Engelbart, 1961== ^zitat
+```
+dies ist ein codeblock
+§$-?*+^ 
 
+```
 #### Weitergehende Formatierungen
 siehe Obsidian [Advanced Formatting Syntax](https://help.obsidian.md/advanced-syntax) und folgende Seiten für
 - Tabellen

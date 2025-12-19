@@ -6,7 +6,7 @@ tags:
 author: Ueberphilosophy
 ---
 # Mitschrift
-zu [[Von_Assur_nach_Babylon_UniLeibzig]]
+zu [[Von_Assur_nach_Babylon_UniLeipzig]]
 ## Anfänge des Schreibens
 [Anfänge des Schreibens](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/anfaenge-des-schreibens_9484353/)
 
@@ -98,7 +98,7 @@ Ein König Schüldi rühmt sich:
 
 Es kommt selten vor dass ein König sich der Schreibkunst rühmt, drum könnte es wahr sein. Die meisten Könige schwiegen über die Frage ob sie lesen und schreiben konnten. Sie wie wohl auch viele hohe Beamte hatten Schreiber, die das für sie tun konnten. 
 
-Die Literarität der einfachten Bevölkerung ist schwer einzuschätzen. Die Korrespondenz der altassyrischen Kaufleute enthält besonders wenig Schriftzeichen. Es kann sein, dass Händler den für sie nötigen Schriftverkehr selbst lesen und evtl auch schreiben konnten. Wer aber nicht der städtischen Oberschicht angehörte wird nicht schriftkundig gewesen sein. Es gab bei Bedarf    die Dienste professioneller Schreiber.
+Die Literarität der einfachten Bevölkerung ist schwer einzuschätzen. Die Korrespondenz der altassyrischen Kaufleute enthält besonders wenig Schriftzeichen. Es kann sein, dass Händler den für sie nötigen Schriftverkehr selbst lesen und evtl auch schreiben konnten. Wer aber nicht der städtischen Oberschicht angehörte wird nicht schriftkundig gewesen sein. Es gab bei Bedarf    die Dienste professioneller Schreiber.Oldenburg
 ## Wie klang Babylonisch
 [Wie klang Babylonisch?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/wie-klang-babylonisch-9777304/)
 
@@ -195,9 +195,8 @@ Welchen deiner Buhlen behältst du für allezeit lieb?
 - [Ein König und sein missratener Sohn - Aus dem Königreich von Mari](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/ein-koenig-und-sein-missratener-sohn_9686124/)
 - [Ägypten liegt nicht in der Nähe! — internationale Diplomatie vor 3300 Jahren](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/aegypten-liegt-nicht-in-der-naehe-internationale-diplomatie-vor-3300-jahren_9894299/)
 ## Unsachgemäße Anmerkungen
- [[Uni Leipzig Von Assur nach Babylon#^Zeichen|Etwas]] steht für Etwas anderes. Vorher noch materiell - die Tonmarken, nun nur Zeichen. Später konnte man da drauf kommen, dass es allgemein in der Sprache so ist. Die Sprache gab es schon lange, als sie zum Zählen von Gütern für diesen reduzierten Bereich verschriftlicht wurde.
+[[Werkstatt/Mitschriften/@Von_Assur_nach_Babylon_UniLeipzig#^Trenner|@Von_Assur_nach_Babylon_UniLeibzig]] Eine Worttrennung ist Etwas - man nimmt kein Leerzeichen, keinen Abstand.
 
-[[Uni Leipzig Von Assur nach Babylon#^Trenner|Trenner]] Eine Worttrennung ist Etwas - man nimmt kein Leerzeichen, keinen Abstand.
-
+[[Werkstatt/Mitschriften/@Von_Assur_nach_Babylon_UniLeipzig#^Zeichen|@Von_Assur_nach_Babylon_UniLeibzig]] steht für Etwas anderes. Vorher noch materiell - die Tonmarken, nun nur Zeichen. Später konnte man da drauf kommen, dass es allgemein in der Sprache so ist. Die Sprache gab es schon lange, als sie zum Zählen von Gütern für diesen reduzierten Bereich verschriftlicht wurde.
 
 ## -footnotes

@@ -11,7 +11,7 @@ author: Ueberphilosophy
 ## [Von Assur nach Babylon - Uni Leipzig, Altorientalisches Institut](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/) 
 #wird_fortgesetzt
 
-[[Werkstatt/Mitschriften/@Von_Assur_nach_Babylon_UniLeibzig|Mitschrift]]
+[[Werkstatt/Mitschriften/@Von_Assur_nach_Babylon_UniLeipzig|Mitschrift]]
 
 - [Was ist Altorientalistik?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/was-ist-altorientalistik-9484359/)
 - [Die Wiederentdeckung des Alten Orients und die Entschlüsselung der Keilschrift](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-wiederentdeckung-des-alten-orients_9484360/)

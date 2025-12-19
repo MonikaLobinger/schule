@@ -8,9 +8,10 @@ author: Ueberphilosophy
 ---
 # Philosophie
 
-## Unsortiert Podcasts
+## Philosophie Podcasts unsortiert 
 ### Geister - Der Philosophie Podcast
 [Geister - der Philosophie Podcast](https://geister.podigee.io/) auf podigee.io ^[Nur solange dort gehostet, solange ein abo besteht und bezahlt wird] #wird_fortgesetzt 
+
 - [001 Was ist Philosophie](https://geister.podigee.io/2-was-ist-philosophie) [youtube](https://www.youtube.com/watch?v=FFbmDVkZs0Y) #speaker/Pier-Jens ^geister001
 - [002 Wie liest man Philosophie](https://geister.podigee.io/3-philosophie-lesen) [youtube](https://www.youtube.com/watch?v=YOd-_OazW0I) #speaker/Zorn-Daniel-Pascal ^geister002
 - [003 Was sind Argumente](https://geister.podigee.io/4-argumente) [youtube](https://www.youtube.com/watch?v=vhKiPpBuNYo) #speaker/Loewenstein-David #Argumente  ^geister003

@@ -6,7 +6,7 @@ tags:
 author: Ueberphilosophy
 ---
 # Mitschrift
-zu [[Grundkurs_alte_Geschichte_Uni_Oldenburg]]
+zu [[Grundkurs_alte_Geschichte_UniOldenburg]]
 ## Einführung
  [Eine Einführung](https://www.youtube.com/watch?v=WYlxpNClxPI&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP)
 

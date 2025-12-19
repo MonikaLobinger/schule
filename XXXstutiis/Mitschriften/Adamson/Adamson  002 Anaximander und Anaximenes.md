@@ -11,7 +11,7 @@ Mitschrift zu Adamson [2 - Infinity and Beyond: Anaximander and Anaximenes](http
 
 [[timeline#^Anaximander|Anaximander]] und [[timeline#^Anaximenes|Anaximenes]]
 
-Über diese beiden wissen wir ein bißchen mehr als über [[XXXstutiis/Mitschriften/Adamson/Adamson  001 Thales|Thales]].
+Über diese beiden wissen wir ein bißchen mehr als über [[Adamson  001 Thales|Thales]].
 
 ### Anaximander
 Anaximander meint, das Prinzip von allem wäre das Unbegrenzte, [[apeiron]]. 

@@ -8,3 +8,4 @@ nmap <F9> :nohl<CR>
 set clipboard=unnamed
 inoremap jk <Esc>
 inoremap <C-j> <Esc>
+inoremap <C-g> <Esc>

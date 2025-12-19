@@ -6,7 +6,7 @@ tags:
 author:
 ---
 # Mitschrift
-zu [[Von_Assur_nach_Babylon_UniLeibzig]]
+zu [[Von_Assur_nach_Babylon_UniLeipzig]]
 ## Offen
 - [Was ist Altorientalistik?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/was-ist-altorientalistik-9484359/)
 - [Die Wiederentdeckung des Alten Orients und die Entschlüsselung der Keilschrift](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/die-wiederentdeckung-des-alten-orients_9484360/)

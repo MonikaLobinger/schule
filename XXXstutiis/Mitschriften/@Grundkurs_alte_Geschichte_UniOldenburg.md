@@ -1,18 +1,13 @@
 ---
-cssclasses: material
-date_created: 2025-11-30
-publish: true
+cssclasses: studies
+date_created:
+publish: false
 tags:
-ddckey: 930
-media:
-  - video
-author: Ueberphilosophy
+author:
 ---
-## [Grundkurs alte Geschichte - Uni Oldenburg, Alte Geschichte](https://www.youtube.com/playlist?list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP)
-#speaker/Sommer-Michael
-
-[[Werkstatt/Mitschriften/@Grundkurs_alte_Geschichte_Uni_Oldenburg|Mitschrift]] 
-
+# Mitschrift
+zu [[Grundkurs_alte_Geschichte_UniOldenburg]]
+## Offen
 - [Eine Einführung](https://www.youtube.com/watch?v=WYlxpNClxPI&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP)
 - [Der alte Orient: Vom Neolithikum bis zur Eisenzeit](https://www.youtube.com/watch?v=mI8QwUjx6Y4&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=3) #Neolithikum
 - [Das frühe Griechenland](https://www.youtube.com/watch?v=L5owl4AfN7U&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=5)
@@ -27,5 +22,4 @@ author: Ueberphilosophy
 - [Die Soldatenkaiser](https://www.youtube.com/watch?v=UM1UCaqN1BI&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=24) #Soldatenkaiser
 - [Rom und das Christentum](https://www.youtube.com/watch?v=3Szl_E8qcaI&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=25)
 - [Die Spätantike](https://www.youtube.com/watch?v=ZHyL9uSOuc8&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=27) #Spätantike
-
 ## -footnotes

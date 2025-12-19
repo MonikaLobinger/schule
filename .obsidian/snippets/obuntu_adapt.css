@@ -1,50 +1,75 @@
+#cssfile_obuntu_adapt{ color: blue; }
+/* Webpage html export hängt die snippets willkürlich aneinander
+ * - obsidian-source-view.css hat eh keinen Einfluss auf die Lese Ansicht
+ * - timeline passe ich hier an, mit !important, falls nötig
+ * weitere snippet Dateien darf es nicht geben
+*/
 .theme-dark {
-  --link-decoration: none;
-  --link-decoration-hover: none;
-}
-.theme-light {
+  --blue-bg:  #141b52;
+  --green-bg: #1a4217;
+  --red-bg:   #4c050f;
+  --yellow-bg:#44420e;
+  --grey-bg:  rgba(0, 0, 0, .7);
+
+  --color-bg:#333;
+  --color-bg-alt:#555;
+  --color-bg-sec:#333;
+  --color-bg-sec-alt:#555;
   --color-fg:#50af83;
   --color-hv:#50df83;
   --color-fg-light-a: rgba(80,175,131,0.9);
   --color-fg-light-b: rgba(80,175,131,0.8);
   --color-strong:#30694e;
   --color-mild:#bac22f;
-  --background-primary: #fff;
-  --background-primary-alt: #dedede;
-  --background-secondary: #dedede;
-  --background-secondary: #eeeeee !important;
-  --background-secondary-alt: #dedede;
-  --background-secondary-alt: #eeeeee !important;
-  --background-modifier-border: #f7f7f7;
-  --background-modifier-box-shadow: rgba(0, 0, 0, 0.85);
-  --text-accent: #df4a16;
-  --text-accent: var(--color-fg) !important;
-  --text-accent-hover: #df7a16;
-  --text-accent-hover: var(--color-hv) !important;
+
+  --text-normal: #dcddde;
+  --text-muted: #999;
+  --text-faint: #666;
+  --text-error: #ff3333;
+  --text-error-hover: #990000;
+  --text-matched: #dcddde;
+  --text-on-accent: #dcddde;
+}
+
+.theme-light {
+  --blue-bg:  rgba(214, 233, 255, .3);
+  --green-bg: rgba(0,   255, 0,   .03);
+  --red-bg:   rgba(255, 0,   0,   .04);
+  --yellow-bg:rgba(255, 255, 0,   .05);
+  --grey-bg:  rgba(0, 0, 0, .03);
+
+  --color-bg:#ffffff;
+  --color-bg-alt:#dedede;
+  --color-bg-sec:#eeeeee;
+  --color-bg-sec-alt:#eeeeee;
+  --color-fg:#50af83;
+  --color-hv:#50df83;
+  --color-fg-light-a: rgba(80,175,131,0.9);
+  --color-fg-light-b: rgba(80,175,131,0.8);
+  --color-strong:#30694e;
+  --color-mild:#bac22f;
+
   --text-normal: #03050b;
   --text-muted: #555;
   --text-error: #ff3333;
   --text-error-hover: #990000;
   --text-matched: #dcddde;
   --text-on-accent: #dcddde;
-  --text-selection: rgba(223, 74, 22, 0.8);
+}
+.theme-light, .theme-dark {
+  --background-primary: var(--color-bg) !important;
+  --background-primary-alt: var(color-bg-alt) !important;
+  --background-secondary: var(--color-bg-sec) !important;
+  --background-secondary-alt: var(--color-bg-sec-alt) !important;
+  --text-accent: var(--color-fg) !important;
+  --text-accent-hover: var(--color-hv) !important;
   --text-selection: var(--color-fg-light-b) !important;
-  --text-highlight-bg: #df4a16;
   --text-highlight-bg: var(--color-fg) !important;
-  --interactive-accent: #df4a16;
   --interactive-accent: var(--color-fg) !important;
-  --interactive-accent-rgb: #df7a16;
   --interactive-accent-rgb: var(--color-hv) !important;
-  --interactive-accent-hover: #df7a16;
   --interactive-accent-hover: var(--color-hv) !important;
-  --workspace-leaf-resize: #c1c1c1;
-  --accent-strong: #ec0d0d;
   --accent-strong: var(--color-strong) !important;
-  --accent-mild: #e6b64f;
   --accent-mild: var(--color-mild) !important;
-  --bw: #03050b;
-  --lines-identation: #dad8d8;
-  --tooltip-bg: rgba(223, 74, 22, 0.9);
   --tooltip-bg: var(--color-fg-light-a);
   --link-color: var(--color-fg);
   --link-color-hover: var(--color-hv);
@@ -53,16 +78,13 @@
   --link-decoration: none;
   --link-decoration-hover: none;
 }
-/* Damit das Plugin "Webpage HTML Export" den Dateinamen nicht als H1 anzeigt */
-.page-title  {
-  display:none;
+
+.theme-light, .theme-dark {
+  .tag { background: var(--color-fg) !important; color: var(--color-bg) !important; }
+  /* Webpage Html Export */ .tag.is-unresolved { background: var(--color-fg) !important; color: var(--color-bg) !important; }
+  /* Webpage Html Export */ .page-title  { display:none; } /* Dateiname nicht zu H1 */
 }
-.theme-light code {
-  color: var(--color-fg) !important;
-}
-.theme-light .tag {
-  background: var(--color-fg);
-}
+code { color: var(--color-fg) !important; }
 p {
  margin-bottom: 0.4rem !important;
  margin-top: 0.0rem !important;
@@ -88,73 +110,84 @@ h6 {
 }
 
 
-[data-callout="timeline"] {
+
+/*******************************************************************************/
+/* Timeline Adaption
+/*******************************************************************************/
+/*Webpage Html Export */[data-callout="timeline"] {
+  background-color: var(--color-bg) !important;
   margin: 0 !important;
   padding: 0 !important;
 }
-
-.theme-light [data-callout="timeline"] {
-  background-color: white !important;
+body {
+  /* Webpage Html Export workaround dummy first line as first line is not read */
+          [data-callout-metadata="blue"] .callout-content   { background: var(--blue-bg); }
+  [data-callout-metadata="blue"] .callout-content   { background: var(--blue-bg); }
+  [data-callout-metadata="green"] .callout-content  { background: var(--green-bg); }
+  [data-callout-metadata="red"] .callout-content    { background: var(--red-bg); }
+  [data-callout-metadata="yellow"] .callout-content { background: var(--yellow-bg); }
+  [data-callout-metadata="grey"] .callout-content   { background: var(--grey-bg); }
 }
+.theme-dark .callout-content a { color: white !important; }
 
-.theme-light [data-callout-metadata=blue] .callout-content {
-  background-color: rgba(214, 233, 255, .3) !important
+
+
+/*******************************************************************************/
+/* CssClasses
+/*******************************************************************************/
+
+/* werkstatt *******************************************************************/
+.werkstatt {
+  background-image: linear-gradient(to right, #dddddd 0%, white 10%, white 90%, #dddddd 100%);
 }
-
-.theme-light [data-callout-metadata=green] .callout-content {
-  background-color: rgba(0, 255, 0, .03) !important
-}
-
-.theme-light [data-callout-metadata=red] .callout-content {
-  background-color: rgba(255, 0, 0, .04) !important
-}
-
-.theme-light [data-callout-metadata=yellow] .callout-content {
-  background-color: rgba(255, 255, 0, .05) !important
-}
-
-.theme-light [data-callout-metadata=grey] .callout-content {
-  background-color: rgba(0, 0, 0, .03) !important
-}
-
-.theme-dark [data-callout-metadata=blue] .callout-content {
-  background-color: #141b52 !important
-}
-
-.theme-dark [data-callout-metadata=green] .callout-content {
-  background-color: #1a4217 !important
-}
-
-.theme-dark [data-callout-metadata=red] .callout-content {
-  background-color: #4c050f !important
-}
-
-.theme-dark [data-callout-metadata=yellow] .callout-content {
-  background-color: #44420e !important
-}
-
-.theme-dark [data-callout-metadata=grey] .callout-content {
-  background-color: rgba(0, 0, 0, .7) !important
-}
-
-.theme-dark [data-callout-metadata=blue] .callout-content a {
-  color: white !important
-}
-
-.theme-dark [data-callout-metadata=green] .callout-content a {
-  color: white !important
-}
-
-.theme-dark [data-callout-metadata=red] .callout-content a {
-  color: white !important
-}
-
-.theme-dark [data-callout-metadata=yellow] .callout-content a {
-  color: white !important
-}
-
-.theme-dark [data-callout-metadata=grey] .callout-content a {
-  color: white !important
+.markdown-reading-view .werkstatt {
+  background-size: 100% 100%;
+  background-position: top 1rem right -2rem;
+  background-image: url('data:image/svg+xml,<svg height="30" width="60" xmlns="http://www.w3.org/2000/svg"><text x="10" y="10" fill="%23F6F6F6">privat</text></svg>');
 }
 
 
+/* studiis *********************************************************************/
+.studies {
+  background-image: linear-gradient(to right, #cccc90 0%, white 3%, white 97%, #cccc90 100%);
+}
+
+
+/* catalog *********************************************************************/
+.catalog table { table-layout: fixed !important; }
+.catalog th:first-child { width: 75% !important; }
+.catalog th:nth-child(2) { width: 10% !important; }
+.catalog th span.dataview.small-text { padding-left: 0.3rem; }
+.catalog td span { white-space: nowrap; text-overflow: ellipsis; }
+
+.catalog .markdown-embed-title { display: none; }
+.catalog .markdown-embed h2 { display: none; }
+.catalog .markdown-embed .block-language-dataviewjs { margin-left: 1rem; }
+
+
+/* biglist *********************************************************************/
+.bigbiglist h2 {
+  border-bottom: 0;
+  border-top: 1px solid black;
+  padding-top: 0;
+  font-size: 1.2rem !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0;
+}
+.bigbiglist h3, h4 {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  font-size: 1rem !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.bigbiglist h3 {
+  margin-left: 1rem !important;
+}
+.bigbiglist h4 {
+  font-weight: normal !important;
+  margin-left: 2rem !important;
+}
+.bigbiglist p {
+  padding-left: 4rem !important;
+}
