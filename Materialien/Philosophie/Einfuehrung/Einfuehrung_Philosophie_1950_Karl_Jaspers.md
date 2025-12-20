@@ -11,7 +11,7 @@ author: Ueberphilosophy
 ## [Einführung in die Philosophie 1950/51 - Karl Jaspers](https://www.youtube.com/playlist?list=PL5rv0LxqofNpHhDRRGTgYdHMrfQuhCNfg)
 #speaker/Jaspers-Karl
 
-[[@Einfuehrung_Philosophie_1950_Karl_Jaspers|Mitschrift]] 
+[[Werkstatt/Mitschriften/@Einfuehrung_Philosophie_1950_Karl_Jaspers|Mitschrift]] 
 
 - [Einführung in die Philosophie 1/7 (1950/51)](https://www.youtube.com/watch?v=4FYSXs9p6tQ)
 - [Einführung in die Philosophie 2/7 (1950/51)](https://www.youtube.com/watch?v=5PaRheRZyS0)

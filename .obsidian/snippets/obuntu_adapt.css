@@ -15,10 +15,11 @@
   --color-bg-alt:#555;
   --color-bg-sec:#333;
   --color-bg-sec-alt:#555;
-  --color-fg:#50af83;
+  --color-fg:#fff;
+  --color-ac:#50af83;
   --color-hv:#50df83;
-  --color-fg-light-a: rgba(80,175,131,0.9);
-  --color-fg-light-b: rgba(80,175,131,0.8);
+  --color-ac-light-a: rgba(80,175,131,0.9);
+  --color-ac-light-b: rgba(80,175,131,0.8);
   --color-strong:#30694e;
   --color-mild:#bac22f;
 
@@ -42,10 +43,11 @@
   --color-bg-alt:#dedede;
   --color-bg-sec:#eeeeee;
   --color-bg-sec-alt:#eeeeee;
-  --color-fg:#50af83;
+  --color-fg:#000;
+  --color-ac:#50af83;
   --color-hv:#50df83;
-  --color-fg-light-a: rgba(80,175,131,0.9);
-  --color-fg-light-b: rgba(80,175,131,0.8);
+  --color-ac-light-a: rgba(80,175,131,0.9);
+  --color-ac-light-b: rgba(80,175,131,0.8);
   --color-strong:#30694e;
   --color-mild:#bac22f;
 
@@ -61,30 +63,43 @@
   --background-primary-alt: var(color-bg-alt) !important;
   --background-secondary: var(--color-bg-sec) !important;
   --background-secondary-alt: var(--color-bg-sec-alt) !important;
-  --text-accent: var(--color-fg) !important;
+  --text-accent: var(--color-ac) !important;
   --text-accent-hover: var(--color-hv) !important;
-  --text-selection: var(--color-fg-light-b) !important;
-  --text-highlight-bg: var(--color-fg) !important;
-  --interactive-accent: var(--color-fg) !important;
+  --text-selection: var(--color-ac-light-b) !important;
+  --text-highlight-bg: var(--color-ac) !important;
+  --interactive-accent: var(--color-ac) !important;
   --interactive-accent-rgb: var(--color-hv) !important;
   --interactive-accent-hover: var(--color-hv) !important;
   --accent-strong: var(--color-strong) !important;
   --accent-mild: var(--color-mild) !important;
-  --tooltip-bg: var(--color-fg-light-a);
-  --link-color: var(--color-fg);
+  --tooltip-bg: var(--color-ac-light-a);
+  --link-color: var(--color-ac);
   --link-color-hover: var(--color-hv);
-  --link-external-color: var(--color-fg);
+  --link-external-color: var(--color-ac);
   --link-external-color-hover: var(--color-hv);
   --link-decoration: none;
   --link-decoration-hover: none;
 }
 
 .theme-light, .theme-dark {
-  .tag { background: var(--color-fg) !important; color: var(--color-bg) !important; }
-  /* Webpage Html Export */ .tag.is-unresolved { background: var(--color-fg) !important; color: var(--color-bg) !important; }
+  .tag { background: var(--color-ac) !important; color: var(--color-bg) !important; }
+  /* Webpage Html Export */ .tag.is-unresolved { background: var(--color-ac) !important; color: var(--color-bg) !important; }
   /* Webpage Html Export */ .page-title  { display:none; } /* Dateiname nicht zu H1 */
+  code { color: var(--color-ac) !important; }
 }
-code { color: var(--color-fg) !important; }
+th { /* Das ist in obsidian.css vorgegeben */
+  background: var(--background-secondary-alt);
+}
+thead tr>th:nth-child(2n+2) { /* obsidian.css macht jeden 2. Header anders, das aufheben */
+  background: var(--background-secondary-alt) !important;
+}
+thead, tbody, tr > * {
+  /* Sonst hat die Webversion umrandete Kästchen  */
+  border: unset !important;
+}
+thead {
+  border-bottom: 2px solid var(--color-fg) !important;
+}
 p {
  margin-bottom: 0.4rem !important;
  margin-top: 0.0rem !important;

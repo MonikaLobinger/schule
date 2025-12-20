@@ -11,7 +11,7 @@ author: Ueberphilosophy
 ## [Einführung in die Philosophie 2013/14 - LMU Muenchen, Ringvorlesung](https://cast.itunes.uni-muenchen.de/vod/playlists/9rQxNfHlar.html)
 #speaker/Buchheim-Thomas #speaker/Nida-Rümelin-Julian #speaker/Adamson-Peter #Speaker/Seitscheck-Otto
 
-[[@Einfuehrung_Philosophie_2013_LMUMuenchen_Ringvorlesung|Mitschrift]]
+[[Werkstatt/Mitschriften/@Einfuehrung_Philosophie_2013_LMUMuenchen_Ringvorlesung|Mitschrift]]
 
 - [Buchheim - Einführung in die Ontologie](https://cast.itunes.uni-muenchen.de/clips/KuLpe0uHsb/vod/high_quality.mp4)
 - [J. Nida-Rümelin - Rationalität. Einführung in die Handlungs- und Rationalitätstheorie](https://cast.itunes.uni-muenchen.de/clips/xRCzcd8Nej/vod/high_quality.mp4)

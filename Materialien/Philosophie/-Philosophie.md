@@ -2,8 +2,8 @@
 cssclasses: catalog
 date_created: 2025-12-03
 publish: true
-tags:
-ddckey: 
+tags: 
+ddckey:
 author: Ueberphilosophy
 ---
 ## Philosophie

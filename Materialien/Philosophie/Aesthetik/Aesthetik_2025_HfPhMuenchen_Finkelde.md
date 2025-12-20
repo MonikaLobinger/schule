@@ -11,7 +11,7 @@ author: Ueberphilosophy
 ## [Ästhetik, eine Einführung - HfPh München, Finkelde](https://www.youtube.com/playlist?list=PLEJ1VSP-rVPcRLVYcGJxM6mhH1s5trdmP) 
 #speaker/Finkelde-Dominik 
 
-[[@Aesthetik_2025_HfPhMuenchen_Finkelde|Mitschrift]] 
+[[Werkstatt/Mitschriften/@Aesthetik_2025_HfPhMuenchen_Finkelde|Mitschrift]] 
 
 - [01 Einführung](https://www.youtube.com/watch?v=Ar1p-ppNifA)
 - [02 Bataille, die Höhlen v. Lascaux u. der transzendentale Akt des homo pictor](https://www.youtube.com/watch?v=Ur35XtOAPkI) #Bataille-Georges

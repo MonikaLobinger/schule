@@ -4,6 +4,10 @@ if [ -f .ispriv ]; then
   mv .stutiis XXXstutiis
   sleep 1
   touch .isexport
+  .erstelleleeremitschriften
+else if [ -f .isexport ]; then
+  .erstelleleeremitschriften
+  echo "Bereits im Export Modus"
 else
   echo "Exportiert werden kann nur im  Private mode"
 fi

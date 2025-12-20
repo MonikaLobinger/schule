@@ -11,7 +11,7 @@ author: Ueberphilosophy
 ## Pfaller spricht
 #speaker/Pfaller-Robert 
 
-[[@Pfaller_spricht|Mitschrift]]
+[[Werkstatt/Mitschriften/@Pfaller_spricht|Mitschrift]]
 
 - [Robert Pfaller - Parallaxes of Sinister Enjoyment](https://www.youtube.com/watch?v=eRxf8bRpJ1w)  2019 #speaker/Pfaller-Robert
 

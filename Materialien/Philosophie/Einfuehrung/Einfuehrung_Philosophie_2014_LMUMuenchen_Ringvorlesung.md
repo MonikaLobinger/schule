@@ -11,7 +11,7 @@ author: Ueberphilosophy
 ## [Einführung in die Philosophie 2014/15 - LMU Muenchen, Ringvorlesung](https://cast.itunes.uni-muenchen.de/vod/playlists/P8Ggk7SCCp.html)
 #speaker/Hartmann-Stephan #speaker/Buchheim-Thomas #speaker/Leitgeb-Hannes #speaker/Nida-Rümelin-Julian #speaker/Adamson-Peter  #speaker/Seitscheck-Otto 
 
-[[@Einfuehrung_Philosophie_2014_LMUMuenchen_Ringvorlesung|Mitschrift]] 
+[[Werkstatt/Mitschriften/@Einfuehrung_Philosophie_2014_LMUMuenchen_Ringvorlesung|Mitschrift]] 
 
 - [für Hutter - Wahrheit. Einführung in die Erkenntnistheorie](https://cast.itunes.uni-muenchen.de/clips/JziMIAVdpz/vod/high_quality.mp4)
 - [Hartmann - Wissenschaft. Einführung in die Wissenschaftstheorie](https://cast.itunes.uni-muenchen.de/clips/cWH5yfv9T1/vod/high_quality.mp4)

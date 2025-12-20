@@ -4,10 +4,10 @@ date_created: 2025-11-24
 publish: true
 author: Ueberphilosophy
 ---
-# Startseite
-Sammlung von Links zu __[[-Materialien|Materialien]]__ zum Lernen und frei zugänglichen __[[timeline|Quelltexten]]__. 
+# Mit den Ohren lernen
+Sammlung von Links zu __[[-Materialien|Materialien]]__ zum Lernen (hörbar) und frei zugänglichen __[[timeline|Quelltexten]]__. 
 
-Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Die selbst erstellen Definitionen im Ordner `Definitionen`  sind grob. Der Ordner `Werkstatt` kann für jeweils eigene Notizen verwendet. 
+Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Der Ordner `Werkstatt` kann für jeweils eigene Notizen verwendet. Im Ordner `Zusaetze` sind für die Sammlung unwichtige Seiten. Die selbst erstellen Definitionen im Ordner `Zusaetze/Definitionen` sind grob, auf den Themenseiten im Ordner `Zusaetze/Themen` finden sich Lins zu bestimmten Themen.
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol wird beim Drüberfahren mit der Maus sichtbar. 
  - Beim  Klick mit der Maus öffnen alle Links, auch externe,  im selben Fenster. `Ctrl`^[`Shift`]-Klick öffnet in einem neuen Tab.

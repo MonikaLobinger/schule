@@ -2,8 +2,8 @@
 cssclasses: catalog
 date_created: 2025-12-01
 publish: true
-tags:
-ddckey: All
+tags:  
+ddckey: 
 author: Ueberphilosophy
 ---
 # Gesamtkatolog Lernmaterialien

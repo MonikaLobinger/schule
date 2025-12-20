@@ -110,4 +110,5 @@ author: Ueberphilosophy
 - [026 Philosophie und der ganze Rest](https://www.youtube.com/watch?v=pzuImmt1Fbk)  ^happyhour026
 - [027 Seele](https://www.youtube.com/watch?v=c6JVkE1rI30) #Seele ^happyhour027
 - [028 Freiheit Teil I](https://www.youtube.com/watch?v=t46JyVQf9PI) #Freiheit ^happyhour028
+###   [DenXte](https://denxte.de/podcast/)
 ## -footnotes

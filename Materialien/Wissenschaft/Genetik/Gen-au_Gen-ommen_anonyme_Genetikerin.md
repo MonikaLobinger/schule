@@ -11,7 +11,7 @@ author: Ueberphilosophy
 ## [Gen-au Gen-ommen - anonyme Genetikerin](https://www.youtube.com/@gen.au.gen.ommen./videos?view=0&sort=dd&shelf_id=2) 
 #speaker/aaactcgcgcgcgcg #wird_fortgesetzt
 
-[[@Gen-au_Gen-ommen_anonyme_Genetikerin|Mitschrift]]
+[[Werkstatt/Mitschriften/@Gen-au_Gen-ommen_anonyme_Genetikerin|Mitschrift]]
 
 - [Erblichkeit von Intelligenz - Missverständnisse und Halbwahrheiten](https://www.youtube.com/watch?v=HDYQbzr8uTw)
 - [Sind Testerongrenzwerte im Frauensport rassistisch](https://www.youtube.com/watch?v=PkdnubTU9NA)

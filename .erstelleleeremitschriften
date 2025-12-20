@@ -1,0 +1,10 @@
+#! /usr/bin/env bash
+if [ -z "$1" ]; then
+  for ff in `find Werkstatt/Mitschriften/ZuHoeren -name "@*"`; do
+    fn="$(basename $ff)"
+    # echo "$fn"
+    cp -nv Werkstatt/Mitschriften/ZuHoeren/leer.md Werkstatt/Mitschriften/$fn
+  done
+else
+  find Werkstatt/Mitschriften/ -name "@*.md" -size -8c -delete
+fi

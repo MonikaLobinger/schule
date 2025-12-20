@@ -11,7 +11,7 @@ author: Ueberphilosophy
 ## [Einführung in die theoretische Philosophie 2013/14 - Uni Hannover, Hoyningen](https://www.youtube.com/playlist?list=PLHwUrKo7SDpTLWpbXS36aJ4vYjjVXrOcA)
 #speaker/Hoyningen-Huene-Paul
 
-[[@Einfuehrung_theoretische_Philosophie_2013_UniHannover_Hoyningen|Mitschrift]] 
+[[Werkstatt/Mitschriften/@Einfuehrung_theoretische_Philosophie_2013_UniHannover_Hoyningen|Mitschrift]] 
 
 - [Einführung in die Theoretische Philosophie  1 I ](https://www.youtube.com/watch?v=BMeAMwAPIsk)  
 - [Einführung in die Theoretische Philosophie  1 II](https://www.youtube.com/watch?v=1my3hOT5pQU)

@@ -12,7 +12,7 @@ author: Ueberphilosophy
 Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissenschaftlys/Forschys "grey", Politikys/Königys/Feldherren "red", Philosophys "blue"
 ##  Geburt
 > [!timeline|green] ~-1800 
-> [[Gilgamesch Quellen|Gilgamesch]] ^Gilgamesch
+> [[Gilgamesch Quellen|Mesopotamische Mythen]] - ~-900 ^Gilgamesch
 
 > [!timeline|green] ~-850 
 > [[Homer Quellen|Homer]] ^Homer
@@ -74,6 +74,9 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 > [!timeline|green] ~-180
 > [[Apollodoros Quellen|Apollodoros]]  †~-120 ^Apollodoros
 
+> [!timeline|blue] ~205
+> [[Plotin Quellen|Plotin]] †270 ^Plotin
+
 > [!timeline|green] ~480
 > [[Simplicius Quellen|Simplicius]]  †560 ^Simplicius
 
@@ -82,6 +85,9 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 
 > [!timeline|blue] 1225
 >[[Thomas Quellen|Thomas]] †1274 ^Thomas
+
+> [!timeline|blue] ~1265
+>[[Scotus Quellen|Scotus]] †1308 ^Scotus
 
 > [!timeline|blue] 1463
 >[[Pico Quellen|Pico]] †1494 ^Pico
@@ -95,8 +101,20 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 > [!timeline|red] 1485
 > [[Cortes Quellen|Cortes]] †1547 ^Cortes-Hernan
 
+> [!timeline|green] ~1488
+> Tizian †1576 ^Tizian
+
 > [!timeline|yellow] 1491
 > [[Ignatius Quellen|Ignatius]] †1556 ^Ignatius-von-Loyola
+
+> [!timeline|blue] ~1493
+> [[Paracelsus Quellen|Paracelsus]] †1541 ^Paracelsus
+
+> [!timeline|blue] 1497
+> [[Melanchthon Quellen|Melanchthon]] †1560 ^Melanchthon
+
+> [!timeline|yellow] 1509
+> [[Calvin Quellen|Calvin]] †1564 ^Calvin
 
 > [!timeline|yellow] 1515
 > [[Theresa Quellen|Theresa]] †1582 ^Theresa-von-Avila
@@ -149,6 +167,9 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 > [!timeline|blue] 1762
 > [[Fichte Quellen|Fichte]] †1814 ^Fichte
 
+> [!timeline|green] 1768
+> [[Chateaubriand Quellen|Chateaubriand]] †1848 ^Chateaubriand-Francois-Rene
+
 > [!timeline|green] 1770
 > [[Hoelderlin Quellen|Hölderlin]] †1843 ^Hoelderlin
 
@@ -158,20 +179,23 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 > [!timeline|blue] 1775
 > [[Schelling Quellen|Schelling]] †1845 ^Schelling
 
+> [!timeline|green] ~1775
+> Turner †1851 ^Turner-William
+
+> [!timeline|blue] 1788
+> [[Schopenhauer Quellen|Schopenhauer]] †1860 ^Schopenhauer
+
 > [!timeline|grey] 1809
 > [[Darwin Quellen|Darwin]] †1882 ^Darwin
 
+> [!timeline|blue] 1813
+> [[Kierkegaard Quellen|Kierkegaard]] †1850 ^Kierkegaard
+
+> [!timeline|green] ~1840
+> Monet †1926 ^Monet-Claude
+
 > [!timeline|blue] 1844
 > [[Nietzsche Quellen|Nietzsche]] †1900 ^Nietzsche
-
-> [!timeline|grey] 1856
-> [[Freud Quellen|Freud]] †1939 ^Freud
-
-> [!timeline|blue] 1861
-> [[Whitehead Quellen|Whitehead]] †1947 ^Whitehead
-
-> [!timeline|green] 1866
-> [[Wells Quellen|Wells]] †1946 ^Wells
 
 > [!timeline|green] 1848
 > [[Diels Quellen|Diels]] †1948 ^Diels
@@ -179,9 +203,18 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
 > [!timeline|blue] 1848
 > [[Frege Quellen|Frege]] †1925 ^Frege
   
+> [!timeline|grey] 1856
+> [[Freud Quellen|Freud]] †1939 ^Freud
+
 > [!timeline|blue] 1859
 > [[Husserl Quellen|Husserl]] †1938 ^Husserl
   
+> [!timeline|blue] 1861
+> [[Whitehead Quellen|Whitehead]] †1947 ^Whitehead
+
+> [!timeline|green] 1866
+> [[Wells Quellen|Wells]] †1946 ^Wells
+
 > [!timeline|green] 1883
 > [[Kafka Quellen|Kafka]] †1924 ^Kafka
   
@@ -208,6 +241,9 @@ Literatys/Künstlys/Musikys "green", Religiösys/Spirituellys "yellow", Wissensc
   
 > [!timeline|grey] 1924
 > [[Laplanche Quellen|Laplanche]] †2012 ^Laplanche
+
+> [!timeline|blue] 1925
+> [[Deleuze Quellen|Deleuze]] †1995 ^Deleuze
 
 > [!timeline|blue] 1927
 > [[Schobinger Quellen|Schobinger]] †2001 ^Schobinger

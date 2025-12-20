@@ -12,6 +12,7 @@ elif [ -f .isexport ]; then
   mv XXXstutiis .stutiis
   sleep 1
   touch .ispriv
+  .erstelleleeremitschriften "restore"
 else
-  echo "Schon nicht public"
+  echo "Schon privat"
 fi

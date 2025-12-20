@@ -12,7 +12,7 @@ author: Ueberphilosophy
 ## [Erkenntnistheorie 2020 - HfPhMuenchen, Finkelde](https://www.youtube.com/playlist?list=PLEJ1VSP-rVPdn8vYrjivA3gNH-p3G6Xhl)
 #speaker/Finkelde-Dominik
 
-[[@Erkenntnistheorie_2020_HfPhMuenchen_Finkelde|Mitschrift]] 
+[[Werkstatt/Mitschriften/@Erkenntnistheorie_2020_HfPhMuenchen_Finkelde|Mitschrift]] 
 
 - [Erkenntnistheorie 2020 01  ](https://www.youtube.com/watch?v=N_2WcJcTHbI) - Einführung, There is a crack in everything. That's where the light gets in
 - [Erkenntnistheorie 2020 02a ](https://www.youtube.com/watch?v=X52QpzdmXbM&pp=0gcJCQwKAYcqIYzv) - John Locke (Außenweltproblem)

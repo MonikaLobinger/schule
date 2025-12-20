@@ -11,7 +11,7 @@ author: Ueberphilosophy
 ## [Einführung in die Philosophie 2015/16 - LMU Muenchen, Ringvorlesung](https://cast.itunes.uni-muenchen.de/vod/playlists/WrN5x8pY7S.html)
 #speaker/Leitgeb-Hannes #speaker/Buchheim-Thomas #speaker/Hartmann-Stephan #speaker/Mayer-Verena #speaker/Nida-Rümelin-Julian #speaker/Meier-Heinrich #speaker/Betzler-Monika #speaker/Adamson-Peter 
 
-[[@Einfuehrung_Philosophie_2015_LMUMuenchen_Ringvorlesung|Mitschrift]]
+[[Werkstatt/Mitschriften/@Einfuehrung_Philosophie_2015_LMUMuenchen_Ringvorlesung|Mitschrift]]
 
 - [Leitgeb - Logische Folge. Einführung in die Logik](https://cast.itunes.uni-muenchen.de/clips/2baOyApQ8G/vod/high_quality.mp4)
 - [Buchheim - Sein. Einführung in die Ontologie](https://cast.itunes.uni-muenchen.de/clips/3anr6mtSdG/vod/high_quality.mp4)

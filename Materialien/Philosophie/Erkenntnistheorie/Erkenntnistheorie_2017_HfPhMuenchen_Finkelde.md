@@ -12,7 +12,7 @@ author: Ueberphilosophy
 ## [Erkenntnistheorie 2017 - HfPhMuenchen, Finkelde](https://www.youtube.com/playlist?list=PLEJ1VSP-rVPdCylgGvlBEA6kJU6v7yDGO)
 #speaker/Finkelde-Dominik
 
-[[@Erkenntnistheorie_2017_HfPhMuenchen_Finkelde|Mitschrift]]
+[[Werkstatt/Mitschriften/@Erkenntnistheorie_2017_HfPhMuenchen_Finkelde|Mitschrift]]
 
 - [Erkenntnistheorie 2017 01](https://www.youtube.com/watch?v=7YII6iUumQ8) - Einleitung (The Matrix, Berkeley, Idealism)
 - [Erkenntnistheorie 2017 02](https://www.youtube.com/watch?v=YtOjg_rUbSI) - Was ist Wissen? (Gettier, Nozick, Armstrong)

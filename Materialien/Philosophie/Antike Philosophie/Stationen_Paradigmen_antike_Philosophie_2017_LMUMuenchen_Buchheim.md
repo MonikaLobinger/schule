@@ -11,7 +11,7 @@ author: Ueberphilosophy
 ## [Stationen und Paradigmen der antiken Philosophie 2017 - LMU München, Buchheim](https://cast.itunes.uni-muenchen.de/vod/playlists/qp7kfLlhVP.html)
 #speaker/Buchheim-Thomas 
 
- [[Werkstatt/Mitschriften/@Stationen_Paradigmen_antike_Philosophie_2017_LMUMuenchen_Buchheim|Mitschrift]] 
+[[Werkstatt/Mitschriften/@Stationen_Paradigmen_antike_Philosophie_2017_LMUMuenchen_Buchheim|Mitschrift]] 
  
 - [Die zwei Stämme der vorsokratischen Philosophie](https://cast.itunes.uni-muenchen.de/clips/YnkvbZ4QEg/vod/online.html)
 - [Heraklit](https://cast.itunes.uni-muenchen.de/clips/Mv8bbhQ06N/vod/online.html)

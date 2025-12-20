@@ -9,10 +9,16 @@ author: Ueberphilosophy
 
 # Friedrich Nietzsche
 [[timeline#^Nietzsche]]
-## Also sprach Zarathustra
+## Die Philosophie im tragischen Zeitalter der Griechen2025-12-20 1873 unvollendet
+- [Nietzschesource](http://www.nietzschesource.org/#eKGWB/PHG) - deutsch, online zu lesen
+
+## Also sprach Zarathustra 1883-1885
 - [pileface](https://www.pileface.com/sollers/pdf/Zarathustra.pdf) - pdf, deutsch
 - [Internetarchive](https://archive.org/details/NietzscheAlsoSprachZarathustra1893/mode/2up) - Digitalisat, deutsch
 - 
+## Jenseits von Gut und Böse 1886
+- [Internet Archive](https://ia800105.us.archive.org/32/items/bub_gb_YIURAAAAYAAJ/bub_gb_YIURAAAAYAAJ.pdf) - deutsch, Digitalisat
+- [Nietzsche Source](http://www.nietzschesource.org/#eKGWB/JGB) - deutsch, online zu lesen
 
 
 ## -footnotes

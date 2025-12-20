@@ -9,7 +9,8 @@ author: Ueberphilosophy
  - [ ] [[Werkstatt/Mitschriften/-@History_of_Philosophy_without_any_gaps_Adamson|-@History_of_Philosophy_without_any_gaps_Adamson]] Presocratic Philosophy 2.
  - [ ] [[Werkstatt/Mitschriften/@Stationen_Paradigmen_antike_Philosophie_2017_LMUMuenchen_Buchheim|@Stationen_Paradigmen_antike_Philosophie_2017_LMUMuenchen_Buchheim]] 1
  - [ ] [[Homer Quellen#Illias|Illias]] Librivox 2
- - [ ] [[Werkstatt/Mitschriften/@Die_Ilias_und_die_Odyssee_Arte|@Die_Ilias_und_die_Odyssee_Arte]] 4
+ - [ ] [[@Enuma Elisch|Enuma Elisch] 0:05
+ - [ ] [[Werkstatt/Mitschriften/ZuHoeren/@Die_Ilias_und_die_Odyssee_Arte|@Die_Ilias_und_die_Odyssee_Arte]] 4
  - [ ] vom [[Werkstatt/Mitschriften/@Grundkurs_alte_Geschichte_UniOldenburg|@Grundkurs_alte_Geschichte_UniOldenburg]] Anfang und die Griechen - 2
  - [ ] [[-Anfaenge Graeber Wengrow]] - 1
 
