@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-11-29
 publish: true
-tags:
+tags: []
 ddckey: 182
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Geschichte der Philosophie I: Antike 2023 - LMU München, Adamson](https://cast.itunes.uni-muenchen.de/vod/playlists/eqCFNhRWgA.html)
 #speaker/Adamson-Peter
 
@@ -26,4 +28,4 @@ author: Ueberphilosophy
 - [11 Gender](https://cast.itunes.uni-muenchen.de/clips/NEpu822sJ2/vod/online.html)
 - [12 Monismus und Atomismus](https://cast.itunes.uni-muenchen.de/clips/11cXetw7VT/vod/online.html)
 
-## -footnotes
+## -footnotes 

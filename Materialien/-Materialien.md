@@ -2,10 +2,13 @@
 cssclasses: catalog
 date_created: 2025-12-01
 publish: true
-tags:  
+tags: []
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 # Gesamtkatolog Lernmaterialien
 Die [Systematik](https://biblio.media.h-da.de/IuD/bibdk1.htm) folgt der DDC, sie verwendet die [[DDCKlassen]] der  [Deutschen Nationalbibliothek](https://www.dnb.de/DE/Professionell/DDC-Deutsch/DDCUebersichten/ddcUebersichten.html)
 
@@ -13,7 +16,7 @@ Die [Systematik](https://biblio.media.h-da.de/IuD/bibdk1.htm) folgt der DDC, sie
 ```dataviewjs
 await dv.executeJs(await dv.io.load("Materialien/catalog.js"));
 ```
-
+## Einträge nach Unterverzeichnis
 ```dataviewjs
 /* Embedded alle Kataloge der nächsten Tiefe
 */

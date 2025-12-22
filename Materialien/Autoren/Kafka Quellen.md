@@ -2,10 +2,14 @@
 cssclasses: material
 date_created: 2025-12-10
 publish: true
-tags: Kafka-Franz
+tags: [Kafka-Franz,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+
 # Franz Kafka
-[[timeline#^Kafka]]
-## -footnotes
+[[timeline#Kafka]]
+## -footnotes 

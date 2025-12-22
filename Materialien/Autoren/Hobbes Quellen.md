@@ -2,13 +2,16 @@
 cssclasses: material
 date_created: 2025-12-05
 publish: true
-tags: Hobbes-Thomas
+tags: [Hobbes-Thomas,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Thomas Hobbes
-[[timeline#^Hobbes]]
+[[timeline#Hobbes]]
 ## Leviathan
 - [Gutenberg](https://www.gutenberg.org/files/3207/3207-h/3207-h.htm) - Englisch, Online zu lesen
 - [Standard Ebooks](https://standardebooks.org/ebooks/thomas-hobbes/leviathan)  - Englisch, E-Book und Online zu lesen
@@ -25,4 +28,4 @@ author: Ueberphilosophy
 - [Internet Archive](https://archive.org/details/englishworksofth029501mbp/page/n1/mode/2up) - Englisch, Digitalisat, durchnässt
  
 
-## -footnotes
+## -footnotes 

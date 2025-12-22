@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-11-27
 publish: true
-tags: Philosophie/Geschichte
+tags: [Philosophie/Geschichte,]
 ddckey: 109
-media:
-  - audio
+media:  [audio,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [History of Philosophy without any gaps - Adamson](https://historyofphilosophy.net/all-episodes)
  #speaker/Adamson-Peter
  
@@ -15,4 +17,4 @@ author: Ueberphilosophy
 
 [History of Philosophy without any gaps](https://historyofphilosophy.net/all-episodes) - Vom Autor selbst aufgelistet, alle Englisch
 
-## -footnotes
+## -footnotes 

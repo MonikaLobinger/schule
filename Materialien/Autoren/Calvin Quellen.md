@@ -2,11 +2,15 @@
 cssclasses: autor
 date_created: 2025-12-20
 publish: true
-tags: Calvin-Johannes
+tags: [Calvin-Johannes,]
 ddckey:
 author: Ueberphilosophy
 ---
-# Johannes Calvin
-[[timeline#^Calvin]]
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
-## -footnotes
+# Johannes Calvin
+[[timeline#Calvin]]
+
+## -footnotes 

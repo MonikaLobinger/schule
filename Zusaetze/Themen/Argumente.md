@@ -2,7 +2,7 @@
 cssclasses: note
 date_created: 2025-12-20
 publish: true
-tags:
+tags: []
 author: Ueberphilosophy
 ---
 # Argumente

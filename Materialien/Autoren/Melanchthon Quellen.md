@@ -2,11 +2,15 @@
 cssclasses: autor
 date_created: 2025-12-20
 publish: true
-tags: Melanchthon-Philipp
+tags: [Melanchthon-Philipp,]
 ddckey:
 author: Ueberphilosophy
 ---
-# Philipp Melanchthon
-[[timeline#^Melanchthon]]
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
-## -footnotes
+# Philipp Melanchthon
+[[timeline#Melanchthon]]
+
+## -footnotes 

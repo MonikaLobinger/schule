@@ -2,11 +2,15 @@
 cssclasses: material
 date_created: 2025-12-11
 publish: true
-tags: Darwin-Charles
+tags: [Darwin-Charles,]
 ddckey: 
 author: Ueberphilosophy
 ---
-# Charles Darwin
-[[timeline#^Darwin]]
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
-## -footnotes
+# Charles Darwin
+[[timeline#Darwin]]
+
+## -footnotes 

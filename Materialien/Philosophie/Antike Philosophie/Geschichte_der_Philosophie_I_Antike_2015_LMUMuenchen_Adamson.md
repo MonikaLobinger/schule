@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-11-29
 publish: true
-tags:
+tags: []
 ddckey: 182
-media:
-  - audio
+media:  [audio,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Geschichte der Philosophie I: Antike 2015 - LMU München, Adamson](https://cast.itunes.uni-muenchen.de/vod/playlists/JkoCbeCCt1.html) 
 #speaker/Adamson-Peter
 
@@ -25,4 +27,4 @@ author: Ueberphilosophy
 - [Aristoteles: Nikomachische Ethik](https://cast.itunes.uni-muenchen.de/clips/I3RLfiJkPx/vod/high_quality.mp4)
 - [Aristoteles:  Freundschaft - Lust - Schau](https://cast.itunes.uni-muenchen.de/clips/8ZdTmXAdPg/vod/high_quality.mp4)
 
-## -footnotes
+## -footnotes 

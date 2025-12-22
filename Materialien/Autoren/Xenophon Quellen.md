@@ -2,15 +2,16 @@
 cssclasses: material
 date_created: 2025-11-29
 publish: true
-tags: Xenophon
+tags: [Xenophon,]
 ddckey: 
 author: Ueberphilosophy
 ---
-
-
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Xenophon
-[[timeline#^Xenophon]]
+[[timeline#Xenophon]]
 
 ## Memorabilien
 - [Internet Archive](https://archive.org/details/xenophon-memorabilia-bonnette-txt/page/n1/mode/2up) - Englisch, Digitalisat
@@ -23,4 +24,4 @@ author: Ueberphilosophy
 - 
 
 
-## -footnotes
+## -footnotes 

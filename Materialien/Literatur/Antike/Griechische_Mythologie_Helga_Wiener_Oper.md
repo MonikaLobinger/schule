@@ -2,13 +2,14 @@
 cssclasses: material
 date_created: 2025-12-04
 publish: true
-tags:
+tags: []
 ddckey: 883
-media:
-  - audio
+media:  [audio,]
 author: Ueberphilosophy
 ---
-
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Griechische Mythologie - Helgas nützlicher Podcast - Wiener Oper](Helgas nützlicher Podcast)
 
 [[Werkstatt/Mitschriften/@Griechische_Mythologie_Helga_Wiener_Oper|Mitschrift]] #speaker/Utz-Helga
@@ -63,4 +64,4 @@ author: Ueberphilosophy
 - 
 
 
-## -footnotes
+## -footnotes 

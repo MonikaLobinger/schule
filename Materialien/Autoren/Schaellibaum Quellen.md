@@ -2,14 +2,17 @@
 cssclasses: material
 date_created: 2025-12-04
 publish: true
-tags: Schaellibaum-Urs
+tags: [Schaellibaum-Urs,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Urs Schällibaum
-[[timeline#^Schaellibaum]]
+[[timeline#Schaellibaum]]
 ## Reflexivität und Verschiebung
 
 
-## -footnotes
+## -footnotes 

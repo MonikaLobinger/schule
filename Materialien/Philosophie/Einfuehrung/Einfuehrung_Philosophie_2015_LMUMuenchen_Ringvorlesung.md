@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-11-28
 publish: true
-tags: Philosophie/Einführung
+tags: [Philosophie/Einführung,]
 ddckey: 100
-media:
-  - audio
+media:  [audio,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Einführung in die Philosophie 2015/16 - LMU Muenchen, Ringvorlesung](https://cast.itunes.uni-muenchen.de/vod/playlists/WrN5x8pY7S.html)
 #speaker/Leitgeb-Hannes #speaker/Buchheim-Thomas #speaker/Hartmann-Stephan #speaker/Mayer-Verena #speaker/Nida-Rümelin-Julian #speaker/Meier-Heinrich #speaker/Betzler-Monika #speaker/Adamson-Peter 
 
@@ -22,4 +24,4 @@ author: Ueberphilosophy
 - [Betzler - Das Rechte und das Gute. Einführung in die normative Ethik](https://cast.itunes.uni-muenchen.de/clips/N3K6JngYKM/vod/high_quality.mp4)
 - [Adamson - Notwendigkeit. Einführung in die mittelalterliche Philosophie](https://cast.itunes.uni-muenchen.de/clips/uEo0NUDlga/vod/high_quality.mp4)
 
-## -footnotes
+## -footnotes 

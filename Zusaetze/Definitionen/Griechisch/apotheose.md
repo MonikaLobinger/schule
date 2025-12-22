@@ -2,7 +2,7 @@
 cssclasses: note
 date_created: 2025-12-04
 publish: true
-tags: apotheose
+tags: [apotheose]
 author: Ueberphilosophy
 ---
 apothéōsis - ἀποθέωσις

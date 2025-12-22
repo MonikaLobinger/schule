@@ -2,7 +2,7 @@
 cssclasses: studies
 date_created: 2025-12-15
 publish: true
-tags:
+tags: []
 author: 
 ---
 # Mitschrift

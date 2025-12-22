@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-12-04
 publish: true
-tags:
+tags: []
 ddckey: 190
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Martin Heidegger "Sein und Zeit" 2021 - HfPhMuenchen, Finkelde](https://www.youtube.com/playlist?list=PLEJ1VSP-rVPe7rlwnvSRzGHWa2q6GDdab)
 #speaker/Finkelde-Dominik #Heidegger
 
@@ -24,4 +26,4 @@ author: Ueberphilosophy
 - [10 Heidegger und Derrida](https://www.youtube.com/watch?v=bJAByp4Sp6M)
 - [11  Heidegger im Kontext](https://www.youtube.com/watch?v=3VwiC-Bm9eI)
 
-## -footnotes
+## -footnotes 

@@ -2,12 +2,15 @@
 cssclasses: material
 date_created: 2025-12-09
 publish: true
-tags:a Quine-Willard
+tags: [Quine-Willard,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Willard von Orman Quine
-[[timeline#^Quine]]
+[[timeline#Quine]]
 
-## -footnotes
+## -footnotes 

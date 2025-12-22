@@ -2,13 +2,14 @@
 cssclasses: material
 date_created: 2025-12-01
 publish: true
-tags:
+tags: []
 ddckey: 938
-media:
-  - video
-  - text
+media:  [video,text]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Griechische Geschichte I: Die Archaische Zeit - Uni Hamburg, Emanual](https://emanualaltegeschichte.blogs.uni-hamburg.de/category/podcasts+archaik/)
 #speaker/Riess-Werner
 
@@ -25,4 +26,4 @@ author: Ueberphilosophy
 - [09 Neue Kriegstechniken und Tyrannis](https://emanualaltegeschichte.blogs.uni-hamburg.de/09-neue-kriegstechnik-und-tyrannis/) #Tyrannis
 
 
-## -footnotes
+## -footnotes 

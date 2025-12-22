@@ -2,13 +2,14 @@
 cssclasses: material
 date_created: 2025-11-24
 publish: true
-tags: Philosophie/Erkenntnistheorie
+tags: [Philosophie/Erkenntnistheorie,]
 ddckey: 121
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
-# Philosophie
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Erkenntnistheorie 2020 - HfPhMuenchen, Finkelde](https://www.youtube.com/playlist?list=PLEJ1VSP-rVPdn8vYrjivA3gNH-p3G6Xhl)
 #speaker/Finkelde-Dominik
 
@@ -36,4 +37,4 @@ author: Ueberphilosophy
 - [Erkenntnistheorie 2020 06a ](https://www.youtube.com/watch?v=gDtYYu64cIk) - Jacques Lacan "Über Struktur..."
 - [Erkenntnistheorie 2020 06b ](https://www.youtube.com/watch?v=zydY2OLLMyg) - Slavoj Zizek: "Die unbewusste Struktur der Realität"
 
-## -footnotes
+## -footnotes 

@@ -2,13 +2,16 @@
 cssclasses: material
 date_created: 2025-11-28
 publish: true
-tags: Hesiod
+tags: [Hesiod,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Hesiod
-[[timeline#^Hesiod]]
+[[timeline#Hesiod]]
 
 
 ## Theogonie
@@ -18,4 +21,4 @@ author: Ueberphilosophy
 - [lernhelfer](https://www.lernhelfer.de/sites/default/files/lexicon/pdf/BWS-DEU2-0384-03.pdf) - deutsch, pdf
 
 
-## -footnotes
+## -footnotes 

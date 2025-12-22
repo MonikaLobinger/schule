@@ -2,13 +2,14 @@
 cssclasses: material
 date_created: 2025-12-04
 publish: true
-tags:
+tags: []
 ddckey: 127
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
-
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Kulturphilosophie nach Jacques Lacan 2018 - HfPhMuenchen, Findelde](https://www.youtube.com/playlist?list=PLEJ1VSP-rVPeFvNHTLYClobgV4CyXJJwn)
 #speaker/Finkelde-Dominik #Lacan-Jacques 
 
@@ -28,4 +29,4 @@ author: Ueberphilosophy
 ### Einzelvideos
 
 
-## -footnotes
+## -footnotes 

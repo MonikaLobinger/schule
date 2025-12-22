@@ -1,13 +1,15 @@
 ---
 cssclasses: catalog
-date_created: 2025-12-17
+date_created: 2025-12-04
 publish: true
-tags:
+tags: []
 ddckey: 
 author: Ueberphilosophy
 ---
-### Antike Philosophie
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+### Philosophie der Ästhetik
 ```dataviewjs
 await dv.executeJs(await dv.io.load("Materialien/catalog.js"));
 ```
-

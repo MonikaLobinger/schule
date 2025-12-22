@@ -2,11 +2,15 @@
 cssclasses: autor
 date_created: 2025-12-20
 publish: true
-tags: Paracelsus
+tags: [Paracelsus,]
 ddckey:
 author: Ueberphilosophy
 ---
-# Theophrastus Bombast von Hohenheim, genannt Paracelsus
-[[timeline#^Paracelsus]]
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
-## -footnotes
+# Theophrastus Bombast von Hohenheim, genannt Paracelsus
+[[timeline#Paracelsus]]
+
+## -footnotes 

@@ -2,7 +2,7 @@
 cssclasses: note
 date_created: 2025-12-02
 publish: true
-tags: pneuma
+tags: [pneuma]
 author: Ueberphilosophy
 ---
 

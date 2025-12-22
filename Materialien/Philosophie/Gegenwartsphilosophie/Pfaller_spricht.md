@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-12-04
 publish: true
-tags:
+tags: []
 ddckey: 190
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## Pfaller spricht
 #speaker/Pfaller-Robert 
 
@@ -15,4 +17,4 @@ author: Ueberphilosophy
 
 - [Robert Pfaller - Parallaxes of Sinister Enjoyment](https://www.youtube.com/watch?v=eRxf8bRpJ1w)  2019 #speaker/Pfaller-Robert
 
-## -footnotes
+## -footnotes 

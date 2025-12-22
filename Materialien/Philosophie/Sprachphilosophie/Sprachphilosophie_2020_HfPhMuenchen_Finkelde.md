@@ -2,13 +2,14 @@
 cssclasses: material
 date_created: 2025-12-04
 publish: true
-tags:
+tags: []
 ddckey: 121
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
-
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Sprachphilosophie 2020 - HfPhMuenchen, Finkelde](https://www.youtube.com/playlist?list=PLEJ1VSP-rVPcEAK9oqU6s5kKRUo6HAVET)
 #speaker/Finkelde-Dominik 
 
@@ -24,4 +25,4 @@ author: Ueberphilosophy
 - [08 J. J. von Uexküll - Biosemiotik: zur Sprache in der Natur](https://www.youtube.com/watch?v=uowoeLWMssc) #Uexküll-Jakob-Johann
 - [09 Ruth G. Millikan - Substanzen im Tierreich](https://www.youtube.com/watch?v=LTiy4nsgTKQ) #Millikan-Ruth
 
-## -footnotes
+## -footnotes 

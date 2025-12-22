@@ -2,12 +2,15 @@
 cssclasses: material
 date_created: 2025-12-09
 publish: true
-tags:i Borges-Jorge-Luis
+tags: [Borges-Jorge-Luis,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Jorge Luis Borges
-[[timeline#^Borges-Jorge-Luis]]
+[[timeline#Borges-Jorge-Luis]]
 
-## -footnotes
+## -footnotes 

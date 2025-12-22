@@ -2,11 +2,15 @@
 cssclasses: autor
 date_created: 2025-12-20
 publish: true
-tags: Chateaubriand-Francois-Rene
+tags: [Chateaubriand-Francois-Rene,]
 ddckey:
 author: Ueberphilosophy
 ---
-# Francois-Rene Chateaubriand
-[[timeline#^Chateaubriand-Francois-Rene]]
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
-## -footnotes
+# Francois-Rene Chateaubriand
+[[timeline#Chateaubriand-Francois-Rene]]
+
+## -footnotes 

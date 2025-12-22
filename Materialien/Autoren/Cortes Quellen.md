@@ -2,10 +2,14 @@
 cssclasses: material
 date_created: 2025-12-11
 publish: true
-tags: Cortes-Hernan
+tags: [Cortes-Hernan,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+
 # Hernan Cortes
-[[timeline#^Cortes-Hernan]]
-## -footnotes
+[[timeline#Cortes-Hernan]]
+## -footnotes 

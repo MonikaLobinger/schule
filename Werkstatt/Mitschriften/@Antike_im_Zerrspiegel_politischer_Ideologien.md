@@ -2,7 +2,7 @@
 cssclasses: werkstatt
 date_created: 2025-12-15
 publish: false
-tags:
+tags: []
 author: Ueberphilosophy
 ---
 # Mitschrift
@@ -101,7 +101,7 @@ Bernbeck, der speaker, sagt nicht, dass die Staatsorientologen eines Geists mit 
 
 Orientalistik würde davon träumen kohärentes zu Stande zu bringen. Das kann vereinnamt werden. Wir sollten versuchen aspektivisch zu arbeiten, nicht perspektivisch. 
 ## Vorlesung 4
-- [Spengler und die apollinische Antike. Zu den ... Formen historischer Pseudomorphose](https://www.youtube.com/watch?v=FtZoj3p72ik&list=PLhmnOOUKz0CX9q8CNR7vHe-ArD0infIqD&index=5) #speaker/Möller-Melanie
+- [Spengler und die apollinische Antike. Zu den ... Formen historischer Pseudomorphose](https://www.youtube.com/watch?v=FtZoj3p72ik&list=PLhmnOOUKz0CX9q8CNR7vHe-ArD0infIqD&index=5) #speaker/Moeller-Melanie
 ## Offen
 - [„Roter Sultan oder Höchster Herrscher?“: Die Gegenwart der osm G in der Türkei](https://www.youtube.com/watch?v=DskRhmAZK1k&list=PLhmnOOUKz0CX9q8CNR7vHe-ArD0infIqD&index=6) #speaker/Hartmann-Elke
 - [Kollaborative Archä: Indigene Wissenssysteme zur Erforschung der Verg Amazoniens](https://www.youtube.com/watch?v=yVmxkeNfUqA&list=PLhmnOOUKz0CX9q8CNR7vHe-ArD0infIqD&index=7) #speaker/Betancourt-Carla-Jaimes

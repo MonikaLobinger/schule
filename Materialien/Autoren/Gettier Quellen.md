@@ -2,10 +2,14 @@
 cssclasses: material
 date_created: 2025-12-12
 publish: true
-tags: Gettier-Edmund
+tags: [Gettier-Edmund,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+
 # Edmund Gettier
-[[timeline#^Gettier]]
-## -footnotes
+[[timeline#Gettier]]
+## -footnotes 

@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-11-28
 publish: true
-tags: Philosophie/Einführung
+tags: [Philosophie/Einführung,]
 ddckey: 100
-media:
-  - audio
+media:  [audio,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Einführung in die Philosophie 2014/15 - LMU Muenchen, Ringvorlesung](https://cast.itunes.uni-muenchen.de/vod/playlists/P8Ggk7SCCp.html)
 #speaker/Hartmann-Stephan #speaker/Buchheim-Thomas #speaker/Leitgeb-Hannes #speaker/Nida-Rümelin-Julian #speaker/Adamson-Peter  #speaker/Seitscheck-Otto 
 
@@ -22,4 +24,4 @@ author: Ueberphilosophy
 -  [Adamson - Einheit. Einführung in die platonische Tradition](https://cast.itunes.uni-muenchen.de/clips/rnnnIUsUyr/vod/high_quality.mp4)
 - [Seitscheck - Philosophie und Religion. Einführung in die Religionsphilosophie.](https://cast.itunes.uni-muenchen.de/clips/frMYek8X0C/vod/high_quality.mp4)
 
-## -footnotes
+## -footnotes 

@@ -2,7 +2,7 @@
 cssclasses: note
 date_created: 2025-12-12
 publish: false
-tags:
+tags: []
 author: Ueberphilosophy
 ---
 # Als was kann man sich selbst bestimmen und muß das anerkannt werden

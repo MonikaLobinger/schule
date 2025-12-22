@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-11-24
 publish: true
-tags: Philosophie/Einführung
+tags: [Philosophie/Einführung,]
 ddckey: 100
-media:
-  - audio
+media:  [audio,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Einführung in die Philosophie 1950/51 - Karl Jaspers](https://www.youtube.com/playlist?list=PL5rv0LxqofNpHhDRRGTgYdHMrfQuhCNfg)
 #speaker/Jaspers-Karl
 
@@ -21,4 +23,4 @@ author: Ueberphilosophy
 - [Einführung in die Philosophie 6/7 (1950/51)](https://www.youtube.com/watch?v=-5dgky7xPt4)
 - [Einführung in die Philosophie 7/7 (1950/51)](https://www.youtube.com/watch?v=d8bsnSzRRaI)
 
-## -footnotes
+## -footnotes 

@@ -2,12 +2,16 @@
 cssclasses: material
 date_created: 2025-12-04
 publish: true
-tags: Zupancic-Alenka
+tags: [Zupancic-Alenka,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+
 # Alenka Zupancic
-[[timeline#^Zupancic]]
+[[timeline#Zupancic]]
 
 
-## -footnotes
+## -footnotes 

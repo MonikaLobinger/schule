@@ -2,13 +2,16 @@
 cssclasses: material
 date_created: 2025-11-30
 publish: true
-tags: Alkmaion
+tags: [Alkmaion,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Alkmaion
-[[timeline#^Alkmaion]]
+[[timeline#Alkmaion]]
 
 
-## -footnotes
+## -footnotes 

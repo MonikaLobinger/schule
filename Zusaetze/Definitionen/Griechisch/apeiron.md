@@ -2,7 +2,7 @@
 cssclasses: note
 date_created: 2025-11-30
 publish: true
-tags: apeiron
+tags: [apeiron]
 author: Ueberphilosophy
 ---
 

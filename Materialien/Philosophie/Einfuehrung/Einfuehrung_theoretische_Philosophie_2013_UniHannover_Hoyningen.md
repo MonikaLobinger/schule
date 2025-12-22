@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-11-24
 publish: true
-tags: Philosophie/Einführung
+tags: [Philosophie/Einführung,]
 ddckey: 100
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Einführung in die theoretische Philosophie 2013/14 - Uni Hannover, Hoyningen](https://www.youtube.com/playlist?list=PLHwUrKo7SDpTLWpbXS36aJ4vYjjVXrOcA)
 #speaker/Hoyningen-Huene-Paul
 
@@ -38,4 +40,4 @@ author: Ueberphilosophy
 - [Einführung in die Theoretische Philosophie 12 I ](https://www.youtube.com/watch?v=zGB46wTImRk)
 - [Einführung in die Theoretische Philosophie 12 II](https://www.youtube.com/watch?v=Pek5kG57lo4)
 
-## -footnotes
+## -footnotes 

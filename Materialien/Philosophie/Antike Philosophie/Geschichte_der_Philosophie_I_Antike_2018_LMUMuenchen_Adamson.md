@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-11-29
 publish: true
-tags:
+tags: []
 ddckey: 182
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Geschichte der Philosophie I: Antike 2018 - LMU München, Adamson](https://cast.itunes.uni-muenchen.de/vod/playlists/ZjiRDcbpR6.html) 
 #speaker/Adamson-Peter
 
@@ -22,4 +24,4 @@ author: Ueberphilosophy
 - [Aristoteles: Ethik – Glückseligkeit und Tugend ](https://cast.itunes.uni-muenchen.de/clips/EKep0M74sI/vod/online.html)
 - [Aristoteles: Ethik – Philosophie im Leben ](https://cast.itunes.uni-muenchen.de/clips/Q2fl2BiWdQ/vod/online.html)
 
-## -footnotes
+## -footnotes 

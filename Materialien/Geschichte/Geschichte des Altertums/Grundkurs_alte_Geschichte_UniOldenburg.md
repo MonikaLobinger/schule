@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-11-30
 publish: true
-tags:
+tags: []
 ddckey: 930
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Grundkurs alte Geschichte - Uni Oldenburg, Alte Geschichte](https://www.youtube.com/playlist?list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP)
 #speaker/Sommer-Michael
 
@@ -28,4 +30,4 @@ author: Ueberphilosophy
 - [Rom und das Christentum](https://www.youtube.com/watch?v=3Szl_E8qcaI&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=25)
 - [Die Spätantike](https://www.youtube.com/watch?v=ZHyL9uSOuc8&list=PLeF3wmU54t4SpUVn0xQjprLXzo4nZ89pP&index=27) #Spätantike
 
-## -footnotes
+## -footnotes 

@@ -2,10 +2,14 @@
 cssclasses: material
 date_created: 2025-12-11
 publish: true
-tags: Kopernikus-Nikolaus
+tags: [Kopernikus-Nikolaus,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+
 # Nikolaus Kopernikus
-[[timeline#^Kopernikus]]
-## -footnotes
+[[timeline#Kopernikus]]
+## -footnotes 

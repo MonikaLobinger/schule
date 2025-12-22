@@ -2,7 +2,7 @@
 cssclasses: werkstatt
 date_created: 2025-12-17
 publish: false
-tags:
+tags: []
 author: Ueberphilosophy
 ---
 # Mitschrift
@@ -137,16 +137,16 @@ Neuzeit (17. Jhd bis Ende 18. Jhd) - systematische Reflexion auf Möglichkeiten 
 ###### Rationalismus
 Der Rationalismus ist uns heute relativ fremd. Die Sinneswahrnehmung spielt allenfalls eine untergeordnete Rolle. Primär ist die Vernunfterkenntnis.
 
-[[timeline#^Descartes|Descartes]]: Zwei-Substanzen-Lehre
+[[timeline#Descartes|Descartes]]: Zwei-Substanzen-Lehre
 
-[[timeline#^Leibniz|Leibniz]]: Satz vom zureichenden Grund "Für alles was es gibt, gibt es einen zureichenden Grund (weshalb es so ist, wie es ist)"
+[[timeline#Leibniz|Leibniz]]: Satz vom zureichenden Grund "Für alles was es gibt, gibt es einen zureichenden Grund (weshalb es so ist, wie es ist)"
 
 ###### Empirismus
 Empirismus leugnet die Möglichkeit von Vernunfterkenntnis, was die Welt betrifft. Alle sachhaltigen Erkenntnisse wurzeln in der Sinneswahrnehmung.
 
-[[timeline#^Locke|John Locke]]: "Nihil est in intellectu quod non prius fuerit in sensu". [[timeline#^Hobbes|Thomas Hobbes]] sagt, Erkennen von Ursache-Wirkungs-Verhältnissen ist nicht wirklich möglich. Wir machen nur durch Gewöhnung aus einem "post hoc" ein "propter hoc". Keinesfalls ergibt sich eine Notwendigkeit in der Folge von Ursache und Wirkung. 
+[[timeline#Locke|John Locke]]: "Nihil est in intellectu quod non prius fuerit in sensu". [[timeline#Hobbes|Thomas Hobbes]] sagt, Erkennen von Ursache-Wirkungs-Verhältnissen ist nicht wirklich möglich. Wir machen nur durch Gewöhnung aus einem "post hoc" ein "propter hoc". Keinesfalls ergibt sich eine Notwendigkeit in der Folge von Ursache und Wirkung. 
 
-Die Idee von Ursache und Wirkung hat es in der Form in der Antike nicht gegeben. In der Neuzeit aber gab es sie. Für [[timeline#^Kant|Kant]] war diese Erkenntnis von [[timeline#^Hobbes|Thomas Hobbes]] eine Erweckung aus dem dogmatischen Schlummer. 
+Die Idee von Ursache und Wirkung hat es in der Form in der Antike nicht gegeben. In der Neuzeit aber gab es sie. Für [[timeline#Kant|Kant]] war diese Erkenntnis von [[timeline#Hobbes|Thomas Hobbes]] eine Erweckung aus dem dogmatischen Schlummer. 
 
 Mathematik macht den Empiristen öfter Schwierigkeiten.
 

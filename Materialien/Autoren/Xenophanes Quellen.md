@@ -2,12 +2,15 @@
 cssclasses: material
 date_created: 2025-11-30
 publish: true
-tags: Xenophanes
+tags: [Xenophanes,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Xenophanes von Kolophon
-[[timeline#^Xenophanes]]
+[[timeline#Xenophanes]]
 
-## -footnotes
+## -footnotes 

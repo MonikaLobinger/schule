@@ -1,11 +1,16 @@
 ---
 cssclasses: catalog
-date_created: 2025-12-03
+date_created: 2025-12-17
 publish: true
-tags: 
-ddckey: 930
+tags: []
+ddckey: 
 author: Ueberphilosophy
 ---
 ```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+### Antike Philosophie
+```dataviewjs
 await dv.executeJs(await dv.io.load("Materialien/catalog.js"));
 ```
+

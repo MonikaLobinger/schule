@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-12-11
 publish: true
-tags:
+tags: []
 ddckey: 
+media:  [audio,]
 author: Ueberphilosophy
 ---
-# Philosophie
-
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## Philosophie Podcasts unsortiert 
 ### Geister - Der Philosophie Podcast
 [Geister - der Philosophie Podcast](https://geister.podigee.io/) auf podigee.io ^[Nur solange dort gehostet, solange ein abo besteht und bezahlt wird] #wird_fortgesetzt 
@@ -111,4 +113,4 @@ author: Ueberphilosophy
 - [027 Seele](https://www.youtube.com/watch?v=c6JVkE1rI30) #Seele ^happyhour027
 - [028 Freiheit Teil I](https://www.youtube.com/watch?v=t46JyVQf9PI) #Freiheit ^happyhour028
 ###   [DenXte](https://denxte.de/podcast/)
-## -footnotes
+## -footnotes 

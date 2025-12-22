@@ -4,11 +4,12 @@ date_created: 2025-11-30
 publish: true
 tags: [Ilias, Odyssee]
 ddckey: 883 
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
-
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Die Ilias und die Odyssee - Arte](https://www.youtube.com/playlist?list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU)
 
 [[Werkstatt/Mitschriften/@Die_Ilias_und_die_Odyssee_Arte|Mitschrift]]
@@ -33,4 +34,4 @@ author: Ueberphilosophy
 - [Rückkehr nach Ithaka](https://www.youtube.com/watch?v=YNmLi_7vyP4&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=18&pp=iAQB)
 - [Die Narbe des Königs](https://www.youtube.com/watch?v=5xvuu1jlOS0&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=19&pp=iAQB)
 - [Götterdämmerung](https://www.youtube.com/watch?v=7SprhXVl_WE&list=PLU4fQY3ytPD3uhc2yosZd9VCP40ppltjU&index=20&pp=iAQB)
-## -footnotes
+## -footnotes 

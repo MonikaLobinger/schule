@@ -2,10 +2,14 @@
 cssclasses: material
 date_created: 2025-12-11
 publish: true
-tags: Harman-Graham
+tags: [Harman-Graham,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+
 # Graham Harman
-[[timeline#^Harman-Graham]]
-## -footnotes
+[[timeline#Harman-Graham]]
+## -footnotes 

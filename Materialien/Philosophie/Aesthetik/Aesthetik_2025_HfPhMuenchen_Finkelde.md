@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-12-04
 publish: true
-tags:
+tags: []
 ddckey: 102
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Ästhetik, eine Einführung - HfPh München, Finkelde](https://www.youtube.com/playlist?list=PLEJ1VSP-rVPcRLVYcGJxM6mhH1s5trdmP) 
 #speaker/Finkelde-Dominik 
 
@@ -35,4 +37,4 @@ author: Ueberphilosophy
 - [20 Jacque Rancière "Aufteilung des Sinnlichen"](https://www.youtube.com/watch?v=tTaERkufhN4) #Ranciere-Jaques
 
 
-## -footnotes
+## -footnotes 

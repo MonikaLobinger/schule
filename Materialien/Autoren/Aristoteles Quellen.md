@@ -2,12 +2,16 @@
 cssclasses: material
 date_created: 2025-11-24
 publish: true
-tags: Aristoteles
+tags: [Aristoteles,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+
 # Aristoteles
-[[timeline#^Aristoteles]]
+[[timeline#Aristoteles]]
 ## Metaphysik
 - [Zeno](http://www.zeno.org/Philosophie/M/Aristoteles/Metaphysik) - deutsch, online zu lesen
 - [Übersetzt von Hermann Bonitz 1890](https://archive.org/details/metaphysik00bonigoog/page/n17/mode/2up) - Digitalisat
@@ -28,4 +32,4 @@ author: Ueberphilosophy
 [Internet Archiv](https://archive.org/details/dreibcherberdie00kircgoog/page/n1/mode/1up) - Deutsch, Digitalisat
 
 
-## -footnotes
+## -footnotes 

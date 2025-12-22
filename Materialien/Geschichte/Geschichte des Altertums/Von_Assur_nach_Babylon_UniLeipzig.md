@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-12-01
 publish: true
-tags:
+tags: []
 ddckey: 935
-media:
-  - audio
+media:  [audio,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Von Assur nach Babylon - Uni Leipzig, Altorientalisches Institut](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/) 
 #wird_fortgesetzt
 
@@ -27,4 +29,4 @@ author: Ueberphilosophy
 - [Wie klang Babylonisch?](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/wie-klang-babylonisch-9777304/)
 - [Ägypten liegt nicht in der Nähe! — internationale Diplomatie vor 3300 Jahren](https://wissenschaftspodcasts.de/podcasts/von-assur-nach-babylon/aegypten-liegt-nicht-in-der-naehe-internationale-diplomatie-vor-3300-jahren_9894299/)
 
-## -footnotes
+## -footnotes 

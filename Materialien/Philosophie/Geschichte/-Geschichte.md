@@ -1,12 +1,15 @@
 ---
 cssclasses: catalog
-date_created: 2025-12-04
+date_created: 2025-12-03
 publish: true
-tags:
+tags: []
 ddckey: 
 author: Ueberphilosophy
 ---
-### Philosophie des 20ten Jhds
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+### Geschichte der Philosophie
 ```dataviewjs
 await dv.executeJs(await dv.io.load("Materialien/catalog.js"));
 ```

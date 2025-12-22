@@ -2,11 +2,15 @@
 cssclasses: autor
 date_created: 2025-12-20
 publish: true
-tags: Schopenhauer-Arthur
+tags: [Schopenhauer-Arthur,]
 ddckey:
 author: Ueberphilosophy
 ---
-# Arthur Schopenhauer
-[[timeline#^Schopenhauer]]
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
-## -footnotes
+# Arthur Schopenhauer
+[[timeline#Schopenhauer]]
+
+## -footnotes 

@@ -2,14 +2,17 @@
 cssclasses: material
 date_created: 2025-11-29
 publish: true
-tags: Nietzsche-Friedrich
+tags: [Nietzsche-Friedrich,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Friedrich Nietzsche
-[[timeline#^Nietzsche]]
-## Die Philosophie im tragischen Zeitalter der Griechen2025-12-20 1873 unvollendet
+[[timeline#Nietzsche]]
+## Die Philosophie im tragischen Zeitalter der Griechen 1873 unvollendet
 - [Nietzschesource](http://www.nietzschesource.org/#eKGWB/PHG) - deutsch, online zu lesen
 
 ## Also sprach Zarathustra 1883-1885
@@ -21,4 +24,4 @@ author: Ueberphilosophy
 - [Nietzsche Source](http://www.nietzschesource.org/#eKGWB/JGB) - deutsch, online zu lesen
 
 
-## -footnotes
+## -footnotes 

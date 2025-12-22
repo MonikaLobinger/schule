@@ -2,12 +2,15 @@
 cssclasses: material
 date_created: 2025-12-02
 publish: true
-tags: Anaximander-von-Milet
+tags: [Anaximander-von-Milet,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Anaximander von Milet
-[[timeline#^Anaximander]]
+[[timeline#Anaximander]]
 
-## -footnotes
+## -footnotes 

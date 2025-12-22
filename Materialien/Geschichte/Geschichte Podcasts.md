@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-12-17
 publish: true
-tags:
+tags: []
 ddckey:
-media: audio
+media:  [audio,]
 author: Ueberphilosophy
 ---
-# Geschichte
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## Geschichte Podcasts unsortiert 
 enthält nur Podcasts, die nicht einsortiert sind
 ### Ausgesprochen Alt. Der Antike Podcast
@@ -64,10 +66,5 @@ enthält nur Podcasts, die nicht einsortiert sind
 ##   [Podcast "Mesopotastisch!"](https://www.uni-goettingen.de/de/656415.html)
 
 ##   [Hinter den Dingen](https://hinter-den-dingen.podigee.io/)
-## -footnotes
 
-## -footnotes
-
-## -footnotes
-
-## -footnotes
+## -footnotes 

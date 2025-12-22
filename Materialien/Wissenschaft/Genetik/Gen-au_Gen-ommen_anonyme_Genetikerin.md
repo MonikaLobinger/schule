@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-12-12
 publish: true
-tags:
+tags: []
 ddckey: 576
-media:
-    - video
+media:  [video,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Gen-au Gen-ommen - anonyme Genetikerin](https://www.youtube.com/@gen.au.gen.ommen./videos?view=0&sort=dd&shelf_id=2) 
 #speaker/aaactcgcgcgcgcg #wird_fortgesetzt
 
@@ -59,4 +61,4 @@ author: Ueberphilosophy
 - [Das lange und das kurze QT - erbliche Herzrythmusstörungen](https://www.youtube.com/watch?v=2ypuU-djvM8)
 - [Konsanguine Partnerschaften in Gaza](https://www.youtube.com/watch?v=cF8DUnHqp_0&pp=0gcJCSkKAYcqIYzv)
 - [Reaction auf Blantrada - Sind Kassenbons gefährlich](https://www.youtube.com/watch?v=dgnbAkVHPmo)
-## -footnotes
+## -footnotes 

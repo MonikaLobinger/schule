@@ -2,7 +2,7 @@
 cssclasses: note
 date_created: 2025-11-29
 publish: true
-tags: aporie
+tags: [aporie]
 
 author: Ueberphilosophy
 ---

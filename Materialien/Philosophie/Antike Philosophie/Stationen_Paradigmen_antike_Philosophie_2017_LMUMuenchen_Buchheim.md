@@ -2,12 +2,14 @@
 cssclasses: material
 date_created: 2025-11-29
 publish: true
-tags:
+tags: []
 ddckey: 182
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Stationen und Paradigmen der antiken Philosophie 2017 - LMU München, Buchheim](https://cast.itunes.uni-muenchen.de/vod/playlists/qp7kfLlhVP.html)
 #speaker/Buchheim-Thomas 
 
@@ -26,4 +28,4 @@ author: Ueberphilosophy
 - [Philon, Christentum, Johannes](https://cast.itunes.uni-muenchen.de/clips/zsdRVP2pet/vod/online.html)
 - [Plotin, Augustinus](https://cast.itunes.uni-muenchen.de/clips/qFUrnnNJcR/vod/online.html)
 
-## -footnotes
+## -footnotes 

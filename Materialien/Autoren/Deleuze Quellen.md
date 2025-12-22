@@ -2,12 +2,16 @@
 cssclasses: autor
 date_created: 2025-12-19
 publish: true
-tags: Deleuze-Gilles
+tags: [Deleuze-Gilles,]
 ddckey:
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
+
 # Gilles Deleuze
-[[timeline#^Deleuze]]
+[[timeline#Deleuze]]
 ## Transskriptionen
 - [https://www.webdeleuze.com/](https://www.webdeleuze.com/) - französch, manche auch englisch oder spanisch
 - [What is grounding, Transkription](https://dn720005.ca.archive.org/0/items/WhatIsGrounding/What%20is%20Grounding.pdf) - englisch, Digitalisat
@@ -32,4 +36,4 @@ author: Ueberphilosophy
 - [University of Pennsylvania](https://web.english.upenn.edu/~cavitch/pdf-library/Deleuze_Qu_est_Ce_Que_La_Philosophie.pdf) - französisch, Digitalisat
 - [Internet Archive](https://dn721807.ca.archive.org/0/items/european-perspectives-gilles-deleuze-felix-guattari-what-is-philosophy-1994-colu/%5BEuropean%20Perspectives%5D%20Gilles%20Deleuze%2C%20Felix%20Guattari%20-%20What%20is%20philosophy_%20%281994%2C%20Columbia%20University%20Press%29%20-%20libgen.li.pdf) - englisch, Digitalisat
 - [FU Berlin](https://www.geisteswissenschaften.fu-berlin.de/v/interart/media/dokumente/oberseminar/deleuze_guattari_was_ist_philosophie.pdf) - deutsch, Teile eines Digitalisat: Einleitung, Kapitel 7, Schluss, 
-## -footnotes
+## -footnotes 

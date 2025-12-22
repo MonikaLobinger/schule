@@ -2,7 +2,7 @@
 cssclasses: studies
 date_created:
 publish: false
-tags:
+tags: []
 author:
 ---
 # Mitschrift

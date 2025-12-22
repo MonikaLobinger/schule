@@ -2,7 +2,7 @@
 cssclasses: note
 date_created: 2025-12-12
 publish: true
-tags: Koinzidenz
+tags: [Koinzidenz]
 author: Ueberphilosophy
 ---
 # Koinzidenz

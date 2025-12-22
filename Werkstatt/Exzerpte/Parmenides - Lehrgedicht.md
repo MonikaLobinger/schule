@@ -2,7 +2,7 @@
 cssclasses: note
 date_created: 2025-12-11
 publish: false
-tags: Parmenides-von-elea
+tags: [Parmenides-von-elea, ]
 author: Ueberphilosophy
 ---
 # Parmenides Lehrgedicht

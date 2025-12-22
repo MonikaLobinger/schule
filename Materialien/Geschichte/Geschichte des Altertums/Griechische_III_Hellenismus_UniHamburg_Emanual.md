@@ -2,13 +2,14 @@
 cssclasses: material
 date_created: 2025-12-01
 publish: true
-tags:
+tags: []
 ddckey: 938
-media:
-  - video
-  - text
+media:  [video,text]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Griechische Geschichte III: Der Hellenismus - Uni Hamburg, Emanual](https://emanualaltegeschichte.blogs.uni-hamburg.de/category/podcasts+hellenismus/) 
 #speaker/Riess-Werner
 
@@ -21,4 +22,4 @@ author: Ueberphilosophy
 - [05 Das Alltagsleben und das Leben am Hof](https://emanualaltegeschichte.blogs.uni-hamburg.de/05-das-alltagsleben-und-das-leben-am-hof/)
 - [06 Religiöse Entwicklungen im Hellenismus](https://emanualaltegeschichte.blogs.uni-hamburg.de/06-religioese-entwicklungen-im-hellenismus/) #Hellenismus
 
-## -footnotes
+## -footnotes 

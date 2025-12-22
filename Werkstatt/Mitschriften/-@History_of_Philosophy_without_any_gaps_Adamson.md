@@ -2,7 +2,7 @@
 cssclasses: werkstatt
 date_created: 2025-11-27
 publish: false
-tags: Philosophie/Geschichte
+tags: [Philosophie/Geschichte]
 author: Ueberphilosophy
 ---
 

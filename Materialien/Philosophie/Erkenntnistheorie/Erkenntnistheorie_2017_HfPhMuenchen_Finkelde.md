@@ -2,13 +2,14 @@
 cssclasses: material
 date_created: 2025-11-24
 publish: true
-tags: Philosophie/Erkenntnistheorie
+tags: [Philosophie/Erkenntnistheorie,]
 ddckey: 121
-media:
-  - video
+media:  [video,]
 author: Ueberphilosophy
 ---
-# Philosophie
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Erkenntnistheorie 2017 - HfPhMuenchen, Finkelde](https://www.youtube.com/playlist?list=PLEJ1VSP-rVPdCylgGvlBEA6kJU6v7yDGO)
 #speaker/Finkelde-Dominik
 
@@ -34,4 +35,4 @@ author: Ueberphilosophy
 - [Erkenntnistheorie 2017 18](https://www.youtube.com/watch?v=w5ny9vy3rIQ) - Daniel Dennett "Competence without Comprehension"
 - [Erkenntnistheorie 2017 19](https://www.youtube.com/watch?v=vghWf24-kyA) - Jacques Lacan und "The Ambassadors"
 - [Erkenntnistheorie 2017 20](https://www.youtube.com/watch?v=dA92x8KUFfQ) - Jacques Lacan über Signifikanten. Der Fall H. Keller
-## -footnotes
+## -footnotes 

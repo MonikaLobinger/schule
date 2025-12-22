@@ -2,11 +2,15 @@
 cssclasses: material
 date_created: 2025-12-01
 publish: true
-tags: Thomas-von-Aquin
+tags: [Thomas-von-Aquin,]
 ddckey: 
 author: Ueberphilosophy
 ---
-# Thomas von Aquin
-[[timeline#^Thomas]]
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
-## -footnotes
+# Thomas von Aquin
+[[timeline#Thomas]]
+
+## -footnotes 

@@ -2,10 +2,13 @@
 cssclasses: bigbiglist
 date_created: 2025-12-13
 publish: true
-tags:
+tags: []
 ddckey:
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 Der [DDC Übersicht](https://www.dnb.de/DE/Professionell/DDC-Deutsch/DDCUebersichten/ddcUebersichten.html?nn=259498#doc259496bodyText3) der deutschen Nationalbibliothek entnommen.
 Tiefer suchen kann man mit [WebDewey Search](https://deweysearchde.pansoft.de/webdeweysearch/mainClasses.html) auf Englisch.
 ## 000 Informatik, Information & Wissen, allgemeine Werke
@@ -2101,23 +2104,3 @@ Geschichte der außerirdischen Welten
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## -footnotes

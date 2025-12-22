@@ -2,7 +2,7 @@
 cssclasses: werkstatt
 date_created: 2025-12-17
 publish: false
-tags:
+tags: []
 author: Ueberphilosophy
 ---
 # Mitschrift
@@ -22,9 +22,9 @@ Wissen, Begriffe, Sätze, Behauptung, Propositionen, Argumente, Dialektik,  #Dic
 
 > Wie man gut denken kann
 
-> Die Vorsokratiker gibt es als Gruppe von Denkern erst sehr wahrscheinlich nach [[timeline#^Nietzsche]]
+> Die Vorsokratiker gibt es als Gruppe von Denkern erst sehr wahrscheinlich nach [[timeline#Nietzsche]]
 
-> (zu "Das Selbe ist Denken und Sein" von [[Parmenides Quellen#Lehrgedicht]]) Wir müssen bedenken dass [[timeline#^Parmenides|Parmenides]] nicht unterscheidet zwischen der prädikativen Funktion von ist und sein des Partikelchens ist und der existentiellen Funktion, so dass hier diese este ambivalent bleibt.
+> (zu "Das Selbe ist Denken und Sein" von [[Parmenides Quellen#Lehrgedicht]]) Wir müssen bedenken dass [[timeline#Parmenides|Parmenides]] nicht unterscheidet zwischen der prädikativen Funktion von ist und sein des Partikelchens ist und der existentiellen Funktion, so dass hier diese este ambivalent bleibt.
 
 > Sinnvoller wäre zu sagen Das selbe ist für das Denken und für das Sein 
 

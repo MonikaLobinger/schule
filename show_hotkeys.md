@@ -4,7 +4,7 @@ cssclasses:
 date_created: 2021-06-26
 private: false
 publish: false
-tags: 
+tags: []
 author: Matthias C. Hormann a.k.a. Moonbase59
 source: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/37
 revised: true

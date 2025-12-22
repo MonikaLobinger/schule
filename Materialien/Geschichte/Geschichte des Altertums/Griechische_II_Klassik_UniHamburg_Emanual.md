@@ -2,13 +2,14 @@
 cssclasses: material
 date_created: 2025-12-01
 publish: true
-tags:
+tags: []
 ddckey: 938
-media:
-  - video
-  - text
+media:  [video,text]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Griechische Geschichte II: Die Klassik - Uni Hamburg, Emanual](https://emanualaltegeschichte.blogs.uni-hamburg.de/category/podcasts+klassik/) 
 #speaker/Riess-Werner
 
@@ -21,4 +22,4 @@ author: Ueberphilosophy
 - [05 Die athenische Demokratie](https://emanualaltegeschichte.blogs.uni-hamburg.de/05-die-athenische-demokratie/) #Demokratie
 
 
-## -footnotes
+## -footnotes 

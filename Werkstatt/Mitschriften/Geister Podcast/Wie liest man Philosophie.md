@@ -2,7 +2,7 @@
 cssclasses: werkstatt
 date_created: 2025-12-11
 publish: false
-tags:
+tags: []
 author: Ueberphilosophy
 ---
 # Wie liest man Philosophie

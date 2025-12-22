@@ -2,11 +2,14 @@
 cssclasses: material
 date_created: 2025-12-19
 publish: true
-tags: 
+tags: []
 ddckey: 194
-media: audio
+media:  [audio,]
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 ## [Deleuze 2002 - Uni Wien, Heinrich](https://audiothek.philo.at/course/2002w-693983/)
 #speaker/Heinrich-Richard #Deleuze-Gilles 
 
@@ -25,4 +28,4 @@ author: Ueberphilosophy
 - [Deleuze 11](https://audiothek.philo.at/lesson/11-deleuze/)
 
 
-## -footnotes
+## -footnotes 

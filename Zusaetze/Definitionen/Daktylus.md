@@ -2,7 +2,7 @@
 cssclasses: note
 date_created: 2025-12-01
 publish: true
-tags: Daktylus
+tags: [Daktylus]
 author: Ueberphilosophy
 ---
 # Daktylus

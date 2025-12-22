@@ -2,12 +2,15 @@
 cssclasses: material
 date_created: 2025-12-05
 publish: true
-tags: Fichte-Johann-Gottlieb
+tags: [Fichte-Johann-Gottlieb,]
 ddckey: 
 author: Ueberphilosophy
 ---
+```dataviewjs
+dv.executeJs(await dv.io.load("Materialien/breadcrumbs.js"));
+```
 
 # Johann Gottlieb Fichte
-[[timeline#^Fichte]]
+[[timeline#Fichte]]
 
-## -footnotes
+## -footnotes 

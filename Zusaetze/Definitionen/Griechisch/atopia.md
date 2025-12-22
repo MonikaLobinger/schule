@@ -2,7 +2,7 @@
 cssclasses: note
 date_created: 2025-11-29
 publish: true
-tags: atopia
+tags: [atopia]
 author: Ueberphilosophy
 ---
 

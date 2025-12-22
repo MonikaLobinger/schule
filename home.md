@@ -5,9 +5,9 @@ publish: true
 author: Ueberphilosophy
 ---
 # Mit den Ohren lernen
-Sammlung von Links zu __[[-Materialien|Materialien]]__ zum Lernen (hörbar) und frei zugänglichen __[[timeline|Quelltexten]]__. 
+Sammlung von Links zu __Materialien__ zum Lernen (hörbar) __[[-Materialien|als Katalog]]__/__[[Materialien|als Verzeichnis]]__  und frei zugänglichen __Quelltexten__ __[[timeline|als  Zeitleiste]]__/__[[Autoren|als Verzeichnis]]__. 
 
-Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Der Ordner `Werkstatt` kann für jeweils eigene Notizen verwendet. Im Ordner `Zusaetze` sind für die Sammlung unwichtige Seiten. Die selbst erstellen Definitionen im Ordner `Zusaetze/Definitionen` sind grob, auf den Themenseiten im Ordner `Zusaetze/Themen` finden sich Lins zu bestimmten Themen.
+Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Der Ordner `Werkstatt` kann für jeweils eigene Notizen verwendet. Im Ordner `Zusaetze` sind für die Sammlung unwichtige Seiten. Die selbst erstellen Definitionen im Ordner `Zusaetze/Definitionen` sind grob, auf den Themenseiten im Ordner `Zusaetze/Themen` finden sich Links zu bestimmten Themen.
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol wird beim Drüberfahren mit der Maus sichtbar. 
  - Beim  Klick mit der Maus öffnen alle Links, auch externe,  im selben Fenster. `Ctrl`^[`Shift`]-Klick öffnet in einem neuen Tab.
@@ -35,7 +35,7 @@ Der gesamte Ablauf des Exports steht in [[2025-12-14#Wie es läuft]]
 %%
 
 ## Inhalt
-Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,  und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[-Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline]]  zu finden. Der Katalog wird automatisch erstellt, die timeline manuell. Eventuell gibt es Fehler und in den Auflistungen fehlen Seiten. Über die Seitenleiste links kann man alle Seiten finden.
+Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,  und Quellen. Lernmaterialen sind über ein Thema, Quellen sind  frei zugängliche Originaltexte. Für Lernmaterialien gibt es einen  [[-Materialien|Katalog]] nach Bereichen. Quellen sind nach Autoren unterschieden, sie sind über die [[timeline|Zeitleiste]]  zu finden. Der Katalog wird automatisch erstellt, die timeline manuell. Beide Bereiche sind auch über das [[Materialien|Inhaltsverzeichnis]] zugänglich. Über die Seitenleiste links kann man alle Seiten finden. Die Dateinamen der Kataloge beginnen mit einem Bindestrich, die Dateinamen der Inhaltsverzeichnisse heissen wie die Verzeichnisse, die sie auflisten.
 
 
 - Grobe [[timeline|Zeitleiste]]  mit Links zu Quellenseiten (verknüpft über den Autorennamen)
@@ -102,7 +102,6 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
 ## Technisches über diese Site
 ### Einstellungen
 - Erstellt mit [Obsidian](https://obsidian.md/), 
-- exportiert mit dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export).
 - Einstellungen 
   - Editor
     - Default editing mode: Source mode 
@@ -114,7 +113,6 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
     - vim-key bindings, 
   - Files and Links 
     - Attachments nach `allhelperfiles/allresources` , 
-    - Show all file types
   - Appearance
     -  Theme `Obuntu`, die Orange Farbe zu Grün geändert %%Vorher Willemstad%%
     - Nicht Show Inline Title
@@ -124,9 +122,21 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
     - Verzeichnis für Daily Notes `Werkstatt/Diary`. 
   - Templates
     - template folder location  `allhelperfiles/allvorlagen`.  
-  - Dataview
-    -  Enable Javascript Queries
-  - Templater
+- Core Plugins aus: Canvas, Graph View, Note Composer, Sync
+- Sonst Defaults, 
+- exportiert mit dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export).
+  - Einstellungen Webpage HTML Export
+     - Abschnitt Page Features
+       - Graph View aus
+       - Backlinks aus
+       - RSS aus
+- Editmode angepasst mit eigener Datei `obsidian-source-view.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/obsidian-source-view.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität].
+- Export angepasst mit eigener Datei  `obuntu_adapt.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/obuntu_adap.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
+- dort auch die css Klassen definiert
+- Eigenes Script `foty.js` nach `allhelperfiles/allscripts`, ^Script
+- Eigenes Template `foty_Vorlage.md` nach `allhelperfiles/allvorlagen`. ^Vorlage
+- Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes mit [[home#^Script|Script]] `allhelperfiles/allscripts/foty.js` und [[home#^Vorlage|Vorlage]] `allhelperfiles/allvorlagen/foty_Vorlage.md`
+  - Einstellungen Templater
     - Template Folder Location `allhelperfiles/allvorlagen`
     - automatic jump to cursor, 
     - Trigger Templater on new file creation, 
@@ -134,26 +144,28 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
     - Enable file regex template
     - file regex template `allhelperfiles/allvorlagen/foty_Vorlage.md`, 
     - Script files folder location `allhelperfiles/allscripts`
-  - Webpage HTML Export
-     - Abschnitt Page Features
-       - Graph View aus
-       - Backlinks aus
-       - RSS aus
-- Core Plugins aus: Canvas, Graph View, Note Composer, Sync
-- Sonst Defaults, 
-- Plugin [Templater](https://github.com/SilentVoid13/Templater) erstellt neue Notes mit [[home#^Script|Script]] `allhelperfiles/allscripts/foty.js` und [[home#^Vorlage|Vorlage]] `allhelperfiles/allvorlagen/foty_Vorlage.md`
-- Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md), leicht angepasst, als `timeline.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/timeline.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
-- Editmode angepasst mit eigener Datei `plainsource.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/plainsource.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität].
-- Export angepasst mit eigener Datei  `obuntu_adapt.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/obuntu_adap.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
-- Embedded Links in den Katalogen angepasst mit eigener Datei  `catalogs.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/catalogs.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
-- Eigenes Script `foty.js` nach `allhelperfiles/allscripts`, ^Script
-- Eigenes Template `foty_Vorlage.md` nach `allhelperfiles/allvorlagen`. ^Vorlage
 - Plugin [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
+  - Einstellungen Dataview
+    -  Enable Javascript Queries
 - Plugin [Shortcuts Extender](https://github.com/ryjjin/Obsidian-shortcuts-extender) ^[Nur wegen des Backticks für Code, insbesondere des dreifachen Backticks für Code Blöcke]
 - Plugin [ProZen](https://github.com/cmoskvitin/obsidian-prozen)
 - Plugin [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode)
-- Plugin [Vimrc](https://github.com/esm7/obsidian-vimrc-support)
-- Plugin [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers) - aber nur falls nötig aktiv, verlangsamt bei großen Dateien Reaktion auf Tastendruck merklich.
+- Plugin [Vimrc](https://github.com/esm7/obsidian-vimrc-support) 
+- Plugin [Waypoint](https://github.com/IdreesInc/Waypoint) ^[zum Erstellen der Inhaltsverzeichnisse]
+- Plugin [Foldernotes](https://github.com/LostPaul/obsidian-folder-notes) ^[für die Eingliederung der Verzeichnisseiten in Obsidian]
+  - Einstellungen
+    - File Explorer
+      - Open Folder Notes by only clicking directly on the folder name An 
+- Für Zeitleiste [Timeline Callout von FirelsGood](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Timeline%20callout.md), leicht angepasst, als `timeline.css` ^[hardlinked zu `allhelperfiles/pointobsidian/snippets/timeline.css`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität]. 
+%%
+- Plugin [Folder notes](https://github.com/LostPaul/obsidian-folder-notes)
+  - Einstellungen Folder notes
+    - Abschnitt Folder Overview
+      - Folder path of the Overview: "Path of folder linked to the file"
+	- Abschnitt File Explorer
+	  - Open folder notes by only clicking directly to the folder name an
+	  - Disable folder collapsing aus
+%%
 ### Formatierungen
 #### Basics
 siehe Obsidian [Basic Formatting Syntax](https://help.obsidian.md/syntax)
