@@ -3,9 +3,12 @@
     let type       = "";
     let pict       = "";
     let pict_width = 0;
+    let scriptline = "";
     let firstline  = "";
     let sndline    = "";
     let thrdline   = "";
+    let fourthline = "";
+    let fifthline  = "";
     let prevlink   = "";
     let nextlink   = "";
     let lastline   = "";
@@ -27,9 +30,12 @@
                 case "type":      type       = value; break;
                 case "pict":      pict       = value; break;
                 case "pict_width":pict_width = value; break;
+                case "scriptline":scriptline = value; break;
                 case "firstline": firstline  = value; break;
                 case "sndline":   sndline    = value; break;
                 case "thrdline":  thrdline   = value; break;
+                case "fourthline":fourthline = value; break;
+                case "fifthline": fifthline  = value; break;
                 case "prevlink":  prevlink   = value; break;
                 case "nextlink":  nextlink   = value; break;
                 case "lastline":  lastline   = value; break;
@@ -69,6 +75,11 @@
 
 
 
+<%_* // ***** WRITING Scriptline ***** 
+    if(scriptline!="") { %>
+<% scriptline %>
+<%_*} -%>
+
 <%_* // ***** WRITING Firstline ***** 
     if(firstline!="") { %>
 # <% firstline %>
@@ -82,6 +93,16 @@
 <%_* // ***** WRITING Thrdline ***** 
     if(thrdline!="") { %>
 <% thrdline %>
+<%_*} -%>
+
+<%_* // ***** WRITING Fourthline ***** 
+    if(fourthline!="") { %>
+<% fourthline %>
+<%_*} -%>
+
+<%_* // ***** WRITING Fifthline ***** 
+    if(fifthline!="") { %>
+<% fifthline %>
 <%_*} -%>
 
 <%_* // ***** Setting Cursor ***** %>

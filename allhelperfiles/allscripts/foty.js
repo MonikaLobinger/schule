@@ -358,6 +358,14 @@ let example_configuration3 = {
 //user_configuration = example_configuration3
 //#endregion EXAMPLE CONFIGURATIONS
 
+function cbkTimeLine(noteName, noteType, noteSetting, tp, app) {
+  return "[[timeline#"+noteName+"]]"
+}
+
+function cbkMitschrift(noteName, noteType, noteSetting, tp, app) {
+  return "[[Werkstatt/Mitschriften/@"+noteName+"|Mitschrift]]\n"
+}
+
 function cbkFmtLastLine(noteName, noteType, noteSetting, tp, app) {
   let lastline="## -footnotes"
   let mocstring = noteSetting.getValue("mocstring")
@@ -391,6 +399,10 @@ let schule_configuration = {
         type:             {__SPEC:false, DEFAULT: cbkNoteType, TYPE: "(String|Function)",},
         prevlink:         {__SPEC:false, DEFAULT: "", TYPE: "(String|Function)",},
         nextlink:         {__SPEC:false, DEFAULT: "", TYPE: "(String|Function)",},
+        scriptline:       {__SPEC:false, DEFAULT: "", TYPE: "(String|Function)",},
+        firstline:        {__SPEC:false, DEFAULT: "", TYPE: "(String|Function)",},
+        sndline:          {__SPEC:false, DEFAULT: "", TYPE: "(String|Function)",},
+        thrdline:         {__SPEC:false, DEFAULT: "", TYPE: "(String|Function)",},
         lastline:         {__SPEC:false, DEFAULT: cbkFmtLastLine, TYPE: "(String|Function)",},
       },
     },
@@ -398,7 +410,7 @@ let schule_configuration = {
       yaml: { },
       show: { },
     },
-    werkstatt: {
+    mitschrift : {
       folders: ["Mitschriften"],
       yaml: {
 //        /* schule_public */  date_created: "",
@@ -415,16 +427,7 @@ let schule_configuration = {
         thrdline:  "## Offen",
       },
     },
-    stutiisgen: {
-      folders: ["XXXstutiis"],
-      yaml: {
-        date_created: "",
-        author: "",
-        cssclasses: "studies",
-        publish: false,
-      },
-    },
-    stutiis: {
+    stutiismitschrift: {
       folders: ["XXXstutiis/Mitschriften"],
       yaml: {
         date_created: "",
@@ -438,30 +441,55 @@ let schule_configuration = {
         thrdline:  "## Offen",
       },
     },
+    stutiis: {
+      folders: ["XXXstutiis"],
+      yaml: {
+        date_created: "",
+        author: "",
+        cssclasses: "studies",
+        publish: false,
+      },
+    },
     material: {
       folders: ["Materialien", ],
+      name_prompt: "Titel_der_Vorlesung_Jahr_Institut_Speaker",
       yaml: {
         ddckey:  {__SPEC:false, VALUE: "", TYPE: "String", },
-        media:   {__SPEC:false, VALUE: "[video]", TYPE: "(String|Array.<String>|Function)",},
+        media:   {__SPEC:false, VALUE: "video", TYPE: "(String|Array.<String>|Function)",},
+      },
+      show: {
+        scriptline: "```dataviewjs\ndv.executeJs(await dv.io.load(\"Materialien/breadcrumbs.js\"));\n```",
+        sndline:     "## []()",
+        thrdline:    "#speaker/  #wird_fortgesetzt\n",
+        fourthline:  cbkMitschrift,
+        fifthline:   "- []()",
       },
     },
     autor: {
       folders: ["Autoren",],
+      name_prompt: "Autornachname",
+      name_end: " Quellen",
       yaml: {
         ddckey:  {__SPEC:false, VALUE: "", TYPE: "String", },
+        tags:    cbkNoteName,
+      },
+      show: {
+        scriptline: "```dataviewjs\ndv.executeJs(await dv.io.load(\"Materialien/breadcrumbs.js\"));\n```\n",
+        firstline: cbkNoteName,
+        sndline:  cbkTimeLine,
       },
     },
     diary:          {
+      folders: ["Diary", ],
       title_date_function:  cbkCalcDateTitle,
       title_date_format: "YYYY-MM-DD",
+      yaml: { publish: false, },
       show: {
         prevlink:  cbkPrevDateLink,
         nextlink:  cbkNextDateLink,
         firstline: cbkNoteName,
         sndline:   "## ",
       },
-      yaml: { publish: false, },
-      folders: ["Diary", ],
     },
   },
 }

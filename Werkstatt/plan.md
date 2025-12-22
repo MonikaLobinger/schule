@@ -19,7 +19,7 @@ author: Ueberphilosophy
 - [ ] In school ein zweites Repository haben - das, was jetzt öffentlich ist, enthält alles und wird privat und ein neues, das nur die Quellen für die Sammlung enthält
 - [ ] Die css Dateien so anpassen, dass man die Farben einfach ändern kann
 - [x] Die Fußnoten in schoolout korrigieren
-- [ ] Alle Anker korrigieren?
 - [x] In den Verzeichnissen die Katalogdateien hervorheben
 - [ ] Folderregeln für Autoren, Materialien, Verzeichnisse und Kataloge erstellen
 - [ ] in schoolout show_hotkeys wie uni_wien nicht veröffentlichen. Alle nicht veröffentlichten Dateien aus dem Dateibaum löschen
+- [x] Autoren alphabetisch untergliedern
