@@ -221,9 +221,22 @@ body {
 /* .folder-overview-list .is-collapsed::before
    .folder-overview-list .nav-file
 */
+
+
 /*******************************************************************************/
 /* CssClasses
 /*******************************************************************************/
+
+/* foldernote ******************************************************************/
+/* internal link: 
+ *    class: internal-link
+ *    data-href: Der angezeigte Text, z.B. "-Genetik", "-Philosophie des 20ten"
+ */
+.foldernote [data-href^="-"] { /* Operator "^=": Der Wert beginnt mit "-" */
+  background: var(--yellow-bg);
+  font-weight: bold;
+  text-decoration: underline overline double yellow;
+}
 
 /* werkstatt *******************************************************************/
 .werkstatt {

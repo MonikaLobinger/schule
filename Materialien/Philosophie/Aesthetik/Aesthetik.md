@@ -1,4 +1,5 @@
 ---
+cssclasses: foldernote
 tags: [MOC]
 ---
 ```dataviewjs
