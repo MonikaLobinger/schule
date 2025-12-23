@@ -42,8 +42,15 @@
                 case "fugger":    fugger     = value; break;
                 default: break;
             }
-        } else { 
-         inYAML.set(key,value); 
+        } else {
+          if(value != "!no!") {
+            inYAML.set(key,value);
+          } else {
+            let idx = knownYAML.indexOf(key);
+            if (idx >= 0) {
+              knownYAML.splice( idx, 1 );
+            }
+          }
         }
     } 
     if(fugger && lastline != "") lastline="am ende "+type+"!";

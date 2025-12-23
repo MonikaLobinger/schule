@@ -20,6 +20,6 @@ author: Ueberphilosophy
 - [ ] Die css Dateien so anpassen, dass man die Farben einfach ändern kann
 - [x] Die Fußnoten in schoolout korrigieren
 - [x] In den Verzeichnissen die Katalogdateien hervorheben
-- [ ] Folderregeln für Autoren, Materialien, Verzeichnisse und Kataloge erstellen
-- [ ] in schoolout show_hotkeys wie uni_wien nicht veröffentlichen. Alle nicht veröffentlichten Dateien aus dem Dateibaum löschen
+- [x] Folderregeln für Autoren, Materialien, Verzeichnisse und Kataloge erstellen
+- [x] in schoolout show_hotkeys wie uni_wien nicht veröffentlichen. Alle nicht veröffentlichten Dateien aus dem Dateibaum löschen
 - [x] Autoren alphabetisch untergliedern
