@@ -413,6 +413,7 @@ function cbkMaterialTags(noteName, noteType, noteSetting, tp, app) {
 }
 function cbkMaterialDdcKey(noteName, noteType, noteSetting, tp, app) {
   if(isMok(noteName, tp)) return "!no!"
+  else if(isCatalog(noteName,noteSetting)) return "!no!"
   else return ""
 }
 function cbkMaterialMedia(noteName, noteType, noteSetting, tp, app) {

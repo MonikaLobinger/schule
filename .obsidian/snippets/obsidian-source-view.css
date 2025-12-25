@@ -42,7 +42,7 @@
     .cm-inline-code { background-color: #f6f6f6 !important; }
     .HyperMD-codeblock { background-color: #f6f6f6 !important; }
     .cm-quote { background-color: #f6fff6 !important; }
-    .cm-comment { color: grey !important; }
+    .cm-comment { opacity: 60%; }
   }
 }
 .theme-dark {
@@ -58,7 +58,7 @@
     .cm-inline-code { background-color: #222 !important; }
     .HyperMD-codeblock { background-color: #222 !important; }
     .cm-quote { background-color: #222 !important; }
-    .cm-comment { color: grey !important; }
+    .cm-comment { opacity: 50%; }
   }
 }
 

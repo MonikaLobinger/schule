@@ -10,9 +10,11 @@ Sammlung von Links zu __Materialien__ zum Lernen (hörbar) __[[-Materialien|als 
 Diese befindet sich als kaum kommentierte Linksammlung im Ordner `Materialen`. Der Ordner `Werkstatt` kann für jeweils eigene Notizen verwendet. Im Ordner `Zusaetze` sind für die Sammlung unwichtige Seiten. Die selbst erstellen Definitionen im Ordner `Zusaetze/Definitionen` sind grob, auf den Themenseiten im Ordner `Zusaetze/Themen` finden sich Links zu bestimmten Themen.
 
  - Klick vor (links neben) Überschriften klappt den Inhalt ein, nochmaliger Klick wieder auf; das zugehörige Symbol wird beim Drüberfahren mit der Maus sichtbar. 
- - Beim  Klick mit der Maus öffnen alle Links, auch externe,  im selben Fenster. `Ctrl`^[`Shift`]-Klick öffnet in einem neuen Tab.
+ - Ganz oben links und rechts kann man die Seitenleisten ein- und ausblenden
+ - Auf der rechten Seitenleiste oben kann man dunkle oder helle Anzeige einstellen.
+ - Beim  Klick mit der Maus öffnen alle Links, auch externe,  im selben Fenster. `Ctrl` (deutsch: `Shift`)-Klick öffnet in einem neuen Tab.
  - Links auf Überschriften funktionieren nur innerhalb der aktuellen Seite ^[Das ist wohl dem Plugin  [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export); doch es exportiert die Seitenleisten mit der Ordnerstruktur und der Dateistruktur ohne Anpassung ohne Probleme, darum behalte ich es bei, hoffend, dass es verbessert wird.], entsprechend zeigen die Hovers auf Überschriften anderer Seiten den Seitenanfang an.    Die exportierte Sammlung verwendet in den Katalogen Links auf Überschriften der DDC Klassen und von den Autorenseiten Links auf Überschriften in die Zeitleiste. Für beide wird der Fehler in den Html-Dateien durch ein Script korrigiert. ^[In der Verlinkung wird an die Überschrift "_0" angehängt, so dass sie funktioniert. Da die Sammlung auch direkt in Obsidian verwendet wird und dort "_0" nicht zum Link gehört, wird das nicht in den Quellen angepasst]
- - Links auf Anker funktionieren grundsätzlich nicht. ^[Auch das wohl dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) geschuldet, denn in Obsidian selbst funktioniert das.]. z.B. [[home#^textformate|Verlinkung zu Anker Textformate auf dieser Seite.]]
+ - Links auf Anker funktionieren in der exportierten Sammlung grundsätzlich nicht. ^[Auch das wohl dem Plugin [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export) geschuldet, denn in Obsidian selbst funktioniert das.]. z.B. [[home#^textformate|Verlinkung zu Anker Textformate auf dieser Seite.]]
  - Entsprechend würde die Verlinkung von Fußnoten nicht funktionieren, da diese über Anker realisiert sind. Für sie wird die Verlinkung allerdings in den Html-Dateien durch ein Script korrigiert. Ein Hover Effekt wird dadurch nicht hergestellt.
 %% Den Dateibaum anpassen
 site-lib/html/file-tree-content.html
@@ -114,8 +116,8 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
   - Files and Links 
     - Attachments nach `allhelperfiles/allresources` , 
   - Appearance
-    -  Theme `Obuntu`, die Orange Farbe zu Grün geändert %%Vorher Willemstad%%
     - Nicht Show Inline Title
+    - CSS-Snippets: Lade adapt.css, obsidian-source-view.css, timeline.css
    - Hotkeys
     - Eigene Shortcuts in `.obsidian/hotkeys.json` ^[hardlinked zu `allhelperfiles/pointobsidian/hotkeys.json`, damit es im Vault gesehen werden kann, dies hat keinen Einfluss auf die Funktionalität].
   - Diary 
@@ -131,7 +133,7 @@ Es wird unterschieden zwischen Lernmaterialen, hauptsächlich Videos und Audios,
        - Backlinks aus
        - RSS aus
 - Editmode angepasst mit eigener Datei `obsidian-source-view.css`. 
-- Export angepasst mit eigener Datei  `obuntu_adapt.css`. 
+- Export angepasst in eigener Datei  `adapt.css`. 
 - dort auch die css Klassen definiert
 - Eigenes Script `foty.js` nach `allhelperfiles/allscripts`, ^Script
 - Eigenes Template `foty_Vorlage.md` nach `allhelperfiles/allvorlagen`. ^Vorlage

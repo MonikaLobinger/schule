@@ -1,0 +1,173 @@
+/* Webpage html export hängt die snippets willkürlich aneinander
+ * - obsidian-source-view.css hat eh keinen Einfluss auf die Lese Ansicht
+ * - timeline passe ich hier an, mit !important, falls nötig
+ * weitere snippet Dateien darf es nicht geben
+ *
+ * Viele obsidian css Variablen sind hier zu finden:
+ * https://docs.obsidian.md/Reference/CSS+variables/CSS+variables
+*/
+
+:root { /* Die 6 Skin Farben */
+  /* prim und ntrl sind gleich */
+  /* concrete */
+  --prim-400: #99A3A4;
+  --prim-950: #404647;
+  /* turquoise */
+  --seco-600: #17A589;
+  --seco-950: #0D5E4E;
+  /* sunflower */
+  --tert-500: #F1C40F;
+  --tert-950: #796208;
+  /* alizarin */
+  --erro-500: #E74C3C;
+  --erro-950: #74261E;
+  /* concrete */
+  --ntrl-400: #99A3A4;
+  --ntrl-950: #404647;
+  /* silver */
+  --vari-500: #BDC3C7;
+  --vari-950: #5F6264;
+}
+
+.theme-light {
+  --clr-seco: var(--seco-950);
+  --clr-tert: var(--tert-950);
+  --clr-erro: var(--erro-950);
+  --clr-ntrl: var(--ntrl-950);
+  --clr-vari: var(--vari-950);
+
+  --clr-seco-gone:     lch(from var(--clr-seco) l c h / 0.2);
+  --clr-seco-muted:    lch(from var(--clr-seco) l c h / 0.5);
+  --clr-seco-faint:    lch(from var(--clr-seco) l c h / 0.8);
+  --clr-seco-pur:      var(--clr-seco);
+  --clr-seco-dark:     lch(from var(--clr-seco) calc(l / 10 * 8) c h );
+  --clr-seco-darker:   lch(from var(--clr-seco) calc(l / 10 * 5) c h );
+  --clr-seco-night:    lch(from var(--clr-seco) calc(l / 10 * 2) c h );
+
+  --clr-tert-gone:     lch(from var(--clr-tert) l c h / 0.2);
+  --clr-tert-muted:    lch(from var(--clr-tert) l c h / 0.5);
+  --clr-tert-faint:    lch(from var(--clr-tert) l c h / 0.8);
+  --clr-tert-pur:      var(--clr-tert);
+  --clr-tert-dark:     lch(from var(--clr-tert) calc(l / 10 * 8) c h );
+  --clr-tert-darker:   lch(from var(--clr-tert) calc(l / 10 * 5) c h );
+  --clr-tert-night:    lch(from var(--clr-tert) calc(l / 10 * 2) c h );
+
+  --clr-erro-gone:     lch(from var(--clr-erro) l c h / 0.2);
+  --clr-erro-muted:    lch(from var(--clr-erro) l c h / 0.5);
+  --clr-erro-faint:    lch(from var(--clr-erro) l c h / 0.8);
+  --clr-erro-pur:      var(--clr-erro);
+  --clr-erro-dark:     lch(from var(--clr-erro) calc(l / 10 * 8) c h );
+  --clr-erro-darker:   lch(from var(--clr-erro) calc(l / 10 * 5) c h );
+  --clr-erro-night:    lch(from var(--clr-erro) calc(l / 10 * 2) c h );
+
+  --clr-ntrl-gone:     lch(from var(--clr-ntrl) l c h / 0.2);
+  --clr-ntrl-muted:    lch(from var(--clr-ntrl) l c h / 0.5);
+  --clr-ntrl-faint:    lch(from var(--clr-ntrl) l c h / 0.8);
+  --clr-ntrl-pur:      var(--clr-ntrl);
+  --clr-ntrl-dark:     lch(from var(--clr-ntrl) calc(l / 10 * 8) c h );
+  --clr-ntrl-darker:   lch(from var(--clr-ntrl) calc(l / 10 * 5) c h );
+  --clr-ntrl-night:    lch(from var(--clr-ntrl) calc(l / 10 * 2) c h );
+
+  --clr-vari-gone:     lch(from var(--clr-vari) l c h / 0.2);
+  --clr-vari-muted:    lch(from var(--clr-vari) l c h / 0.5);
+  --clr-vari-faint:    lch(from var(--clr-vari) l c h / 0.8);
+  --clr-vari-pur:      var(--clr-vari);
+  --clr-vari-dark:     lch(from var(--clr-vari) calc(l / 10 * 8) c h );
+  --clr-vari-darker:   lch(from var(--clr-vari) calc(l / 10 * 5) c h );
+  --clr-vari-night:    lch(from var(--clr-vari) calc(l / 10 * 2) c h );
+}
+.theme-dark {
+  --clr-seco: var(--seco-600);
+  --clr-tert: var(--tert-500);
+  --clr-erro: var(--erro-500);
+  --clr-ntrl: var(--ntrl-400);
+  --clr-vari: var(--vari-500);
+
+  --clr-seco-gone:     lch(from var(--clr-seco) calc(l / 10 * 2) c h );
+  --clr-seco-muted:    lch(from var(--clr-seco) calc(l / 10 * 5) c h );
+  --clr-seco-faint:    lch(from var(--clr-seco) calc(l / 10 * 8) c h );
+  --clr-seco-pur:      var(--clr-seco);
+  --clr-seco-dark:     lch(from var(--clr-seco) l c h / 0.8);
+  --clr-seco-darker:   lch(from var(--clr-seco) l c h / 0.5);
+  --clr-seco-night:    lch(from var(--clr-seco) l c h / 0.2);
+
+  --clr-tert-gone:     lch(from var(--clr-tert) calc(l / 10 * 2) c h );
+  --clr-tert-muted:    lch(from var(--clr-tert) calc(l / 10 * 5) c h );
+  --clr-tert-faint:    lch(from var(--clr-tert) calc(l / 10 * 8) c h );
+  --clr-tert-pur:      var(--clr-tert);
+  --clr-tert-dark:     lch(from var(--clr-tert) l c h / 0.8);
+  --clr-tert-darker:   lch(from var(--clr-tert) l c h / 0.5);
+  --clr-tert-night:    lch(from var(--clr-tert) l c h / 0.2);
+
+  --clr-erro-gone:     lch(from var(--clr-erro) calc(l / 10 * 2) c h );
+  --clr-erro-muted:    lch(from var(--clr-erro) calc(l / 10 * 5) c h );
+  --clr-erro-faint:    lch(from var(--clr-erro) calc(l / 10 * 8) c h );
+  --clr-erro-pur:      var(--clr-erro);
+  --clr-erro-dark:     lch(from var(--clr-erro) l c h / 0.8);
+  --clr-erro-darker:   lch(from var(--clr-erro) l c h / 0.5);
+  --clr-erro-night:    lch(from var(--clr-erro) l c h / 0.2);
+
+  --clr-ntrl-gone:     lch(from var(--clr-ntrl) calc(l / 10 * 2) c h );
+  --clr-ntrl-muted:    lch(from var(--clr-ntrl) calc(l / 10 * 5) c h );
+  --clr-ntrl-faint:    lch(from var(--clr-ntrl) calc(l / 10 * 8) c h );
+  --clr-ntrl-pur:      var(--clr-ntrl);
+  --clr-ntrl-dark:     lch(from var(--clr-ntrl) l c h / 0.8);
+  --clr-ntrl-darker:   lch(from var(--clr-ntrl) l c h / 0.5);
+  --clr-ntrl-night:    lch(from var(--clr-ntrl) l c h / 0.2);
+
+  --clr-vari-gone:     lch(from var(--clr-vari) calc(l / 10 * 2) c h );
+  --clr-vari-muted:    lch(from var(--clr-vari) calc(l / 10 * 5) c h );
+  --clr-vari-faint:    lch(from var(--clr-vari) calc(l / 10 * 8) c h );
+  --clr-vari-pur:      var(--clr-vari);
+  --clr-vari-dark:     lch(from var(--clr-vari) l c h / 0.8);
+  --clr-vari-darker:   lch(from var(--clr-vari) l c h / 0.5);
+  --clr-vari-night:    lch(from var(--clr-vari) l c h / 0.2);
+}
+body, body * {
+  --clr-seco020: lch(from var(--clr-seco) l c h / 0.2);
+  --clr-seco050: lch(from var(--clr-seco) l c h / 0.5);
+  --clr-seco080: lch(from var(--clr-seco) l c h / 0.8);
+  --clr-seco100: lch(from var(--clr-seco) l c h );
+  --clr-seco120: lch(from var(--clr-seco) calc(l / 10 * 8) c h );
+  --clr-seco150: lch(from var(--clr-seco) calc(l / 10 * 5) c h );
+  --clr-seco180: lch(from var(--clr-seco) calc(l / 10 * 2) c h );
+}
+.obsiclasses {
+  --background-primary /* Primary background */
+  --background-primary-alt /* Background for surfaces on top of primary background */
+  --background-secondary /* Secondary background */
+  --background-secondary-alt /* Background for surfaces on top of secondary background */
+  --background-modifier-hover /* Hovered elements */
+  --background-modifier-active-hover /* Active hovered elements */
+  --background-modifier-border /* Border color */
+  --background-modifier-border-hover /* Border color (hover) */
+  --background-modifier-border-focus /* Border color (focus) */
+  --background-modifier-error-rgb /* Error background, RGB value */
+  --background-modifier-error /* Error background */
+  --background-modifier-error-hover /* Error background (hover) */
+  --background-modifier-success-rgb /* Success background, RGB value */
+  --background-modifier-success /* Success background */
+  --background-modifier-message /* Messages background */
+  --background-modifier-form-field /* Form field background */
+  --interactive-normal /* Background for standard interactive elements */
+  --interactive-hover /* Background for standard interactive elements (hover) */
+  --interactive-accent /* Background for accented interactive elements */
+  --interactive-accent-hsl /* Background for accented interactive elements in HSL */
+  --interactive-accent-hover /* Background for accented interactive elements (hover) */
+  --text-normal /* Normal text */
+  --text-muted /* Muted text */
+  --text-faint /* Faint text */
+  --text-on-accent /* Text on accent background when accent is dark */
+  --text-on-accent-inverted /* Text on accent background when accent is light */
+  --text-success /* Success text */
+  --text-warning /* Warning text */
+  --text-error /* Error text */
+  --text-accent /* Accent text */
+  --text-accent-hover /* Accent text (hover) */
+  --text-selection /* Selected text background */
+  --text-highlight-bg /* Highlighted text background */
+  --caret-color /* Defines the color of the caret, the blinking text entry cursor */
+}
+.theme-dark, .theme-light {
+}
+

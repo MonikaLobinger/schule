@@ -3,7 +3,6 @@ cssclasses: catalog
 date_created: 2025-12-03
 publish: true
 tags: []
-ddckey: Gesch
 author: Ueberphilosophy
 ---
 ```dataviewjs

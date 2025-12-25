@@ -3,7 +3,6 @@ cssclasses: catalog
 date_created: 2025-12-17
 publish: true
 tags: []
-ddckey: 
 author: Ueberphilosophy
 ---
 ```dataviewjs

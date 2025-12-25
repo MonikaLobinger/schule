@@ -18,6 +18,7 @@ author: Ueberphilosophy
 - [ ] Nach dem Export von public in school funktionieren nach dem Umstellen auf Privat in schoolout die Links auf diejenigen Mitschriften nicht, die ich in Privat noch nicht ins Mitschriften Verzeichnis kopiert habe
 - [ ] In school ein zweites Repository haben - das, was jetzt öffentlich ist, enthält alles und wird privat und ein neues, das nur die Quellen für die Sammlung enthält
 - [ ] Die css Dateien so anpassen, dass man die Farben einfach ändern kann
+- [ ] Überprüfe ob nach dem nächsten sauberen Export die *.js Dateien in Materialien immer noch im Dateiexplorer auftauchen, und wenn ja lösche sie mit dem Script aus dem Dateibaum.
 - [x] Die Fußnoten in schoolout korrigieren
 - [x] In den Verzeichnissen die Katalogdateien hervorheben
 - [x] Folderregeln für Autoren, Materialien, Verzeichnisse und Kataloge erstellen
